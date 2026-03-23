@@ -1,0 +1,498 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coletor</title>
+
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: #f2f2f2;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: first baseline;
+        height: 100vh;
+        margin: 0;
+        margin-top: 50px;
+      }
+
+      div {
+        display: flex;
+        gap: 10px;
+      }
+
+      span {
+        color: rgb(245, 223, 28);
+      }
+
+      h2 {
+        margin-bottom: 40px;
+      }
+
+      button {
+        background: rgb(250, 228, 34);
+        color: rgb(0, 0, 0);
+        border: none;
+        padding: 12px 25px;
+        margin: 10px;
+        font-size: 16px;
+        border-radius: 6px;
+        cursor: pointer;
+        min-width: 140px;
+      }
+
+      button:hover {
+        background: rgb(209, 188, 0);
+      }
+
+      p,
+      label {
+        font-size: 18px;
+        margin: 5px 0;
+      }
+
+      input {
+        min-width: 230px;
+        padding: 8px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin: 5px;
+      }
+
+      select {
+        min-width: 250px;
+        padding: 8px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin: 5px;
+      }
+
+      select:invalid {
+        color: gray;
+      }
+
+      #dadosCSV {
+        list-style-type: none;
+        padding: 10px;
+        width: 90%;
+        max-width: 600px;
+        background: white;
+        border-radius: 5px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        margin-top: 10px;
+        max-height: 300px;
+        overflow-y: auto;
+        overflow-x: hidden;
+      }
+
+      #dadosCSV li {
+        padding: 8px;
+        border-bottom: 1px solid #ddd;
+        word-wrap: break-word;
+        overflow-wrap: break-word;
+      }
+
+      #dadosCSV li:last-child {
+        border-bottom: none;
+      }
+
+      /* Dark mode*/
+
+      #btnTema {
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        padding: 15px 15px;
+        border-radius: 50%;
+        font-size: 18px;
+        background: rgb(245, 223, 28);
+        border: none;
+        cursor: pointer;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        min-width: 0px;
+      }
+
+      body.dark {
+        background: #1e1e1e;
+        color: #e8e8e8;
+      }
+
+      body.dark #dadosCSV {
+        background: #2b2b2b;
+        color: #e8e8e8;
+      }
+
+      body.dark input {
+        background: #2b2b2b;
+        color: white;
+        border: 1px solid #555;
+      }
+
+      body.dark select {
+        background: #2b2b2b;
+        color: white;
+        border: 1px solid #555;
+      }
+
+      body.dark button {
+        background: rgb(245, 223, 28);
+        color: black;
+      }
+
+      body.dark button:hover {
+        background: rgb(209, 188, 0);
+      }
+    </style>
+  </head>
+  <button id="btnTema">🌙</button>
+  <body>
+    <h2>
+      <b>ESP32 - <span>Fingerprinting</span></b>
+    </h2>
+
+    <!-- Conexão com a ESP32 -->
+    <div>
+      <button id="btnConectar">Conectar</button>
+      <button id="btnModo">Coleta</button>
+    </div>
+    <p id="status">Status: Desconectado</p>
+
+    <!-- Numero da Coleta -->
+    <label for="num">Num: </label>
+    <input type="number" id="num" value="0" /><br />
+
+    <!-- Local da Coleta <input type="text" id="local" name="local" /><br /> -->
+    <label for="local">Escolha o local:</label><br />
+
+    <select id="local" name="local" required>
+      <option value="" disabled selected hidden>Selecione um local</option>
+      <option value="Auditório de Eng. Elétrica">Auditório de Eng. Elétrica</option>
+      <option value="Coordenação de Eng. Elétrica">Coordenação de Eng. Elétrica</option>
+      <option value="Coordenação de pós em Eng. Elétrica">Coordenação de pós em Eng. Elétrica</option>
+      <option value="Coordenação de química">Coordenação de química</option>
+      <option value="Lab. Informática 09">Lab. Informática 09</option>
+      <option value="Lab. de Instrumentação biomédica">Lab. de Instrumentação biomédica</option>
+      <option value="Lab. de aferição e calibração">Lab. de aferição e calibração</option>
+      <option value="Lab. de biologia">Lab. de biologia</option>
+      <option value="Lab. de fibras ópticas">Lab. de fibras ópticas</option>
+      <option value="Lab. de física">Lab. de física</option>
+      <option value="Lab. de matemática">Lab. de matemática</option>
+      <option value="Lab. de medições em telecomunicações">Lab. de medições em telecomunicações</option>
+      <option value="Lab. de microscopia">Lab. de microscopia</option>
+      <option value="Lab. de redes convergentes">Lab. de redes convergentes</option>
+      <option value="Lab. de telecomunicações">Lab. de telecomunicações</option>
+      <option value="Lab. química 01">Lab. química 01</option>
+      <option value="Lab. química 02">Lab. química 02</option>
+      <option value="Lab. química 03">Lab. química 03</option>
+      <option value="Núcleo de pesquisa">Núcleo de pesquisa</option>
+      <option value="PET Eng. Elétrica">PET Eng. Elétrica</option>
+      <option value="Pesquisa em Eng. Elétrica">Pesquisa em Eng. Elétrica</option>
+      <option value="Práticas didáticas">Práticas didáticas</option>
+      <option value="Sala dos professores">Sala dos professores</option>
+      <option value="Sala dos técnicos">Sala dos técnicos</option>
+    </select><br/>
+
+    <!-- Repetições -->
+    <label for="repeticoes">Repetições: </label>
+    <input type="number" id="repeticoes" value="1" min="1" /><br />
+
+    <p id="pronto">Esperando</p>
+    <br />
+
+    <div>
+      <button id="baixarCSV">Baixar Dados</button>
+      <button id="btnEnviar">Enviar</button><br />
+    </div>
+
+    <ol id="dadosCSV"></ol>
+
+    <script>
+      const SERVICE_UUID = "19b10000-e8f2-537e-4f6c-d104768a1213";
+      const RX_UUID = "19b10000-e8f2-537e-4f6c-d104768a1214";
+      const TX_UUID = "19b10000-e8f2-537e-4f6c-d104768a1215";
+
+      const BLE_WHITELIST = ["ESP32-Detector"];
+
+      let device;
+      let server;
+      let enviarDados;
+      let receberDados;
+
+      let coletaEmAndamento = false;
+      let repeticoesRestantes = 0;
+      let modo = "coleta"; // coleta | verificacao
+
+      const btnConectar = document.getElementById("btnConectar");
+      const statusText = document.getElementById("status");
+      const inputNum = document.getElementById("num");
+      const inputLocal = document.getElementById("local");
+      const inputRepeticoes = document.getElementById("repeticoes");
+      const btnEnviar = document.getElementById("btnEnviar");
+      const prontoText = document.getElementById("pronto");
+      const btnBaixar = document.getElementById("baixarCSV");
+      const dadosCSV = document.getElementById("dadosCSV");
+      const btnModo = document.getElementById("btnModo");
+      const btnTema = document.getElementById("btnTema");
+
+      let redesCSV =
+        "data:text/csv;charset=utf-8,\uFEFF" +
+        "data,hora,num,local,ssid,bssid,rssi,canal\n";
+      let verificacaoCSV =
+        "data:text/csv;charset=utf-8,\uFEFF" + "data,hora,num,local,predição\n";
+      let numincremento = parseInt(inputNum.value);
+
+      // gera timestamp
+      function gerarTimestamp() {
+        const d = new Date();
+        const data = d.toLocaleDateString("pt-BR");
+        const hora = d.toLocaleTimeString("pt-BR");
+        return data + "," + hora;
+      }
+
+      // conexão BLE
+      btnConectar.addEventListener("click", async () => {
+        try {
+          // se já estiver conectado → desconectar
+          if (device && device.gatt.connected) {
+            device.gatt.disconnect();
+            return;
+          }
+
+          // conectar
+          device = await navigator.bluetooth.requestDevice({
+            acceptAllDevices: true,
+            optionalServices: [SERVICE_UUID],
+          });
+
+          device.addEventListener("gattserverdisconnected", onDisconnected);
+
+          server = await device.gatt.connect();
+
+          const service = await server.getPrimaryService(SERVICE_UUID);
+
+          enviarDados = await service.getCharacteristic(TX_UUID);
+          receberDados = await service.getCharacteristic(RX_UUID);
+
+          await receberDados.startNotifications();
+
+          receberDados.addEventListener(
+            "characteristicvaluechanged",
+            valorAlterado,
+          );
+
+          statusText.textContent = "Status: Conectado";
+          btnConectar.textContent = "Desconectar";
+
+          btnEnviar.disabled = false;
+        } catch (error) {
+          console.error(error);
+          alert("Erro BLE: " + error);
+        }
+      });
+
+      // Altera o modo
+      btnModo.addEventListener("click", () => {
+        if (modo === "coleta") {
+          modo = "verificacao";
+          btnModo.textContent = "Verificação";
+        } else {
+          modo = "coleta";
+          btnModo.textContent = "Coleta";
+        }
+      });
+
+      // botão enviar
+      btnEnviar.addEventListener("click", async () => {
+        if (coletaEmAndamento) return;
+
+        repeticoesRestantes = parseInt(inputRepeticoes.value) || 1;
+        console.log("Total de repetições:", repeticoesRestantes);
+
+        coletaEmAndamento = true;
+        btnEnviar.disabled = true;
+        iniciarEnvio();
+      });
+
+      // ========== inicia coleta / verificação ==========
+      async function iniciarEnvio() {
+        if (repeticoesRestantes <= 0) {
+          coletaEmAndamento = false;
+          btnEnviar.disabled = false;
+
+          if (modo === "coleta") {
+            console.log("Todas coletas finalizadas");
+          } else {
+            console.log("Todas verificações finalizadas");
+          }
+
+          return;
+        }
+
+        numincremento = parseInt(inputNum.value) + 1;
+        inputNum.value = numincremento;
+
+        if (modo === "coleta") {
+          console.log("Iniciando coleta", numincremento);
+        } else {
+          console.log("Iniciando verificação", numincremento);
+        }
+
+        try {
+          await enviarDados.writeValue(Uint8Array.of(1));
+        } catch (error) {
+          console.error("Erro writeValue", error);
+        }
+      }
+
+      // recebe dados da ESP32
+      function valorAlterado(event) {
+        const value = event.target.value;
+        const string = new TextDecoder().decode(value);
+
+        console.log("Recebido:", string);
+
+        // fim da transmissão
+        if (string === "END") {
+          repeticoesRestantes--;
+          prontoText.textContent =
+            "Num = " + numincremento + " | Restam: " + repeticoesRestantes;
+          setTimeout(() => {
+            iniciarEnvio();
+          }, 600);
+          return;
+        }
+
+        // modo coleta
+        if (modo === "coleta") {
+          let linhas = string.split("\n");
+
+          for (let linha of linhas) {
+            if (!linha) continue;
+
+            let dados = linha.split(",");
+
+            if (dados.length >= 4) {
+              adicionarRedeCSV(dados[0], dados[1], dados[2], dados[3]);
+            }
+          }
+        }
+
+        // modo verificação
+        else if (modo === "verificacao") {
+          const ambiente = string.trim();
+
+          if (ambiente && ambiente !== "END") {
+            adicionarAmbienteCSV(ambiente);
+          }
+        }
+
+        /*let linhas = string.split("\n");
+        for (let linha of linhas) {
+          if (!linha) continue;
+
+          let dados = linha.split(",");
+
+          if (dados.length >= 4) {
+            const ssid = dados[0];
+            const bssid = dados[1];
+            const rssi = dados[2];
+            const canal = dados[3];
+
+            adicionarRedeCSV(ssid, bssid, rssi, canal);
+          }
+        }*/
+      }
+
+      function adicionarRedeCSV(ssid, bssid, rssi, canal) {
+        const local = inputLocal.value;
+
+        const timestamp = gerarTimestamp();
+
+        let linha =
+          timestamp +
+          "," +
+          numincremento +
+          "," +
+          local +
+          "," +
+          ssid +
+          "," +
+          bssid +
+          "," +
+          rssi +
+          "," +
+          canal +
+          "\n";
+
+        // adiciona ao CSV
+        redesCSV += linha;
+
+        // adiciona na lista visual
+        const item = document.createElement("li");
+        item.textContent = `${numincremento} | ${local} | ${ssid} | ${bssid} | RSSI ${rssi} | CH ${canal}`;
+        dadosCSV.appendChild(item);
+      }
+
+      function adicionarAmbienteCSV(ambiente) {
+        const local = inputLocal.value;
+        const timestamp = gerarTimestamp();
+
+        // salva no CSV
+        let linha =
+          timestamp + "," + numincremento + "," + local + "," + ambiente + "\n";
+
+        verificacaoCSV += linha;
+
+        // mostra na interface
+        const item = document.createElement("li");
+
+        item.textContent = numincremento + " | " + local + " | " + ambiente;
+
+        dadosCSV.appendChild(item);
+      }
+
+      // desconexão
+      function onDisconnected() {
+        statusText.textContent = "Status: Desconectado";
+        btnConectar.textContent = "Conectar";
+        btnEnviar.disabled = true;
+        server = null;
+        enviarDados = null;
+        receberDados = null;
+      }
+
+      // baixar CSV
+      btnBaixar.addEventListener("click", () => {
+        const csvData = modo === "coleta" ? redesCSV : verificacaoCSV;
+        const fileName =
+          modo === "coleta" ? "redesCSV.csv" : "verificacaoCSV.csv";
+
+        const link = document.createElement("a");
+
+        link.href = encodeURI(csvData);
+        link.download = fileName;
+
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+
+        //btnBaixar.style.backgroundColor = "green";
+      });
+
+      // Dark Mode
+      btnTema.addEventListener("click", () => {
+        document.body.classList.toggle("dark");
+
+        if (document.body.classList.contains("dark")) {
+          btnTema.textContent = "☀️";
+        } else {
+          btnTema.textContent = "🌙";
+        }
+      });
+    </script>
+  </body>
+</html>
