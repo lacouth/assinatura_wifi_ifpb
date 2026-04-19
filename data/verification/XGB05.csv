@@ -1,0 +1,241 @@
+data,hora,num,local,predição,modelo
+27/03/2026,12:33:56,1,Lab. Informática 09,Sala dos técnicos,XGB05
+27/03/2026,12:34:06,2,Lab. Informática 09,Sala dos técnicos,XGB05
+27/03/2026,12:34:15,3,Lab. Informática 09,Lab. Informática 09,XGB05
+27/03/2026,12:34:25,4,Lab. Informática 09,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:34:35,5,Lab. Informática 09,Sala dos técnicos,XGB05
+27/03/2026,12:34:45,6,Lab. Informática 09,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:34:55,7,Lab. Informática 09,Sala dos técnicos,XGB05
+27/03/2026,12:35:05,8,Lab. Informática 09,Lab. Informática 09,XGB05
+27/03/2026,12:35:14,9,Lab. Informática 09,Sala dos técnicos,XGB05
+27/03/2026,12:35:24,10,Lab. Informática 09,Sala dos técnicos,XGB05
+27/03/2026,12:35:47,11,Sala dos técnicos,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:35:57,12,Sala dos técnicos,PET Eng. Elétrica,XGB05
+27/03/2026,12:36:07,13,Sala dos técnicos,PET Eng. Elétrica,XGB05
+27/03/2026,12:36:17,14,Sala dos técnicos,PET Eng. Elétrica,XGB05
+27/03/2026,12:36:26,15,Sala dos técnicos,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:36:36,16,Sala dos técnicos,Lab. de telecomunicações,XGB05
+27/03/2026,12:36:46,17,Sala dos técnicos,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:36:56,18,Sala dos técnicos,PET Eng. Elétrica,XGB05
+27/03/2026,12:37:06,19,Sala dos técnicos,PET Eng. Elétrica,XGB05
+27/03/2026,12:37:16,20,Sala dos técnicos,PET Eng. Elétrica,XGB05
+27/03/2026,12:37:44,21,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:37:54,22,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:38:04,23,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:38:14,24,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:38:24,25,Lab. de telecomunicações,Sala dos técnicos,XGB05
+27/03/2026,12:38:33,26,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:38:43,27,Lab. de telecomunicações,Sala dos técnicos,XGB05
+27/03/2026,12:38:53,28,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:39:03,29,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:39:13,30,Lab. de telecomunicações,Lab. de telecomunicações,XGB05
+27/03/2026,12:40:12,31,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:40:22,32,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:40:32,33,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:40:42,34,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:40:52,35,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:41:01,36,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:41:11,37,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:41:21,38,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:41:31,39,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:41:41,40,PET Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:42:04,41,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:42:14,42,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:42:24,43,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:42:33,44,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:42:43,45,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:42:53,46,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:43:03,47,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:43:13,48,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:43:23,49,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:43:32,50,Coordenação de Eng. Elétrica,PET Eng. Elétrica,XGB05
+27/03/2026,12:44:13,51,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:44:23,52,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:44:33,53,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:44:43,54,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:44:52,55,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:45:02,56,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:45:12,57,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:45:22,58,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:45:32,59,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:45:42,60,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:46:04,61,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:46:14,62,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:46:24,63,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:46:34,64,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:46:44,65,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:46:54,66,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:47:03,67,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:47:13,68,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:47:23,69,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:47:33,70,Lab. de Instrumentação biomédica,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:47:58,71,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:48:08,72,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:48:18,73,Lab. de aferição e calibração,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:48:28,74,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:48:38,75,Lab. de aferição e calibração,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:48:47,76,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:48:57,77,Lab. de aferição e calibração,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:49:07,78,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:49:17,79,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:49:27,80,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:49:49,81,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:49:59,82,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:50:09,83,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:50:19,84,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:50:29,85,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:50:39,86,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,XGB05
+27/03/2026,12:50:48,87,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:50:58,88,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:51:08,89,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:51:18,90,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica,XGB05
+27/03/2026,12:51:58,91,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:52:08,92,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:52:18,93,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:52:27,94,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:52:37,95,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:52:47,96,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:52:57,97,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:53:07,98,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:53:16,99,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:53:26,100,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:53:52,101,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:54:02,102,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:54:11,103,Lab. de redes convergentes,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:54:21,104,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:54:31,105,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:54:41,106,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:54:51,107,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:55:00,108,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:55:10,109,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:55:20,110,Lab. de redes convergentes,Lab. de redes convergentes,XGB05
+27/03/2026,12:55:45,111,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:55:55,112,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:56:05,113,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:56:15,114,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:56:25,115,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:56:35,116,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:56:44,117,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:56:54,118,Lab. de fibras ópticas,Lab. de fibras ópticas,XGB05
+27/03/2026,12:57:04,119,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:57:14,120,Lab. de fibras ópticas,Lab. de redes convergentes,XGB05
+27/03/2026,12:57:36,121,PET Eng. Elétrica,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:57:45,122,PET Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:57:55,123,PET Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:58:05,124,PET Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:58:15,125,PET Eng. Elétrica,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:58:25,126,PET Eng. Elétrica,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:58:34,127,PET Eng. Elétrica,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:58:44,128,PET Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:58:54,129,PET Eng. Elétrica,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:59:04,130,PET Eng. Elétrica,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,12:59:24,131,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:59:34,132,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:59:44,133,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,12:59:54,134,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,13:00:04,135,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,13:00:14,136,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,13:00:23,137,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,13:00:33,138,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,13:00:43,139,Práticas didáticas,Pesquisa em Eng. Elétrica,XGB05
+27/03/2026,13:00:53,140,Práticas didáticas,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,13:01:41,141,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:01:51,142,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:02:01,143,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:02:11,144,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:02:20,145,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:02:30,146,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:02:40,147,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:02:50,148,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:03:00,149,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:03:09,150,Sala dos professores,Sala dos professores,XGB05
+27/03/2026,13:04:13,151,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:04:22,152,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:04:32,153,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:04:42,154,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:04:52,155,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:05:02,156,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:05:11,157,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:05:21,158,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:05:31,159,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:05:41,160,Coordenação de química,Coordenação de química,XGB05
+27/03/2026,13:06:36,161,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:06:46,162,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:06:55,163,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:07:05,164,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:07:15,165,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:07:25,166,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:07:35,167,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:07:44,168,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:07:54,169,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:08:04,170,Núcleo de pesquisa,Núcleo de pesquisa,XGB05
+27/03/2026,13:08:32,171,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:08:41,172,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:08:51,173,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:09:01,174,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:09:11,175,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:09:21,176,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:09:30,177,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:09:40,178,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:09:50,179,Lab. de física,Lab. de física,XGB05
+27/03/2026,13:10:00,180,Lab. de física,Lab. de biologia,XGB05
+27/03/2026,13:10:19,181,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:10:28,182,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:10:38,183,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:10:48,184,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:10:58,185,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:11:08,186,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:11:18,187,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:11:27,188,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:11:37,189,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:11:47,190,Lab. de biologia,Lab. de física,XGB05
+27/03/2026,13:12:27,191,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:12:36,192,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:12:46,193,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:12:56,194,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:13:06,195,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:13:16,196,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:13:25,197,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:13:35,198,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:13:45,199,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:13:55,200,Lab. química 03,Lab. química 03,XGB05
+27/03/2026,13:14:15,201,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:14:25,202,Lab. química 02,Coordenação de pós em Eng. Elétrica,XGB05
+27/03/2026,13:14:35,203,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:14:45,204,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:14:54,205,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:15:04,206,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:15:14,207,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:15:24,208,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:15:34,209,Lab. química 02,Lab. química 01,XGB05
+27/03/2026,13:15:43,210,Lab. química 02,Lab. química 02,XGB05
+27/03/2026,13:16:03,211,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:16:13,212,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:16:23,213,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:16:33,214,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:16:43,215,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:16:52,216,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:17:02,217,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:17:12,218,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:17:22,219,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:17:31,220,Lab. química 01,Lab. química 02,XGB05
+27/03/2026,13:17:56,221,Lab. de microscopia,Lab. de matemática,XGB05
+27/03/2026,13:18:06,222,Lab. de microscopia,Lab. de microscopia,XGB05
+27/03/2026,13:18:16,223,Lab. de microscopia,Lab. de matemática,XGB05
+27/03/2026,13:18:26,224,Lab. de microscopia,Lab. de matemática,XGB05
+27/03/2026,13:18:36,225,Lab. de microscopia,Lab. de microscopia,XGB05
+27/03/2026,13:18:45,226,Lab. de microscopia,Lab. de microscopia,XGB05
+27/03/2026,13:18:55,227,Lab. de microscopia,Lab. de microscopia,XGB05
+27/03/2026,13:19:05,228,Lab. de microscopia,Lab. de microscopia,XGB05
+27/03/2026,13:19:15,229,Lab. de microscopia,Lab. de matemática,XGB05
+27/03/2026,13:19:25,230,Lab. de microscopia,Lab. de matemática,XGB05
+27/03/2026,13:19:44,231,Lab. de matemática,Lab. de matemática,XGB05
+27/03/2026,13:19:54,232,Lab. de matemática,Lab. de microscopia,XGB05
+27/03/2026,13:20:04,233,Lab. de matemática,Coordenação de química,XGB05
+27/03/2026,13:20:14,234,Lab. de matemática,Lab. de microscopia,XGB05
+27/03/2026,13:20:24,235,Lab. de matemática,Núcleo de pesquisa,XGB05
+27/03/2026,13:20:33,236,Lab. de matemática,Coordenação de química,XGB05
+27/03/2026,13:20:43,237,Lab. de matemática,Coordenação de química,XGB05
+27/03/2026,13:20:53,238,Lab. de matemática,Lab. de matemática,XGB05
+27/03/2026,13:21:03,239,Lab. de matemática,Lab. de matemática,XGB05
+27/03/2026,13:21:13,240,Lab. de matemática,Coordenação de química,XGB05

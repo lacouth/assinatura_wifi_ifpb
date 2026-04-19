@@ -1,0 +1,43 @@
+﻿data,hora,num,local,predição
+24/03/2026,16:14:54,1,Lab. Informática 09,Sala dos técnicos
+24/03/2026,16:15:04,2,Lab. Informática 09,Lab. de redes convergentes
+24/03/2026,16:15:13,3,Lab. Informática 09,Lab. Informática 09
+24/03/2026,16:15:34,4,Sala dos técnicos,Lab. de redes convergentes
+24/03/2026,16:15:44,5,Sala dos técnicos,Sala dos técnicos
+24/03/2026,16:15:54,6,Sala dos técnicos,Sala dos técnicos
+24/03/2026,16:16:16,7,PET Eng. Elétrica,PET Eng. Elétrica
+24/03/2026,16:16:26,8,PET Eng. Elétrica,PET Eng. Elétrica
+24/03/2026,16:16:36,9,PET Eng. Elétrica,PET Eng. Elétrica
+24/03/2026,16:17:04,10,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+24/03/2026,16:17:13,11,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+24/03/2026,16:17:23,12,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+24/03/2026,16:18:04,13,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+24/03/2026,16:18:14,14,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+24/03/2026,16:18:23,15,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+24/03/2026,16:18:46,16,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+24/03/2026,16:18:55,17,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+24/03/2026,16:19:05,18,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+24/03/2026,16:19:28,19,Lab. de aferição e calibração,Lab. de medições em telecomunições
+24/03/2026,16:19:37,20,Lab. de aferição e calibração,Lab. de medições em telecomunições
+24/03/2026,16:19:47,21,Lab. de aferição e calibração,Lab. de Instrumentação biomédica
+24/03/2026,16:20:07,22,Lab. de medições em telecomunicações,Lab. de medições em telecomunições
+24/03/2026,16:20:17,23,Lab. de medições em telecomunicações,Lab. de medições em telecomunições
+24/03/2026,16:20:27,24,Lab. de medições em telecomunicações,Lab. de redes convergentes
+24/03/2026,16:21:06,25,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+24/03/2026,16:21:16,26,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+24/03/2026,16:21:26,27,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+24/03/2026,16:21:55,28,Lab. de redes convergentes,Lab. de redes convergentes
+24/03/2026,16:22:05,29,Lab. de redes convergentes,Lab. de redes convergentes
+24/03/2026,16:22:14,30,Lab. de redes convergentes,Lab. de redes convergentes
+24/03/2026,16:22:38,31,Lab. de fibras ópticas,Lab. de redes convergentes
+24/03/2026,16:22:47,32,Lab. de fibras ópticas,Lab. de fibras ópticas
+24/03/2026,16:22:57,33,Lab. de fibras ópticas,Lab. de fibras ópticas
+24/03/2026,16:23:19,34,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+24/03/2026,16:23:29,35,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+24/03/2026,16:23:39,36,Pesquisa em Eng. Elétrica,Práticas didáticas
+24/03/2026,16:24:01,37,Práticas didáticas,Pesquisa em Eng. Elétrica
+24/03/2026,16:24:11,38,Práticas didáticas,Coordenação de pós em Eng. Elétrica
+24/03/2026,16:24:20,39,Práticas didáticas,Pesquisa em Eng. Elétrica
+24/03/2026,16:25:06,40,Sala dos professores,Sala dos professores
+24/03/2026,16:25:16,41,Sala dos professores,PET Eng. Elétrica
+24/03/2026,16:25:25,42,Sala dos professores,PET Eng. Elétrica

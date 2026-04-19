@@ -1,0 +1,1531 @@
+﻿data,hora,num,local,ssid,bssid,rssi,canal
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB TCC,D8:5D:4C:86:7E:66,-53,6
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-59,5
+27/03/2026,17:06:45,1,Lab. Informática 09,APTelefonia,58:10:8C:91:F3:AA,-62,1
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:7F:22,-63,11
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB,84:F1:47:54:7F:20,-64,11
+27/03/2026,17:06:45,1,Lab. Informática 09,Intelbras,18:0D:2C:7F:EB:AC,-69,7
+27/03/2026,17:06:45,1,Lab. Informática 09,TP-Link_1324,7C:F1:7E:8D:13:22,-69,10
+27/03/2026,17:06:45,1,Lab. Informática 09,GPDS,00:26:5A:66:55:EF,-80,6
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-81,5
+27/03/2026,17:06:45,1,Lab. Informática 09,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-82,3
+27/03/2026,17:06:45,1,Lab. Informática 09,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-82,11
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:06:45,1,Lab. Informática 09,UA2-MiniLab,60:32:B1:2D:66:C3,-83,10
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB,E4:4E:2D:85:4C:60,-83,11
+27/03/2026,17:06:45,1,Lab. Informática 09,DispACR,1E:D6:C7:F9:37:2F,-83,11
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:FD:C2,-84,1
+27/03/2026,17:06:45,1,Lab. Informática 09,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-84,10
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:96:E2,-85,1
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB,84:F1:47:54:FD:C0,-86,1
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-VISITANTE,B8:11:4B:1D:1E:42,-86,6
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB,B8:11:4B:1D:1E:40,-86,6
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB,84:F1:47:54:96:E0,-87,1
+27/03/2026,17:06:45,1,Lab. Informática 09,Lab Redes Convergentes,64:70:02:99:FE:F4,-89,1
+27/03/2026,17:06:45,1,Lab. Informática 09,IFPB-Sala_13,E8:94:F6:B9:2F:46,-90,4
+27/03/2026,17:06:45,1,Lab. Informática 09,LIMPEZA,54:E6:FC:CF:22:DE,-91,6
+27/03/2026,17:06:46,1,Lab. Informática 09,Sala dos técnicos,Lab. Informática 09,Lab. Informática 09,0
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB TCC,D8:5D:4C:86:7E:66,-52,6
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-57,5
+27/03/2026,17:06:55,2,Lab. Informática 09,APTelefonia,58:10:8C:91:F3:AA,-60,1
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB,84:F1:47:54:7F:20,-63,11
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:7F:22,-63,11
+27/03/2026,17:06:55,2,Lab. Informática 09,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:06:55,2,Lab. Informática 09,TP-Link_1324,7C:F1:7E:8D:13:22,-72,10
+27/03/2026,17:06:55,2,Lab. Informática 09,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-75,3
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-82,5
+27/03/2026,17:06:55,2,Lab. Informática 09,UA2-MiniLab,60:32:B1:2D:66:C3,-83,10
+27/03/2026,17:06:55,2,Lab. Informática 09,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-83,10
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB,E4:4E:2D:85:4C:60,-83,11
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB-VISITANTE,B8:11:4B:1D:1E:42,-84,6
+27/03/2026,17:06:55,2,Lab. Informática 09,GPDS,00:26:5A:66:55:EF,-84,6
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-84,11
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB,B8:11:4B:1D:1E:40,-85,6
+27/03/2026,17:06:55,2,Lab. Informática 09,DispACR,1E:D6:C7:F9:37:2F,-85,11
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB,84:F1:47:54:96:E0,-86,1
+27/03/2026,17:06:55,2,Lab. Informática 09,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-86,11
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:96:E2,-87,1
+27/03/2026,17:06:55,2,Lab. Informática 09,IFPB,84:F1:47:54:FD:C0,-87,1
+27/03/2026,17:06:56,2,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:FD:C2,-87,1
+27/03/2026,17:06:56,2,Lab. Informática 09,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-87,11
+27/03/2026,17:06:56,2,Lab. Informática 09,IFPB,2C:57:41:D4:69:C0,-89,6
+27/03/2026,17:06:56,2,Lab. Informática 09,IFPB-VISITANTE,2C:57:41:D4:69:C2,-89,6
+27/03/2026,17:06:56,2,Lab. Informática 09,IFPB-Sala_13,E8:94:F6:B9:2F:46,-92,4
+27/03/2026,17:06:56,2,Lab. Informática 09,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:06:56,2,Lab. Informática 09,Lab Redes Convergentes,64:70:02:99:FE:F4,-95,1
+27/03/2026,17:06:56,2,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,0
+27/03/2026,17:07:05,3,Lab. Informática 09,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-51,5
+27/03/2026,17:07:05,3,Lab. Informática 09,IFPB TCC,D8:5D:4C:86:7E:66,-52,6
+27/03/2026,17:07:05,3,Lab. Informática 09,IFPB,84:F1:47:54:7F:20,-62,11
+27/03/2026,17:07:05,3,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:7F:22,-62,11
+27/03/2026,17:07:05,3,Lab. Informática 09,APTelefonia,58:10:8C:91:F3:AA,-65,1
+27/03/2026,17:07:05,3,Lab. Informática 09,Intelbras,18:0D:2C:7F:EB:AC,-66,7
+27/03/2026,17:07:05,3,Lab. Informática 09,TP-Link_1324,7C:F1:7E:8D:13:22,-72,10
+27/03/2026,17:07:05,3,Lab. Informática 09,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-75,3
+27/03/2026,17:07:05,3,Lab. Informática 09,GPDS,00:26:5A:66:55:EF,-80,6
+27/03/2026,17:07:05,3,Lab. Informática 09,DispACR,1E:D6:C7:F9:37:2F,-80,11
+27/03/2026,17:07:05,3,Lab. Informática 09,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-80,11
+27/03/2026,17:07:06,3,Lab. Informática 09,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-81,10
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB-VISITANTE,B8:11:4B:1D:1E:42,-84,6
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB,84:F1:47:54:FD:C0,-85,1
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-85,5
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:FD:C2,-86,1
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB,B8:11:4B:1D:1E:40,-86,6
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB,2C:57:41:D4:69:C0,-86,6
+27/03/2026,17:07:06,3,Lab. Informática 09,UA2-MiniLab,60:32:B1:2D:66:C3,-86,10
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB,E4:4E:2D:85:4C:60,-86,11
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-87,11
+27/03/2026,17:07:06,3,Lab. Informática 09,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-87,11
+27/03/2026,17:07:06,3,Lab. Informática 09,IFPB-VISITANTE,2C:57:41:D4:69:C2,-88,6
+27/03/2026,17:07:06,3,Lab. Informática 09,LIMPEZA,54:E6:FC:CF:22:DE,-89,6
+27/03/2026,17:07:06,3,Lab. Informática 09,Lab Redes Convergentes,64:70:02:99:FE:F4,-91,1
+27/03/2026,17:07:06,3,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,0
+27/03/2026,17:07:15,4,Lab. Informática 09,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-53,5
+27/03/2026,17:07:15,4,Lab. Informática 09,IFPB TCC,D8:5D:4C:86:7E:66,-56,6
+27/03/2026,17:07:15,4,Lab. Informática 09,IFPB,84:F1:47:54:7F:20,-62,11
+27/03/2026,17:07:15,4,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:7F:22,-62,11
+27/03/2026,17:07:15,4,Lab. Informática 09,APTelefonia,58:10:8C:91:F3:AA,-64,1
+27/03/2026,17:07:16,4,Lab. Informática 09,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-70,3
+27/03/2026,17:07:16,4,Lab. Informática 09,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:07:16,4,Lab. Informática 09,TP-Link_1324,7C:F1:7E:8D:13:22,-73,10
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-79,5
+27/03/2026,17:07:16,4,Lab. Informática 09,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-79,11
+27/03/2026,17:07:16,4,Lab. Informática 09,DispACR,1E:D6:C7:F9:37:2F,-80,11
+27/03/2026,17:07:16,4,Lab. Informática 09,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-82,10
+27/03/2026,17:07:16,4,Lab. Informática 09,GPDS,00:26:5A:66:55:EF,-84,6
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB-VISITANTE,B8:11:4B:1D:1E:42,-85,6
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB,B8:11:4B:1D:1E:40,-85,6
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB,E4:4E:2D:85:4C:60,-85,11
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-85,11
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB,84:F1:47:54:FD:C0,-86,1
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:FD:C2,-87,1
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB-VISITANTE,2C:57:41:D4:69:C2,-87,6
+27/03/2026,17:07:16,4,Lab. Informática 09,IFPB,2C:57:41:D4:69:C0,-87,6
+27/03/2026,17:07:16,4,Lab. Informática 09,Lab Redes Convergentes,64:70:02:99:FE:F4,-90,1
+27/03/2026,17:07:16,4,Lab. Informática 09,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:07:16,4,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,0
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-55,5
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB,84:F1:47:54:7F:20,-59,11
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB TCC,D8:5D:4C:86:7E:66,-60,6
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:7F:22,-60,11
+27/03/2026,17:07:26,5,Lab. Informática 09,APTelefonia,58:10:8C:91:F3:AA,-64,1
+27/03/2026,17:07:26,5,Lab. Informática 09,Intelbras,18:0D:2C:7F:EB:AC,-74,7
+27/03/2026,17:07:26,5,Lab. Informática 09,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-75,3
+27/03/2026,17:07:26,5,Lab. Informática 09,TP-Link_1324,7C:F1:7E:8D:13:22,-75,10
+27/03/2026,17:07:26,5,Lab. Informática 09,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-79,11
+27/03/2026,17:07:26,5,Lab. Informática 09,DispACR,1E:D6:C7:F9:37:2F,-79,11
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-80,5
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-VISITANTE,84:F1:47:54:FD:C2,-84,1
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB,84:F1:47:54:FD:C0,-85,1
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB,B8:11:4B:1D:1E:40,-85,6
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-VISITANTE,B8:11:4B:1D:1E:42,-85,6
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-85,11
+27/03/2026,17:07:26,5,Lab. Informática 09,Lab Redes Convergentes,64:70:02:99:FE:F4,-86,1
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-VISITANTE,2C:57:41:D4:69:C2,-86,6
+27/03/2026,17:07:26,5,Lab. Informática 09,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-86,10
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB,E4:4E:2D:85:4C:60,-86,11
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB,2C:57:41:D4:69:C0,-87,6
+27/03/2026,17:07:26,5,Lab. Informática 09,GPDS,00:26:5A:66:55:EF,-87,6
+27/03/2026,17:07:26,5,Lab. Informática 09,LIMPEZA,54:E6:FC:CF:22:DE,-87,6
+27/03/2026,17:07:26,5,Lab. Informática 09,IFPB-Sala_13,E8:94:F6:B9:2F:46,-89,4
+27/03/2026,17:07:26,5,Lab. Informática 09,UA2-MiniLab,60:32:B1:2D:66:C3,-91,10
+27/03/2026,17:07:26,5,Lab. Informática 09,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-91,11
+27/03/2026,17:07:26,5,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,Lab. Informática 09,0
+27/03/2026,17:07:49,6,Sala dos técnicos,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-51,5
+27/03/2026,17:07:49,6,Sala dos técnicos,APTelefonia,58:10:8C:91:F3:AA,-64,1
+27/03/2026,17:07:49,6,Sala dos técnicos,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-66,3
+27/03/2026,17:07:49,6,Sala dos técnicos,Intelbras,18:0D:2C:7F:EB:AC,-66,7
+27/03/2026,17:07:49,6,Sala dos técnicos,TP-Link_1324,7C:F1:7E:8D:13:22,-66,10
+27/03/2026,17:07:49,6,Sala dos técnicos,IFPB TCC,D8:5D:4C:86:7E:66,-67,6
+27/03/2026,17:07:49,6,Sala dos técnicos,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-68,5
+27/03/2026,17:07:49,6,Sala dos técnicos,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:07:49,6,Sala dos técnicos,DispACR,1E:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:07:49,6,Sala dos técnicos,IFPB,84:F1:47:54:7F:20,-72,11
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:7F:22,-72,11
+27/03/2026,17:07:50,6,Sala dos técnicos,GPDS,00:26:5A:66:55:EF,-79,6
+27/03/2026,17:07:50,6,Sala dos técnicos,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-79,10
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:96:E2,-81,1
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB,84:F1:47:54:96:E0,-82,1
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB,84:F1:47:54:F9:80,-84,11
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:FD:C2,-85,1
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB,84:F1:47:54:FD:C0,-85,1
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB,84:F1:47:54:95:E0,-85,11
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:95:E2,-85,11
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:F9:82,-85,11
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB-Sala_13,E8:94:F6:B9:2F:46,-86,4
+27/03/2026,17:07:50,6,Sala dos técnicos,IFPB,E4:4E:2D:85:4C:60,-86,11
+27/03/2026,17:07:50,6,Sala dos técnicos,Lab Redes Convergentes,64:70:02:99:FE:F4,-90,1
+27/03/2026,17:07:50,6,Sala dos técnicos,LIMPEZA,54:E6:FC:CF:22:DE,-96,6
+27/03/2026,17:07:50,6,Sala dos técnicos,Sala dos técnicos,Sala dos técnicos,Sala dos técnicos,0
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-52,5
+27/03/2026,17:08:00,7,Sala dos técnicos,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-63,3
+27/03/2026,17:08:00,7,Sala dos técnicos,APTelefonia,58:10:8C:91:F3:AA,-64,1
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB TCC,D8:5D:4C:86:7E:66,-68,6
+27/03/2026,17:08:00,7,Sala dos técnicos,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:08:00,7,Sala dos técnicos,TP-Link_1324,7C:F1:7E:8D:13:22,-68,10
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-69,5
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,84:F1:47:54:7F:20,-70,11
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:7F:22,-70,11
+27/03/2026,17:08:00,7,Sala dos técnicos,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:08:00,7,Sala dos técnicos,DispACR,1E:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:08:00,7,Sala dos técnicos,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-78,10
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:96:E2,-81,1
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,84:F1:47:54:96:E0,-82,1
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:95:E2,-83,11
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:F9:82,-83,11
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,E4:4E:2D:85:4C:60,-83,11
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-83,11
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,84:F1:47:54:95:E0,-84,11
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,84:F1:47:54:F9:80,-84,11
+27/03/2026,17:08:00,7,Sala dos técnicos,GPDS,00:26:5A:66:55:EF,-86,6
+27/03/2026,17:08:00,7,Sala dos técnicos,UA2-MiniLab,60:32:B1:2D:66:C3,-86,10
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:FD:C2,-87,1
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,84:F1:47:54:FD:C0,-87,1
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-Sala_13,E8:94:F6:B9:2F:46,-89,4
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB,2C:57:41:D4:69:C0,-89,6
+27/03/2026,17:08:00,7,Sala dos técnicos,IFPB-VISITANTE,2C:57:41:D4:69:C2,-90,6
+27/03/2026,17:08:00,7,Sala dos técnicos,LIMPEZA,54:E6:FC:CF:22:DE,-91,6
+27/03/2026,17:08:00,7,Sala dos técnicos,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-92,11
+27/03/2026,17:08:00,7,Sala dos técnicos,Lab Redes Convergentes,64:70:02:99:FE:F4,-94,1
+27/03/2026,17:08:00,7,Sala dos técnicos,Sala dos técnicos,Sala dos técnicos,Sala dos técnicos,0
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-52,5
+27/03/2026,17:08:10,8,Sala dos técnicos,APTelefonia,58:10:8C:91:F3:AA,-60,1
+27/03/2026,17:08:10,8,Sala dos técnicos,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-63,3
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB TCC,D8:5D:4C:86:7E:66,-67,6
+27/03/2026,17:08:10,8,Sala dos técnicos,TP-Link_1324,7C:F1:7E:8D:13:22,-68,10
+27/03/2026,17:08:10,8,Sala dos técnicos,DispACR,1E:D6:C7:F9:37:2F,-68,11
+27/03/2026,17:08:10,8,Sala dos técnicos,Intelbras,18:0D:2C:7F:EB:AC,-69,7
+27/03/2026,17:08:10,8,Sala dos técnicos,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-74,5
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB,84:F1:47:54:7F:20,-74,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:7F:22,-74,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB,84:F1:47:54:96:E0,-75,1
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:96:E2,-75,1
+27/03/2026,17:08:10,8,Sala dos técnicos,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-79,10
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:FD:C2,-80,1
+27/03/2026,17:08:10,8,Sala dos técnicos,UA2-MiniLab,60:32:B1:2D:66:C3,-80,10
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB,84:F1:47:54:FD:C0,-81,1
+27/03/2026,17:08:10,8,Sala dos técnicos,GPDS,00:26:5A:66:55:EF,-83,6
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-84,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB,E4:4E:2D:85:4C:60,-84,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:95:E2,-84,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB,84:F1:47:54:F9:80,-85,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:F9:82,-85,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB,84:F1:47:54:95:E0,-85,11
+27/03/2026,17:08:10,8,Sala dos técnicos,IFPB-Sala_13,E8:94:F6:B9:2F:46,-92,4
+27/03/2026,17:08:10,8,Sala dos técnicos,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-95,11
+27/03/2026,17:08:10,8,Sala dos técnicos,NPEF/NEPA,50:C7:BF:EF:56:8A,-96,3
+27/03/2026,17:08:10,8,Sala dos técnicos,LIMPEZA,54:E6:FC:CF:22:DE,-96,6
+27/03/2026,17:08:10,8,Sala dos técnicos,Lab. de telecomunicações,Sala dos técnicos,Sala dos técnicos,0
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-52,5
+27/03/2026,17:08:20,9,Sala dos técnicos,APTelefonia,58:10:8C:91:F3:AA,-62,1
+27/03/2026,17:08:20,9,Sala dos técnicos,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-64,3
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB TCC,D8:5D:4C:86:7E:66,-67,6
+27/03/2026,17:08:20,9,Sala dos técnicos,Intelbras,18:0D:2C:7F:EB:AC,-67,7
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-69,5
+27/03/2026,17:08:20,9,Sala dos técnicos,TP-Link_1324,7C:F1:7E:8D:13:22,-71,10
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB,84:F1:47:54:7F:20,-72,11
+27/03/2026,17:08:20,9,Sala dos técnicos,DispACR,1E:D6:C7:F9:37:2F,-72,11
+27/03/2026,17:08:20,9,Sala dos técnicos,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-72,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:7F:22,-73,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB,84:F1:47:54:96:E0,-78,1
+27/03/2026,17:08:20,9,Sala dos técnicos,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-78,10
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:96:E2,-79,1
+27/03/2026,17:08:20,9,Sala dos técnicos,GPDS,00:26:5A:66:55:EF,-79,6
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB,E4:4E:2D:85:4C:60,-81,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:FD:C2,-83,1
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB,84:F1:47:54:95:E0,-83,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:95:E2,-83,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB,84:F1:47:54:F9:80,-83,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB,84:F1:47:54:FD:C0,-84,1
+27/03/2026,17:08:20,9,Sala dos técnicos,UA2-MiniLab,60:32:B1:2D:66:C3,-84,10
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:F9:82,-84,11
+27/03/2026,17:08:20,9,Sala dos técnicos,IFPB-Sala_13,E8:94:F6:B9:2F:46,-85,4
+27/03/2026,17:08:20,9,Sala dos técnicos,LIMPEZA,54:E6:FC:CF:22:DE,-94,6
+27/03/2026,17:08:21,9,Sala dos técnicos,PET Eng. Elétrica,PET Eng. Elétrica,Sala dos técnicos,0
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-51,5
+27/03/2026,17:08:30,10,Sala dos técnicos,APTelefonia,58:10:8C:91:F3:AA,-64,1
+27/03/2026,17:08:30,10,Sala dos técnicos,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-64,3
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB TCC,D8:5D:4C:86:7E:66,-68,6
+27/03/2026,17:08:30,10,Sala dos técnicos,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB,84:F1:47:54:7F:20,-71,11
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:7F:22,-71,11
+27/03/2026,17:08:30,10,Sala dos técnicos,TP-Link_1324,7C:F1:7E:8D:13:22,-72,10
+27/03/2026,17:08:30,10,Sala dos técnicos,DispACR,1E:D6:C7:F9:37:2F,-72,11
+27/03/2026,17:08:30,10,Sala dos técnicos,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-73,11
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB,84:F1:47:54:96:E0,-79,1
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:96:E2,-79,1
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB,E4:4E:2D:85:4C:60,-81,11
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB,84:F1:47:54:FD:C0,-82,1
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB-Sala_13,E8:94:F6:B9:2F:46,-82,4
+27/03/2026,17:08:30,10,Sala dos técnicos,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-82,5
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:08:31,10,Sala dos técnicos,GPDS,00:26:5A:66:55:EF,-83,6
+27/03/2026,17:08:31,10,Sala dos técnicos,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-83,10
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB,84:F1:47:54:95:E0,-83,11
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:95:E2,-83,11
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:FD:C2,-84,1
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB,84:F1:47:54:F9:80,-84,11
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:F9:82,-84,11
+27/03/2026,17:08:31,10,Sala dos técnicos,UA2-MiniLab,60:32:B1:2D:66:C3,-87,10
+27/03/2026,17:08:31,10,Sala dos técnicos,IFPB-VISITANTE,84:F1:47:54:71:02,-90,1
+27/03/2026,17:08:31,10,Sala dos técnicos,Lab Redes Convergentes,64:70:02:99:FE:F4,-93,1
+27/03/2026,17:08:31,10,Sala dos técnicos,Sala dos técnicos,PET Eng. Elétrica,Sala dos técnicos,0
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-58,5
+27/03/2026,17:08:57,11,Lab. de telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-67,3
+27/03/2026,17:08:57,11,Lab. de telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-67,10
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-68,6
+27/03/2026,17:08:57,11,Lab. de telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-69,1
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB,84:F1:47:54:7F:20,-70,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:7F:22,-70,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-72,5
+27/03/2026,17:08:57,11,Lab. de telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:08:57,11,Lab. de telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-76,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-Sala_13,E8:94:F6:B9:2F:46,-77,4
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB,84:F1:47:54:FD:C0,-78,1
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:FD:C2,-78,1
+27/03/2026,17:08:57,11,Lab. de telecomunicações,GPDS,00:26:5A:66:55:EF,-79,6
+27/03/2026,17:08:57,11,Lab. de telecomunicações,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-79,10
+27/03/2026,17:08:57,11,Lab. de telecomunicações,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-81,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:95:E2,-86,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-87,1
+27/03/2026,17:08:57,11,Lab. de telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-87,10
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB,E4:4E:2D:85:4C:60,-87,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-87,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB,84:F1:47:54:95:E0,-87,11
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB,84:F1:47:54:96:E0,-88,1
+27/03/2026,17:08:57,11,Lab. de telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-88,6
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:71:02,-89,1
+27/03/2026,17:08:57,11,Lab. de telecomunicações,IFPB-VISITANTE,B8:11:4B:1D:1E:42,-89,6
+27/03/2026,17:08:58,11,Lab. de telecomunicações,Lab Redes Convergentes,64:70:02:99:FE:F4,-90,1
+27/03/2026,17:08:58,11,Lab. de telecomunicações,Lab. de telecomunicações,Sala dos técnicos,Lab. de telecomunicações,0
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-53,5
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-66,6
+27/03/2026,17:09:07,12,Lab. de telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-66,11
+27/03/2026,17:09:07,12,Lab. de telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-67,1
+27/03/2026,17:09:07,12,Lab. de telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-69,3
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB,84:F1:47:54:7F:20,-69,11
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:7F:22,-69,11
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-70,5
+27/03/2026,17:09:07,12,Lab. de telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-70,7
+27/03/2026,17:09:07,12,Lab. de telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-70,11
+27/03/2026,17:09:07,12,Lab. de telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-72,10
+27/03/2026,17:09:07,12,Lab. de telecomunicações,GPDS,00:26:5A:66:55:EF,-77,6
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB,84:F1:47:54:FD:C0,-78,1
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:FD:C2,-79,1
+27/03/2026,17:09:07,12,Lab. de telecomunicações,IFPB-Sala_13,E8:94:F6:B9:2F:46,-80,4
+27/03/2026,17:09:07,12,Lab. de telecomunicações,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-84,10
+27/03/2026,17:09:08,12,Lab. de telecomunicações,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-84,11
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB,84:F1:47:54:95:E0,-85,11
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:95:E2,-85,11
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-86,11
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-87,1
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB,E4:4E:2D:85:4C:60,-87,11
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB,84:F1:47:54:96:E0,-88,1
+27/03/2026,17:09:08,12,Lab. de telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-88,10
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:71:02,-89,1
+27/03/2026,17:09:08,12,Lab. de telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-89,6
+27/03/2026,17:09:08,12,Lab. de telecomunicações,IFPB,84:F1:47:54:71:00,-91,1
+27/03/2026,17:09:08,12,Lab. de telecomunicações,Lab Redes Convergentes,64:70:02:99:FE:F4,-93,1
+27/03/2026,17:09:08,12,Lab. de telecomunicações,Lab. de telecomunicações,Sala dos técnicos,Lab. de telecomunicações,0
+27/03/2026,17:09:17,13,Lab. de telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-58,5
+27/03/2026,17:09:17,13,Lab. de telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-66,6
+27/03/2026,17:09:17,13,Lab. de telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-67,1
+27/03/2026,17:09:17,13,Lab. de telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-68,3
+27/03/2026,17:09:17,13,Lab. de telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-68,5
+27/03/2026,17:09:18,13,Lab. de telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-70,7
+27/03/2026,17:09:18,13,Lab. de telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-70,10
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB,84:F1:47:54:7F:20,-70,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:7F:22,-70,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB,84:F1:47:54:FD:C0,-77,1
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:FD:C2,-77,1
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB-Sala_13,E8:94:F6:B9:2F:46,-77,4
+27/03/2026,17:09:18,13,Lab. de telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-78,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,GPDS,00:26:5A:66:55:EF,-79,6
+27/03/2026,17:09:18,13,Lab. de telecomunicações,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-83,10
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-85,1
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB,84:F1:47:54:95:E0,-85,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-85,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB,84:F1:47:54:96:E0,-86,1
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:95:E2,-86,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-87,10
+27/03/2026,17:09:18,13,Lab. de telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-90,6
+27/03/2026,17:09:18,13,Lab. de telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-91,11
+27/03/2026,17:09:18,13,Lab. de telecomunicações,Lab Redes Convergentes,64:70:02:99:FE:F4,-92,1
+27/03/2026,17:09:18,13,Lab. de telecomunicações,Lab. de telecomunicações,Sala dos técnicos,Lab. de telecomunicações,0
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-64,5
+27/03/2026,17:09:28,14,Lab. de telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-67,1
+27/03/2026,17:09:28,14,Lab. de telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-67,3
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-67,6
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB,84:F1:47:54:7F:20,-68,11
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:7F:22,-68,11
+27/03/2026,17:09:28,14,Lab. de telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-70,7
+27/03/2026,17:09:28,14,Lab. de telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-70,10
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-72,5
+27/03/2026,17:09:28,14,Lab. de telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:09:28,14,Lab. de telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:FD:C2,-78,1
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB,84:F1:47:54:FD:C0,-79,1
+27/03/2026,17:09:28,14,Lab. de telecomunicações,GPDS,00:26:5A:66:55:EF,-80,6
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-Sala_13,E8:94:F6:B9:2F:46,-83,4
+27/03/2026,17:09:28,14,Lab. de telecomunicações,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-84,10
+27/03/2026,17:09:28,14,Lab. de telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-85,10
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:95:E2,-85,11
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB,84:F1:47:54:95:E0,-86,11
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-88,1
+27/03/2026,17:09:28,14,Lab. de telecomunicações,IFPB,84:F1:47:54:96:E0,-88,1
+27/03/2026,17:09:28,14,Lab. de telecomunicações,Lab Redes Convergentes,64:70:02:99:FE:F4,-93,1
+27/03/2026,17:09:28,14,Lab. de telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-94,6
+27/03/2026,17:09:28,14,Lab. de telecomunicações,Lab. de telecomunicações,Sala dos técnicos,Lab. de telecomunicações,0
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-59,5
+27/03/2026,17:09:38,15,Lab. de telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-66,3
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-66,6
+27/03/2026,17:09:38,15,Lab. de telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-68,1
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB,84:F1:47:54:7F:20,-68,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-69,7
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:7F:22,-69,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-70,10
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-73,5
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB,84:F1:47:54:FD:C0,-77,1
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:FD:C2,-77,1
+27/03/2026,17:09:38,15,Lab. de telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-78,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-78,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,GPDS,00:26:5A:66:55:EF,-79,6
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-Sala_13,E8:94:F6:B9:2F:46,-82,4
+27/03/2026,17:09:38,15,Lab. de telecomunicações,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-82,10
+27/03/2026,17:09:38,15,Lab. de telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-84,10
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB,E4:4E:2D:85:4C:60,-86,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-87,1
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB,84:F1:47:54:95:E0,-87,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:95:E2,-87,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-87,11
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB,84:F1:47:54:71:00,-89,1
+27/03/2026,17:09:38,15,Lab. de telecomunicações,IFPB-VISITANTE,84:F1:47:54:71:02,-90,1
+27/03/2026,17:09:38,15,Lab. de telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:09:38,15,Lab. de telecomunicações,Lab. de telecomunicações,Lab. de telecomunicações,Lab. de telecomunicações,0
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-56,3
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-62,10
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:95:E2,-63,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:95:E0,-64,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-65,5
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-66,1
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-75,5
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-75,7
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-75,10
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-78,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-79,6
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-79,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-80,4
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:FD:C2,-82,1
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB,B8:11:4B:1D:14:80,-83,6
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:FD:C0,-84,1
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-VISITANTE,B8:11:4B:1D:14:82,-85,6
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-86,6
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,Grel Wifi,00:27:19:CA:71:D2,-86,11
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:96:E0,-87,1
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-87,1
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-88,10
+27/03/2026,17:10:08,16,Coordenação de Eng. Elétrica,PET Eng. Elétrica,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica,0
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-61,10
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:95:E2,-61,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:95:E0,-62,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-64,5
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-66,3
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-70,5
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-75,7
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-77,10
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-77,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-78,6
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-79,1
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-80,4
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-81,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-81,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-84,6
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-VISITANTE,B8:11:4B:1D:14:82,-85,6
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:FD:C0,-86,1
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:FD:C2,-86,1
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,IFPB,B8:11:4B:1D:14:80,-86,6
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,Grel Wifi,00:27:19:CA:71:D2,-87,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-88,3
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-91,10
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-95,11
+27/03/2026,17:10:18,17,Coordenação de Eng. Elétrica,PET Eng. Elétrica,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica,0
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-61,10
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-64,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-64,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-66,5
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-68,3
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:95:E0,-69,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:95:E2,-69,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-74,5
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-74,10
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-75,7
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-76,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-78,1
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-78,6
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-79,4
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-83,6
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:FD:C2,-84,1
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB,B8:11:4B:1D:14:80,-84,6
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:FD:C0,-85,1
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-VISITANTE,B8:11:4B:1D:14:82,-85,6
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-85,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-85,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,Grel Wifi,00:27:19:CA:71:D2,-86,11
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:10:28,18,Coordenação de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-96,11
+27/03/2026,17:10:29,18,Coordenação de Eng. Elétrica,PET Eng. Elétrica,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica,0
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-62,10
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-65,5
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:95:E2,-68,11
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:95:E0,-69,11
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-70,5
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-72,3
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-74,7
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-74,10
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-78,1
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-78,11
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-79,4
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-80,6
+27/03/2026,17:10:38,19,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-80,11
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-80,11
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:FD:C0,-83,1
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,IFPB-VISITANTE,B8:11:4B:1D:14:82,-83,6
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:FD:C2,-84,1
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,IFPB,B8:11:4B:1D:14:80,-85,6
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-86,10
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-87,6
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-88,3
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-97,11
+27/03/2026,17:10:39,19,Coordenação de Eng. Elétrica,PET Eng. Elétrica,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica,0
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-61,10
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:95:E0,-63,11
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:95:E2,-63,11
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-64,11
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-70,3
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-70,5
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-71,5
+27/03/2026,17:10:48,20,Coordenação de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-73,11
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-75,10
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-76,7
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-78,1
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-78,6
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-80,11
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-80,11
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-81,4
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB,B8:11:4B:1D:14:80,-83,6
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-84,6
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB-VISITANTE,B8:11:4B:1D:14:82,-84,6
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-86,10
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,Grel Wifi,00:27:19:CA:71:D2,-86,11
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:FD:C2,-89,1
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,IFPB,84:F1:47:54:FD:C0,-89,1
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-96,11
+27/03/2026,17:10:49,20,Coordenação de Eng. Elétrica,PET Eng. Elétrica,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica,0
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-62,10
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-67,6
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-71,10
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-76,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-77,5
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-78,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-79,3
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-79,3
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-79,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-80,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-81,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-82,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:6B:80,-84,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:6B:82,-85,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-85,4
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-85,5
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-86,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:96:E0,-87,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:5E:C0,-87,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:5E:C2,-87,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-87,6
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-87,6
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-87,7
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-88,1
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-88,11
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-91,10
+27/03/2026,17:11:34,21,Auditório de Eng. Elétrica,IFPB-MM,54:E6:FC:BA:AD:86,-95,11
+27/03/2026,17:11:35,21,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,Práticas didáticas,Auditório de Eng. Elétrica,0
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-62,10
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-64,6
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-70,10
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-73,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-75,3
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-77,1
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-79,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-79,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-80,5
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-80,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:6B:80,-81,1
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:6B:82,-81,1
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-81,11
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-82,3
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-83,5
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-85,7
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:5E:C0,-87,1
+27/03/2026,17:11:44,22,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:5E:C2,-87,1
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-87,11
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-88,11
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:BC:00,-89,6
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-90,4
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-93,10
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,IFPB-MM,54:E6:FC:BA:AD:86,-94,11
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-96,11
+27/03/2026,17:11:45,22,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,Práticas didáticas,Auditório de Eng. Elétrica,0
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-60,11
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-61,10
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-64,6
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-72,10
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-73,11
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-74,3
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-76,1
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-79,11
+27/03/2026,17:11:54,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-79,11
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-79,11
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:6B:80,-80,1
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:6B:82,-80,1
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-80,11
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-81,5
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-83,5
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-84,3
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:5E:C2,-85,1
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:5E:C0,-87,1
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-87,6
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-87,6
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-87,11
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-88,7
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-88,11
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-89,4
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-89,6
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:BC:00,-89,6
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-90,10
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-92,11
+27/03/2026,17:11:55,23,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,Práticas didáticas,Auditório de Eng. Elétrica,0
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-64,10
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-67,6
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-72,3
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-74,10
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-75,3
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-76,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-76,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-77,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-78,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-79,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-79,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-80,5
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-82,5
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-86,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:6B:80,-86,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:6B:82,-86,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:5E:C0,-86,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:5E:C2,-86,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-87,6
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-87,7
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-87,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:96:E0,-89,1
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-91,4
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-93,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,IFPB-MM,54:E6:FC:BA:AD:86,-94,11
+27/03/2026,17:12:05,24,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica,0
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-64,10
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-66,10
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-69,6
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-74,3
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-77,5
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-77,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-78,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:F9:82,-78,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-79,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-80,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-80,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-81,3
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-85,7
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:6B:82,-86,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:6B:80,-86,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-86,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-87,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-87,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:5E:C2,-88,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB,84:F1:47:54:96:E0,-88,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB,24:36:DA:2B:5E:C0,-89,1
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-92,6
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,moto g31_2170,BA:C9:9A:D9:05:6B,-93,6
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-93,10
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,IFPB-MM,54:E6:FC:BA:AD:86,-96,11
+27/03/2026,17:12:15,25,Auditório de Eng. Elétrica,Lab. de Instrumentação biomédica,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica,0
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,TP-Link_1324,7C:F1:7E:8D:13:22,-56,10
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,DispACR,1E:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,APTelefonia,58:10:8C:91:F3:AA,-62,1
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,Intelbras,18:0D:2C:7F:EB:AC,-67,7
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:96:E0,-72,1
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:96:E2,-72,1
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,GPDS,00:26:5A:66:55:EF,-78,6
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,NPEF/NEPA,50:C7:BF:EF:56:8A,-80,3
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB,E4:4E:2D:85:4C:60,-80,11
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-80,11
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:8B:A0,-82,11
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-82,11
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB,24:36:DA:2B:BC:00,-83,6
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-83,6
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:6B:82,-84,1
+27/03/2026,17:12:37,26,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:6B:80,-84,1
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,UA2-MiniLab,60:32:B1:2D:66:C3,-84,10
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:F9:82,-85,11
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-86,5
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-86,5
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:F9:80,-86,11
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-86,11
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-90,3
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-94,10
+27/03/2026,17:12:38,26,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,0
+27/03/2026,17:12:47,27,Lab. de Instrumentação biomédica,APTelefonia,58:10:8C:91:F3:AA,-62,1
+27/03/2026,17:12:47,27,Lab. de Instrumentação biomédica,TP-Link_1324,7C:F1:7E:8D:13:22,-64,10
+27/03/2026,17:12:47,27,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:96:E0,-69,1
+27/03/2026,17:12:47,27,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:96:E2,-69,1
+27/03/2026,17:12:47,27,Lab. de Instrumentação biomédica,Intelbras,18:0D:2C:7F:EB:AC,-71,7
+27/03/2026,17:12:47,27,Lab. de Instrumentação biomédica,NPEF/NEPA,50:C7:BF:EF:56:8A,-73,3
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,DispACR,1E:D6:C7:F9:37:2F,-74,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-79,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB,E4:4E:2D:85:4C:60,-80,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,UA2-MiniLab,60:32:B1:2D:66:C3,-82,10
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-83,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-84,5
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB,24:36:DA:2B:BC:00,-84,6
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-84,6
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-86,5
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,GPDS,00:26:5A:66:55:EF,-86,6
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:6B:80,-87,1
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:6B:82,-87,1
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-87,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-88,3
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:8B:A0,-89,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB TCC,D8:5D:4C:86:7E:66,-90,6
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:F9:82,-90,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:F9:80,-91,11
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-96,10
+27/03/2026,17:12:48,27,Lab. de Instrumentação biomédica,Lab. de aferição e calibração,Lab. de Instrumentação biomédica,Lab. de medições em telecomunições,0
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,TP-Link_1324,7C:F1:7E:8D:13:22,-57,10
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-59,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,DispACR,1E:D6:C7:F9:37:2F,-59,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,APTelefonia,58:10:8C:91:F3:AA,-66,1
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,Intelbras,18:0D:2C:7F:EB:AC,-71,7
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:96:E0,-75,1
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:96:E2,-75,1
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,NPEF/NEPA,50:C7:BF:EF:56:8A,-78,3
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB,24:36:DA:2B:BC:00,-79,6
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-79,6
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB,E4:4E:2D:85:4C:60,-82,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,GPDS,00:26:5A:66:55:EF,-84,6
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-84,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-85,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:8B:A0,-85,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:6B:80,-86,1
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:6B:82,-86,1
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,UA2-MiniLab,60:32:B1:2D:66:C3,-86,10
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-88,5
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-89,5
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:F9:80,-89,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:F9:82,-89,11
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-90,3
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,LIMPEZA,54:E6:FC:CF:22:DE,-91,6
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,moto g31_2170,BA:C9:9A:D9:05:6B,-94,6
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-94,10
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,IFPB TCC,D8:5D:4C:86:7E:66,-95,6
+27/03/2026,17:12:58,28,Lab. de Instrumentação biomédica,Lab. de medições em telecomunições,Lab. de fibras ópticas,Lab. de Instrumentação biomédica,0
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,APTelefonia,58:10:8C:91:F3:AA,-60,1
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,TP-Link_1324,7C:F1:7E:8D:13:22,-60,10
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,DispACR,1E:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-62,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,Intelbras,18:0D:2C:7F:EB:AC,-69,7
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:96:E2,-73,1
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:96:E0,-74,1
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,NPEF/NEPA,50:C7:BF:EF:56:8A,-74,3
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-81,6
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB,24:36:DA:2B:BC:00,-82,6
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-83,5
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,GPDS,00:26:5A:66:55:EF,-83,6
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB,E4:4E:2D:85:4C:60,-83,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-83,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-84,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:8B:A0,-84,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-85,3
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:6B:82,-86,1
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:6B:80,-87,1
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:F9:80,-88,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:F9:82,-89,11
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,UA2-MiniLab,60:32:B1:2D:66:C3,-90,10
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,IFPB TCC,D8:5D:4C:86:7E:66,-92,6
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,LIMPEZA,54:E6:FC:CF:22:DE,-94,6
+27/03/2026,17:13:08,29,Lab. de Instrumentação biomédica,Lab. de medições em telecomunições,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica,0
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,TP-Link_1324,7C:F1:7E:8D:13:22,-58,10
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,DispACR,1E:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,APTelefonia,58:10:8C:91:F3:AA,-62,1
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,NPEF/NEPA,50:C7:BF:EF:56:8A,-73,3
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:96:E0,-74,1
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:96:E2,-75,1
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB,24:36:DA:2B:BC:00,-80,6
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-80,6
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB,E4:4E:2D:85:4C:60,-82,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:8B:A0,-83,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-83,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-83,11
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-85,5
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,GPDS,00:26:5A:66:55:EF,-86,6
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:F1:47:54:6B:82,-87,1
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB,84:F1:47:54:6B:80,-88,1
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-89,3
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,IFPB TCC,D8:5D:4C:86:7E:66,-91,6
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-95,10
+27/03/2026,17:13:18,30,Lab. de Instrumentação biomédica,Lab. de medições em telecomunições,Lab. de fibras ópticas,Lab. de Instrumentação biomédica,0
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,TP-Link_1324,7C:F1:7E:8D:13:22,-53,10
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,APTelefonia,58:10:8C:91:F3:AA,-61,1
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB,84:F1:47:54:96:E0,-65,1
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:96:E2,-65,1
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-74,11
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,DispACR,1E:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB,24:36:DA:2B:BC:00,-77,6
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:DA:2B:BC:02,-77,6
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB,E4:4E:2D:85:4C:60,-77,11
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-78,5
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-78,11
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB,84:F1:47:54:6B:80,-82,1
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:6B:82,-82,1
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-83,3
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,GPDS,00:26:5A:66:55:EF,-86,6
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB TCC,D8:5D:4C:86:7E:66,-87,6
+27/03/2026,17:13:39,31,Lab. de aferição e calibração,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-88,5
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,IFPB,84:F1:47:54:F9:80,-90,11
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:F9:82,-90,11
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,IFPB-Sala_13,E8:94:F6:B9:2F:46,-91,4
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,moto g31_2170,BA:C9:9A:D9:05:6B,-92,6
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,NPEF/NEPA,50:C7:BF:EF:56:8A,-93,3
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,UA2-MiniLab,60:32:B1:2D:66:C3,-93,10
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-94,11
+27/03/2026,17:13:40,31,Lab. de aferição e calibração,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,TP-Link_1324,7C:F1:7E:8D:13:22,-51,10
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,APTelefonia,58:10:8C:91:F3:AA,-63,1
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,Intelbras,18:0D:2C:7F:EB:AC,-63,7
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB,84:F1:47:54:96:E0,-66,1
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:96:E2,-66,1
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-74,5
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:DA:2B:BC:02,-77,6
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,DispACR,1E:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB,E4:4E:2D:85:4C:60,-77,11
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB,24:36:DA:2B:BC:00,-78,6
+27/03/2026,17:13:49,32,Lab. de aferição e calibração,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-78,11
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:6B:82,-82,1
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,IFPB,84:F1:47:54:6B:80,-83,1
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-85,3
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,GPDS,00:26:5A:66:55:EF,-85,6
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,IFPB TCC,D8:5D:4C:86:7E:66,-86,6
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,NPEF/NEPA,50:C7:BF:EF:56:8A,-88,3
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-91,5
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,UA2-MiniLab,60:32:B1:2D:66:C3,-91,10
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,IFPB-Sala_13,E8:94:F6:B9:2F:46,-93,4
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,moto g31_2170,BA:C9:9A:D9:05:6B,-94,6
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-96,11
+27/03/2026,17:13:50,32,Lab. de aferição e calibração,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:13:59,33,Lab. de aferição e calibração,TP-Link_1324,7C:F1:7E:8D:13:22,-51,10
+27/03/2026,17:13:59,33,Lab. de aferição e calibração,APTelefonia,58:10:8C:91:F3:AA,-56,1
+27/03/2026,17:13:59,33,Lab. de aferição e calibração,IFPB,84:F1:47:54:96:E0,-62,1
+27/03/2026,17:13:59,33,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:96:E2,-62,1
+27/03/2026,17:13:59,33,Lab. de aferição e calibração,Intelbras,18:0D:2C:7F:EB:AC,-62,7
+27/03/2026,17:13:59,33,Lab. de aferição e calibração,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-77,11
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,DispACR,1E:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB,24:36:DA:2B:BC:00,-78,6
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:DA:2B:BC:02,-78,6
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB,E4:4E:2D:85:4C:60,-78,11
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-78,11
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-81,5
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:6B:82,-82,1
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-83,3
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,GPDS,00:26:5A:66:55:EF,-83,6
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB,84:F1:47:54:6B:80,-85,1
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-87,5
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB TCC,D8:5D:4C:86:7E:66,-87,6
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,UA2-MiniLab,60:32:B1:2D:66:C3,-89,10
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,NPEF/NEPA,50:C7:BF:EF:56:8A,-90,3
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,LIMPEZA,54:E6:FC:CF:22:DE,-90,6
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:F9:82,-91,11
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-94,11
+27/03/2026,17:14:00,33,Lab. de aferição e calibração,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de aferição e calibração,0
+27/03/2026,17:14:09,34,Lab. de aferição e calibração,TP-Link_1324,7C:F1:7E:8D:13:22,-52,10
+27/03/2026,17:14:09,34,Lab. de aferição e calibração,APTelefonia,58:10:8C:91:F3:AA,-57,1
+27/03/2026,17:14:09,34,Lab. de aferição e calibração,IFPB,84:F1:47:54:96:E0,-61,1
+27/03/2026,17:14:09,34,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:96:E2,-61,1
+27/03/2026,17:14:09,34,Lab. de aferição e calibração,Intelbras,18:0D:2C:7F:EB:AC,-65,7
+27/03/2026,17:14:09,34,Lab. de aferição e calibração,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-73,11
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,DispACR,1E:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-77,5
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB,24:36:DA:2B:BC:00,-77,6
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:DA:2B:BC:02,-77,6
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB,E4:4E:2D:85:4C:60,-78,11
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-78,11
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-79,3
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:6B:82,-83,1
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB,84:F1:47:54:6B:80,-83,1
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,GPDS,00:26:5A:66:55:EF,-86,6
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-87,5
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB TCC,D8:5D:4C:86:7E:66,-87,6
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,NPEF/NEPA,50:C7:BF:EF:56:8A,-88,3
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,UA2-MiniLab,60:32:B1:2D:66:C3,-88,10
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,LIMPEZA,54:E6:FC:CF:22:DE,-91,6
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:8B:A2,-91,11
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-92,11
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,IFPB-Sala_13,E8:94:F6:B9:2F:46,-93,4
+27/03/2026,17:14:10,34,Lab. de aferição e calibração,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de aferição e calibração,0
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,TP-Link_1324,7C:F1:7E:8D:13:22,-53,10
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,APTelefonia,58:10:8C:91:F3:AA,-54,1
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB,84:F1:47:54:96:E0,-62,1
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:96:E2,-62,1
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,Intelbras,18:0D:2C:7F:EB:AC,-63,7
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB,24:36:DA:2B:BC:00,-76,6
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:DA:2B:BC:02,-76,6
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB,E4:4E:2D:85:4C:60,-78,11
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-78,11
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,DispACR,1E:D6:C7:F9:37:2F,-81,11
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-81,11
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-VISITANTE,84:F1:47:54:6B:82,-83,1
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB,84:F1:47:54:6B:80,-84,1
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-84,3
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,GPDS,00:26:5A:66:55:EF,-85,6
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB TCC,D8:5D:4C:86:7E:66,-86,6
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-87,5
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,UA2-MiniLab,60:32:B1:2D:66:C3,-89,10
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:DA:2B:5E:C2,-91,1
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,NPEF/NEPA,50:C7:BF:EF:56:8A,-91,3
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,LIMPEZA,54:E6:FC:CF:22:DE,-93,6
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,moto g31_2170,BA:C9:9A:D9:05:6B,-93,6
+27/03/2026,17:14:20,35,Lab. de aferição e calibração,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de aferição e calibração,0
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-48,10
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-54,1
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:96:E0,-70,1
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-70,1
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB,24:36:DA:2B:BC:00,-73,6
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:DA:2B:BC:02,-73,6
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB,E4:4E:2D:85:4C:60,-75,11
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-75,11
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-78,11
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-81,5
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:6B:82,-88,1
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:6B:80,-88,1
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-88,6
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-89,3
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,NPEF/NEPA,50:C7:BF:EF:56:8A,-89,3
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,GPDS,00:26:5A:66:55:EF,-89,6
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-94,5
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,moto g31_2170,BA:C9:9A:D9:05:6B,-94,6
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-94,11
+27/03/2026,17:14:36,36,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-47,10
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-53,1
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-73,1
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:96:E0,-74,1
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB,E4:4E:2D:85:4C:60,-74,11
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-74,11
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB,24:36:DA:2B:BC:00,-75,6
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:DA:2B:BC:02,-75,6
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-76,11
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-78,7
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,moto g31_2170,BA:C9:9A:D9:05:6B,-82,6
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:6B:80,-85,1
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-85,10
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:6B:82,-87,1
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-87,6
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-91,3
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,NPEF/NEPA,50:C7:BF:EF:56:8A,-91,3
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,GPDS,00:26:5A:66:55:EF,-91,6
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-91,11
+27/03/2026,17:14:46,37,Lab. de medições em telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-92,6
+27/03/2026,17:14:47,37,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-45,10
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-53,1
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:96:E0,-74,1
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB,E4:4E:2D:85:4C:60,-74,11
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-74,11
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-75,1
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-75,11
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB,24:36:DA:2B:BC:00,-76,6
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:DA:2B:BC:02,-76,6
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-76,7
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-83,10
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-85,6
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-86,5
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:6B:80,-88,1
+27/03/2026,17:14:56,38,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:6B:82,-89,1
+27/03/2026,17:14:57,38,Lab. de medições em telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-90,3
+27/03/2026,17:14:57,38,Lab. de medições em telecomunicações,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-92,11
+27/03/2026,17:14:57,38,Lab. de medições em telecomunicações,GPDS,00:26:5A:66:55:EF,-94,6
+27/03/2026,17:14:57,38,Lab. de medições em telecomunicações,NPEF/NEPA,50:C7:BF:EF:56:8A,-95,3
+27/03/2026,17:14:57,38,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-47,10
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-55,1
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-72,1
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:96:E0,-73,1
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-74,7
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB,E4:4E:2D:85:4C:60,-74,11
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-74,11
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB,24:36:DA:2B:BC:00,-76,6
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:DA:2B:BC:02,-76,6
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-78,11
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-83,10
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-85,6
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:6B:82,-87,1
+27/03/2026,17:15:06,39,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:6B:80,-87,1
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,GPDS,00:26:5A:66:55:EF,-87,6
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,NPEF/NEPA,50:C7:BF:EF:56:8A,-90,3
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,moto g31_2170,BA:C9:9A:D9:05:6B,-91,6
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-91,6
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-92,3
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-92,11
+27/03/2026,17:15:07,39,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,TP-Link_1324,7C:F1:7E:8D:13:22,-45,10
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,APTelefonia,58:10:8C:91:F3:AA,-54,1
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:96:E0,-72,1
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:96:E2,-72,1
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB,E4:4E:2D:85:4C:60,-74,11
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-74,11
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,DispACR,1E:D6:C7:F9:37:2F,-76,11
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-77,11
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB,24:36:DA:2B:BC:00,-78,6
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:DA:2B:BC:02,-79,6
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-84,5
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,UA2-MiniLab,60:32:B1:2D:66:C3,-84,10
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB TCC,D8:5D:4C:86:7E:66,-86,6
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:F1:47:54:6B:82,-87,1
+27/03/2026,17:15:16,40,Lab. de medições em telecomunicações,IFPB,84:F1:47:54:6B:80,-88,1
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,LIMPEZA,54:E6:FC:CF:22:DE,-90,6
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,GPDS,00:26:5A:66:55:EF,-91,6
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-91,11
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,NPEF/NEPA,50:C7:BF:EF:56:8A,-92,3
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,moto g31_2170,BA:C9:9A:D9:05:6B,-92,6
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-93,3
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-93,5
+27/03/2026,17:15:17,40,Lab. de medições em telecomunicações,Lab. de medições em telecomunições,Lab. de medições em telecomunições,Lab. de medições em telecomunições,0
+27/03/2026,17:16:23,41,Lab. de redes convergentes,APTelefonia,58:10:8C:91:F3:AA,-39,1
+27/03/2026,17:16:23,41,Lab. de redes convergentes,Intelbras,18:0D:2C:7F:EB:AC,-54,7
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB,E4:4E:2D:85:4C:60,-56,11
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-56,11
+27/03/2026,17:16:23,41,Lab. de redes convergentes,TP-Link_1324,7C:F1:7E:8D:13:22,-62,10
+27/03/2026,17:16:23,41,Lab. de redes convergentes,DispACR,1E:D6:C7:F9:37:2F,-65,11
+27/03/2026,17:16:23,41,Lab. de redes convergentes,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-66,11
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-76,5
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB-VISITANTE,24:36:DA:2B:BC:02,-78,6
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB TCC,D8:5D:4C:86:7E:66,-79,6
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB,24:36:DA:2B:BC:00,-79,6
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB,84:F1:47:54:EB:20,-81,6
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:EB:22,-82,6
+27/03/2026,17:16:23,41,Lab. de redes convergentes,UA2-MiniLab,60:32:B1:2D:66:C3,-82,10
+27/03/2026,17:16:23,41,Lab. de redes convergentes,NPEF/NEPA,50:C7:BF:EF:56:8A,-83,3
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB,84:F1:47:54:96:E0,-86,1
+27/03/2026,17:16:23,41,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:96:E2,-86,1
+27/03/2026,17:16:24,41,Lab. de redes convergentes,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-89,10
+27/03/2026,17:16:24,41,Lab. de redes convergentes,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-90,5
+27/03/2026,17:16:24,41,Lab. de redes convergentes,moto g31_2170,BA:C9:9A:D9:05:6B,-91,6
+27/03/2026,17:16:24,41,Lab. de redes convergentes,GPDS,00:26:5A:66:55:EF,-94,6
+27/03/2026,17:16:24,41,Lab. de redes convergentes,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-95,11
+27/03/2026,17:16:24,41,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,0
+27/03/2026,17:16:33,42,Lab. de redes convergentes,APTelefonia,58:10:8C:91:F3:AA,-40,1
+27/03/2026,17:16:33,42,Lab. de redes convergentes,Intelbras,18:0D:2C:7F:EB:AC,-54,7
+27/03/2026,17:16:33,42,Lab. de redes convergentes,IFPB,E4:4E:2D:85:4C:60,-57,11
+27/03/2026,17:16:33,42,Lab. de redes convergentes,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-57,11
+27/03/2026,17:16:33,42,Lab. de redes convergentes,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-60,11
+27/03/2026,17:16:33,42,Lab. de redes convergentes,TP-Link_1324,7C:F1:7E:8D:13:22,-63,10
+27/03/2026,17:16:33,42,Lab. de redes convergentes,DispACR,1E:D6:C7:F9:37:2F,-67,11
+27/03/2026,17:16:33,42,Lab. de redes convergentes,IFPB,24:36:DA:2B:BC:00,-81,6
+27/03/2026,17:16:33,42,Lab. de redes convergentes,IFPB,84:F1:47:54:EB:20,-81,6
+27/03/2026,17:16:33,42,Lab. de redes convergentes,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-82,5
+27/03/2026,17:16:33,42,Lab. de redes convergentes,GPDS,00:26:5A:66:55:EF,-82,6
+27/03/2026,17:16:34,42,Lab. de redes convergentes,UA2-MiniLab,60:32:B1:2D:66:C3,-82,10
+27/03/2026,17:16:34,42,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:EB:22,-83,6
+27/03/2026,17:16:34,42,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:96:E2,-86,1
+27/03/2026,17:16:34,42,Lab. de redes convergentes,IFPB,84:F1:47:54:96:E0,-87,1
+27/03/2026,17:16:34,42,Lab. de redes convergentes,NPEF/NEPA,50:C7:BF:EF:56:8A,-91,3
+27/03/2026,17:16:34,42,Lab. de redes convergentes,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-91,5
+27/03/2026,17:16:34,42,Lab. de redes convergentes,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-93,10
+27/03/2026,17:16:34,42,Lab. de redes convergentes,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-93,11
+27/03/2026,17:16:34,42,Lab. de redes convergentes,moto g31_2170,BA:C9:9A:D9:05:6B,-94,6
+27/03/2026,17:16:34,42,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,0
+27/03/2026,17:16:43,43,Lab. de redes convergentes,APTelefonia,58:10:8C:91:F3:AA,-39,1
+27/03/2026,17:16:43,43,Lab. de redes convergentes,Intelbras,18:0D:2C:7F:EB:AC,-53,7
+27/03/2026,17:16:43,43,Lab. de redes convergentes,IFPB,E4:4E:2D:85:4C:60,-58,11
+27/03/2026,17:16:43,43,Lab. de redes convergentes,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-58,11
+27/03/2026,17:16:43,43,Lab. de redes convergentes,TP-Link_1324,7C:F1:7E:8D:13:22,-65,10
+27/03/2026,17:16:43,43,Lab. de redes convergentes,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-71,11
+27/03/2026,17:16:43,43,Lab. de redes convergentes,DispACR,1E:D6:C7:F9:37:2F,-72,11
+27/03/2026,17:16:43,43,Lab. de redes convergentes,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:16:43,43,Lab. de redes convergentes,UA2-MiniLab,60:32:B1:2D:66:C3,-81,10
+27/03/2026,17:16:43,43,Lab. de redes convergentes,IFPB,24:36:DA:2B:BC:00,-82,6
+27/03/2026,17:16:43,43,Lab. de redes convergentes,IFPB-VISITANTE,24:36:DA:2B:BC:02,-82,6
+27/03/2026,17:16:44,43,Lab. de redes convergentes,IFPB,84:F1:47:54:EB:20,-83,6
+27/03/2026,17:16:44,43,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:EB:22,-83,6
+27/03/2026,17:16:44,43,Lab. de redes convergentes,GPDS,00:26:5A:66:55:EF,-85,6
+27/03/2026,17:16:44,43,Lab. de redes convergentes,IFPB TCC,D8:5D:4C:86:7E:66,-88,6
+27/03/2026,17:16:44,43,Lab. de redes convergentes,IFPB,84:F1:47:54:96:E0,-89,1
+27/03/2026,17:16:44,43,Lab. de redes convergentes,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-91,10
+27/03/2026,17:16:44,43,Lab. de redes convergentes,NPEF/NEPA,50:C7:BF:EF:56:8A,-92,3
+27/03/2026,17:16:44,43,Lab. de redes convergentes,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-92,5
+27/03/2026,17:16:44,43,Lab. de redes convergentes,moto g31_2170,BA:C9:9A:D9:05:6B,-92,6
+27/03/2026,17:16:44,43,Lab. de redes convergentes,IFPB-Sala_13,E8:94:F6:B9:2F:46,-93,4
+27/03/2026,17:16:44,43,Lab. de redes convergentes,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-94,11
+27/03/2026,17:16:44,43,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,0
+27/03/2026,17:16:53,44,Lab. de redes convergentes,APTelefonia,58:10:8C:91:F3:AA,-41,1
+27/03/2026,17:16:53,44,Lab. de redes convergentes,Intelbras,18:0D:2C:7F:EB:AC,-56,7
+27/03/2026,17:16:53,44,Lab. de redes convergentes,IFPB,E4:4E:2D:85:4C:60,-58,11
+27/03/2026,17:16:53,44,Lab. de redes convergentes,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-58,11
+27/03/2026,17:16:53,44,Lab. de redes convergentes,TP-Link_1324,7C:F1:7E:8D:13:22,-60,10
+27/03/2026,17:16:53,44,Lab. de redes convergentes,DispACR,1E:D6:C7:F9:37:2F,-67,11
+27/03/2026,17:16:53,44,Lab. de redes convergentes,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-67,11
+27/03/2026,17:16:53,44,Lab. de redes convergentes,UA2-MiniLab,60:32:B1:2D:66:C3,-80,10
+27/03/2026,17:16:53,44,Lab. de redes convergentes,IFPB-VISITANTE,24:36:DA:2B:BC:02,-82,6
+27/03/2026,17:16:53,44,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:EB:22,-84,6
+27/03/2026,17:16:53,44,Lab. de redes convergentes,IFPB,24:36:DA:2B:BC:00,-84,6
+27/03/2026,17:16:54,44,Lab. de redes convergentes,IFPB,84:F1:47:54:EB:20,-86,6
+27/03/2026,17:16:54,44,Lab. de redes convergentes,GPDS,00:26:5A:66:55:EF,-87,6
+27/03/2026,17:16:54,44,Lab. de redes convergentes,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-88,5
+27/03/2026,17:16:54,44,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:96:E2,-89,1
+27/03/2026,17:16:54,44,Lab. de redes convergentes,IFPB,84:F1:47:54:96:E0,-89,1
+27/03/2026,17:16:54,44,Lab. de redes convergentes,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-90,5
+27/03/2026,17:16:54,44,Lab. de redes convergentes,NPEF/NEPA,50:C7:BF:EF:56:8A,-91,3
+27/03/2026,17:16:54,44,Lab. de redes convergentes,IFPB TCC,D8:5D:4C:86:7E:66,-91,6
+27/03/2026,17:16:54,44,Lab. de redes convergentes,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-92,10
+27/03/2026,17:16:54,44,Lab. de redes convergentes,moto g31_2170,BA:C9:9A:D9:05:6B,-98,6
+27/03/2026,17:16:54,44,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,0
+27/03/2026,17:17:03,45,Lab. de redes convergentes,APTelefonia,58:10:8C:91:F3:AA,-39,1
+27/03/2026,17:17:03,45,Lab. de redes convergentes,Intelbras,18:0D:2C:7F:EB:AC,-55,7
+27/03/2026,17:17:03,45,Lab. de redes convergentes,IFPB,E4:4E:2D:85:4C:60,-58,11
+27/03/2026,17:17:03,45,Lab. de redes convergentes,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-58,11
+27/03/2026,17:17:03,45,Lab. de redes convergentes,TP-Link_1324,7C:F1:7E:8D:13:22,-64,10
+27/03/2026,17:17:03,45,Lab. de redes convergentes,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-67,11
+27/03/2026,17:17:04,45,Lab. de redes convergentes,DispACR,1E:D6:C7:F9:37:2F,-67,11
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB,84:F1:47:54:EB:20,-79,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB-VISITANTE,24:36:DA:2B:BC:02,-80,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:EB:22,-80,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB,24:36:DA:2B:BC:00,-81,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,UA2-MiniLab,60:32:B1:2D:66:C3,-82,10
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB TCC,D8:5D:4C:86:7E:66,-85,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,GPDS,00:26:5A:66:55:EF,-85,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB-VISITANTE,84:F1:47:54:96:E2,-86,1
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB,84:F1:47:54:96:E0,-88,1
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-89,5
+27/03/2026,17:17:04,45,Lab. de redes convergentes,NPEF/NEPA,50:C7:BF:EF:56:8A,-91,3
+27/03/2026,17:17:04,45,Lab. de redes convergentes,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-92,10
+27/03/2026,17:17:04,45,Lab. de redes convergentes,moto g31_2170,BA:C9:9A:D9:05:6B,-94,6
+27/03/2026,17:17:04,45,Lab. de redes convergentes,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-95,3
+27/03/2026,17:17:04,45,Lab. de redes convergentes,IFPB-Sala_13,E8:94:F6:B9:2F:46,-96,4
+27/03/2026,17:17:04,45,Lab. de redes convergentes,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-96,11
+27/03/2026,17:17:04,45,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,0
+27/03/2026,17:17:37,46,Lab. de fibras ópticas,APTelefonia,58:10:8C:91:F3:AA,-40,1
+27/03/2026,17:17:37,46,Lab. de fibras ópticas,Intelbras,18:0D:2C:7F:EB:AC,-61,7
+27/03/2026,17:17:37,46,Lab. de fibras ópticas,IFPB,E4:4E:2D:85:4C:60,-63,11
+27/03/2026,17:17:37,46,Lab. de fibras ópticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-63,11
+27/03/2026,17:17:37,46,Lab. de fibras ópticas,TP-Link_1324,7C:F1:7E:8D:13:22,-68,10
+27/03/2026,17:17:37,46,Lab. de fibras ópticas,DispACR,1E:D6:C7:F9:37:2F,-68,11
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-69,11
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:96:E2,-71,1
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-71,5
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB,84:F1:47:54:96:E0,-72,1
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,UA2-MiniLab,60:32:B1:2D:66:C3,-76,10
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-81,4
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-82,5
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,GPDS,00:26:5A:66:55:EF,-84,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-84,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:DA:2B:BC:02,-84,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB,84:F1:47:54:EB:20,-85,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB,24:36:DA:2B:BC:00,-85,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-86,3
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB TCC,D8:5D:4C:86:7E:66,-88,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-88,10
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-89,3
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,moto g31_2170,BA:C9:9A:D9:05:6B,-91,6
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-91,11
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-95,11
+27/03/2026,17:17:38,46,Lab. de fibras ópticas,Lab. de fibras ópticas,Lab. de fibras ópticas,Lab. de redes convergentes,0
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,APTelefonia,58:10:8C:91:F3:AA,-50,1
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,Intelbras,18:0D:2C:7F:EB:AC,-58,7
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB,E4:4E:2D:85:4C:60,-61,11
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-61,11
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-61,11
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,DispACR,1E:D6:C7:F9:37:2F,-63,11
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,TP-Link_1324,7C:F1:7E:8D:13:22,-71,10
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB,84:F1:47:54:96:E0,-74,1
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:96:E2,-74,1
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,UA2-MiniLab,60:32:B1:2D:66:C3,-75,10
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-76,5
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,GPDS,00:26:5A:66:55:EF,-78,6
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB,24:36:DA:2B:BC:00,-79,6
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:DA:2B:BC:02,-80,6
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-85,3
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-85,5
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB TCC,D8:5D:4C:86:7E:66,-85,6
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-86,3
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB,84:F1:47:54:EB:20,-86,6
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-86,6
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-88,4
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-89,11
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,IFPB,84:F1:47:54:8B:A0,-91,11
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-93,10
+27/03/2026,17:17:48,47,Lab. de fibras ópticas,Lab. de redes convergentes,Lab. de fibras ópticas,Lab. de redes convergentes,0
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,APTelefonia,58:10:8C:91:F3:AA,-45,1
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB,E4:4E:2D:85:4C:60,-58,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-58,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,Intelbras,18:0D:2C:7F:EB:AC,-63,7
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-72,5
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,DispACR,1E:D6:C7:F9:37:2F,-75,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,GPDS,00:26:5A:66:55:EF,-76,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,TP-Link_1324,7C:F1:7E:8D:13:22,-76,10
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,UA2-MiniLab,60:32:B1:2D:66:C3,-78,10
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB,84:F1:47:54:96:E0,-80,1
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:96:E2,-80,1
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-81,5
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB TCC,D8:5D:4C:86:7E:66,-81,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB,24:36:DA:2B:BC:00,-82,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:DA:2B:BC:02,-83,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-86,3
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB,84:F1:47:54:EB:20,-86,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-86,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-87,3
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-89,4
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-91,10
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-91,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,moto g31_2170,BA:C9:9A:D9:05:6B,-93,6
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB,84:F1:47:54:8B:A0,-93,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-93,11
+27/03/2026,17:17:58,48,Lab. de fibras ópticas,Lab. de redes convergentes,Lab. de redes convergentes,Lab. de redes convergentes,0
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,APTelefonia,58:10:8C:91:F3:AA,-55,1
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB,E4:4E:2D:85:4C:60,-60,11
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-60,11
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,Intelbras,18:0D:2C:7F:EB:AC,-61,7
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,TP-Link_1324,7C:F1:7E:8D:13:22,-65,10
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-66,11
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,DispACR,1E:D6:C7:F9:37:2F,-66,11
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-67,5
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,UA2-MiniLab,60:32:B1:2D:66:C3,-75,10
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB,84:F1:47:54:96:E0,-77,1
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:96:E2,-77,1
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-81,3
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,GPDS,00:26:5A:66:55:EF,-81,6
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB,24:36:DA:2B:BC:00,-83,6
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:DA:2B:BC:02,-83,6
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB TCC,D8:5D:4C:86:7E:66,-84,6
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-85,3
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-86,5
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-88,4
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-89,11
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-90,11
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-92,10
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,moto g31_2170,BA:C9:9A:D9:05:6B,-93,6
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,brisa-4527003,54:AF:97:99:38:03,-96,10
+27/03/2026,17:18:08,49,Lab. de fibras ópticas,Lab. de fibras ópticas,Lab. de fibras ópticas,Lab. de redes convergentes,0
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,APTelefonia,58:10:8C:91:F3:AA,-55,1
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,Intelbras,18:0D:2C:7F:EB:AC,-58,7
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-64,11
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,DispACR,1E:D6:C7:F9:37:2F,-64,11
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB,E4:4E:2D:85:4C:60,-69,11
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-69,11
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-71,5
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,TP-Link_1324,7C:F1:7E:8D:13:22,-75,10
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB,84:F1:47:54:96:E0,-76,1
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB-VISITANTE,84:F1:47:54:96:E2,-76,1
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,UA2-MiniLab,60:32:B1:2D:66:C3,-77,10
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,GPDS,00:26:5A:66:55:EF,-78,6
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-81,3
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-85,4
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-86,10
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-87,3
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB,24:36:DA:2B:BC:00,-89,6
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:DA:2B:BC:02,-93,6
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-96,11
+27/03/2026,17:18:18,50,Lab. de fibras ópticas,Lab. de fibras ópticas,Lab. de fibras ópticas,Lab. de fibras ópticas,0
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-50,11
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-51,11
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-57,6
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-61,1
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-67,7
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-70,10
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-73,5
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-79,10
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-80,5
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-81,11
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-81,11
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-83,3
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-83,6
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-83,6
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-84,4
+27/03/2026,17:18:39,51,Pesquisa em Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-84,6
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-84,11
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-85,11
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-86,3
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-86,11
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,IFPB,24:36:DA:2B:BC:00,-87,6
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-89,6
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-90,10
+27/03/2026,17:18:40,51,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica,Pesquisa em Eng. Elétrica,0
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-48,11
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-48,11
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-58,6
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-63,1
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-71,10
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-72,5
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-74,10
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-78,5
+27/03/2026,17:18:49,52,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-81,11
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-82,11
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-83,11
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-83,11
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-84,6
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-84,6
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-85,3
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-85,6
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-85,11
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-86,4
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-88,1
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB,24:36:DA:2B:BC:00,-89,6
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:96:E0,-90,1
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-90,6
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-92,10
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-93,3
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,Galaxy A05s,D2:BA:36:07:55:BB,-95,11
+27/03/2026,17:18:50,52,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,0
+27/03/2026,17:18:59,53,Pesquisa em Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-50,11
+27/03/2026,17:18:59,53,Pesquisa em Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-51,11
+27/03/2026,17:18:59,53,Pesquisa em Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-58,6
+27/03/2026,17:18:59,53,Pesquisa em Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-65,1
+27/03/2026,17:18:59,53,Pesquisa em Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-74,10
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-76,5
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-77,10
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-78,5
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-81,6
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-82,6
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-82,11
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-82,11
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-83,11
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-83,11
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-84,6
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-85,4
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-85,11
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-88,1
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:96:E0,-88,1
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB,24:36:DA:2B:BC:00,-88,6
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-89,6
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-90,3
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-90,3
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:F9:80,-93,11
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-94,10
+27/03/2026,17:19:00,53,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Práticas didáticas,0
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-48,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-48,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-59,6
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-62,1
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-68,7
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-73,10
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-76,5
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-77,10
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-82,5
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-82,6
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-82,6
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-82,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-82,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-83,6
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-83,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-84,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-85,11
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-86,3
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-87,4
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-88,3
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:96:E2,-90,1
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-91,10
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,Galaxy S25 Ultra F770,6E:B0:04:D8:9F:B1,-94,1
+27/03/2026,17:19:10,54,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica,0
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-46,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,DispACR,1E:D6:C7:F9:37:2F,-48,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,GPDS,00:26:5A:66:55:EF,-57,6
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,APTelefonia,58:10:8C:91:F3:AA,-60,1
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,Intelbras,18:0D:2C:7F:EB:AC,-69,7
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,UA2-MiniLab,60:32:B1:2D:66:C3,-71,10
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-72,5
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,TP-Link_1324,7C:F1:7E:8D:13:22,-78,10
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:EB:20,-80,6
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:EB:22,-83,6
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,NPEF/NEPA,50:C7:BF:EF:56:8A,-84,3
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-84,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-85,3
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB TCC,D8:5D:4C:86:7E:66,-85,6
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB,84:F1:47:54:8B:A0,-85,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:F1:47:54:8B:A2,-85,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB,E4:4E:2D:85:4C:60,-85,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-Sala_13,E8:94:F6:B9:2F:46,-86,4
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-87,11
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,24:36:DA:2B:BC:02,-89,6
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-89,10
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,IFPB,24:36:DA:2B:BC:00,-90,6
+27/03/2026,17:19:20,55,Pesquisa em Eng. Elétrica,Práticas didáticas,Práticas didáticas,Pesquisa em Eng. Elétrica,0
+27/03/2026,17:19:42,56,Práticas didáticas,DispACR,1E:D6:C7:F9:37:2F,-53,11
+27/03/2026,17:19:42,56,Práticas didáticas,UA2-MiniLab,60:32:B1:2D:66:C3,-58,10
+27/03/2026,17:19:42,56,Práticas didáticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-59,11
+27/03/2026,17:19:42,56,Práticas didáticas,GPDS,00:26:5A:66:55:EF,-66,6
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-69,5
+27/03/2026,17:19:42,56,Práticas didáticas,APTelefonia,58:10:8C:91:F3:AA,-75,1
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-75,5
+27/03/2026,17:19:42,56,Práticas didáticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-76,10
+27/03/2026,17:19:42,56,Práticas didáticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-79,3
+27/03/2026,17:19:42,56,Práticas didáticas,Intelbras,18:0D:2C:7F:EB:AC,-79,7
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB,84:F1:47:54:EB:20,-80,6
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-80,6
+27/03/2026,17:19:42,56,Práticas didáticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-84,3
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-84,11
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB,E4:4E:2D:85:4C:60,-85,11
+27/03/2026,17:19:42,56,Práticas didáticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-85,11
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB,84:F1:47:54:F9:80,-86,11
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:F9:82,-86,11
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-87,11
+27/03/2026,17:19:42,56,Práticas didáticas,TP-Link_1324,7C:F1:7E:8D:13:22,-88,10
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB,84:F1:47:54:8B:A0,-88,11
+27/03/2026,17:19:42,56,Práticas didáticas,IFPB TCC,D8:5D:4C:86:7E:66,-93,6
+27/03/2026,17:19:42,56,Práticas didáticas,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-95,11
+27/03/2026,17:19:42,56,Práticas didáticas,Práticas didáticas,Práticas didáticas,Práticas didáticas,0
+27/03/2026,17:19:52,57,Práticas didáticas,DispACR,1E:D6:C7:F9:37:2F,-55,11
+27/03/2026,17:19:52,57,Práticas didáticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-55,11
+27/03/2026,17:19:52,57,Práticas didáticas,UA2-MiniLab,60:32:B1:2D:66:C3,-59,10
+27/03/2026,17:19:52,57,Práticas didáticas,GPDS,00:26:5A:66:55:EF,-65,6
+27/03/2026,17:19:52,57,Práticas didáticas,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:19:52,57,Práticas didáticas,APTelefonia,58:10:8C:91:F3:AA,-73,1
+27/03/2026,17:19:52,57,Práticas didáticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-76,3
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-78,5
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-79,5
+27/03/2026,17:19:52,57,Práticas didáticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-79,10
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-80,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-80,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB,84:F1:47:54:EB:20,-81,6
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-81,6
+27/03/2026,17:19:52,57,Práticas didáticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-81,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB,84:F1:47:54:8B:A0,-81,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB,E4:4E:2D:85:4C:60,-81,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-86,4
+27/03/2026,17:19:52,57,Práticas didáticas,TP-Link_1324,7C:F1:7E:8D:13:22,-86,10
+27/03/2026,17:19:52,57,Práticas didáticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-87,3
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB,84:F1:47:54:F9:80,-88,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:F9:82,-90,11
+27/03/2026,17:19:52,57,Práticas didáticas,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-91,11
+27/03/2026,17:19:52,57,Práticas didáticas,IFPB TCC,D8:5D:4C:86:7E:66,-92,6
+27/03/2026,17:19:53,57,Práticas didáticas,Práticas didáticas,Coordenação de pós em Eng. Elétrica,Práticas didáticas,0
+27/03/2026,17:20:02,58,Práticas didáticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-56,11
+27/03/2026,17:20:02,58,Práticas didáticas,DispACR,1E:D6:C7:F9:37:2F,-56,11
+27/03/2026,17:20:02,58,Práticas didáticas,GPDS,00:26:5A:66:55:EF,-58,6
+27/03/2026,17:20:02,58,Práticas didáticas,UA2-MiniLab,60:32:B1:2D:66:C3,-59,10
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-66,5
+27/03/2026,17:20:02,58,Práticas didáticas,APTelefonia,58:10:8C:91:F3:AA,-68,1
+27/03/2026,17:20:02,58,Práticas didáticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-68,3
+27/03/2026,17:20:02,58,Práticas didáticas,Intelbras,18:0D:2C:7F:EB:AC,-71,7
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB,84:F1:47:54:EB:20,-76,6
+27/03/2026,17:20:02,58,Práticas didáticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-76,10
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-77,6
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB,84:F1:47:54:8B:A0,-77,11
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-77,11
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-78,5
+27/03/2026,17:20:02,58,Práticas didáticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-81,11
+27/03/2026,17:20:02,58,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:F9:82,-84,11
+27/03/2026,17:20:03,58,Práticas didáticas,IFPB,84:F1:47:54:F9:80,-84,11
+27/03/2026,17:20:03,58,Práticas didáticas,TP-Link_1324,7C:F1:7E:8D:13:22,-85,10
+27/03/2026,17:20:03,58,Práticas didáticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-86,3
+27/03/2026,17:20:03,58,Práticas didáticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-90,4
+27/03/2026,17:20:03,58,Práticas didáticas,IFPB TCC,D8:5D:4C:86:7E:66,-92,6
+27/03/2026,17:20:03,58,Práticas didáticas,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-96,11
+27/03/2026,17:20:03,58,Práticas didáticas,Práticas didáticas,Práticas didáticas,Práticas didáticas,0
+27/03/2026,17:20:12,59,Práticas didáticas,DispACR,1E:D6:C7:F9:37:2F,-57,11
+27/03/2026,17:20:12,59,Práticas didáticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-58,11
+27/03/2026,17:20:12,59,Práticas didáticas,GPDS,00:26:5A:66:55:EF,-59,6
+27/03/2026,17:20:12,59,Práticas didáticas,UA2-MiniLab,60:32:B1:2D:66:C3,-60,10
+27/03/2026,17:20:12,59,Práticas didáticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-64,5
+27/03/2026,17:20:12,59,Práticas didáticas,APTelefonia,58:10:8C:91:F3:AA,-66,1
+27/03/2026,17:20:12,59,Práticas didáticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-70,3
+27/03/2026,17:20:12,59,Práticas didáticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-70,5
+27/03/2026,17:20:12,59,Práticas didáticas,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:20:12,59,Práticas didáticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-76,10
+27/03/2026,17:20:12,59,Práticas didáticas,IFPB,84:F1:47:54:8B:A0,-76,11
+27/03/2026,17:20:12,59,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-77,11
+27/03/2026,17:20:12,59,Práticas didáticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-77,11
+27/03/2026,17:20:12,59,Práticas didáticas,IFPB,84:F1:47:54:EB:20,-79,6
+27/03/2026,17:20:12,59,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-79,6
+27/03/2026,17:20:13,59,Práticas didáticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-82,3
+27/03/2026,17:20:13,59,Práticas didáticas,TP-Link_1324,7C:F1:7E:8D:13:22,-84,10
+27/03/2026,17:20:13,59,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:F9:82,-84,11
+27/03/2026,17:20:13,59,Práticas didáticas,IFPB,84:F1:47:54:F9:80,-84,11
+27/03/2026,17:20:13,59,Práticas didáticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-87,11
+27/03/2026,17:20:13,59,Práticas didáticas,IFPB,E4:4E:2D:85:4C:60,-88,11
+27/03/2026,17:20:13,59,Práticas didáticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-89,4
+27/03/2026,17:20:13,59,Práticas didáticas,Práticas didáticas,Práticas didáticas,Práticas didáticas,0
+27/03/2026,17:20:22,60,Práticas didáticas,Lab. de Sinais Digitais,18:D6:C7:F9:37:2F,-57,11
+27/03/2026,17:20:22,60,Práticas didáticas,DispACR,1E:D6:C7:F9:37:2F,-58,11
+27/03/2026,17:20:22,60,Práticas didáticas,UA2-MiniLab,60:32:B1:2D:66:C3,-59,10
+27/03/2026,17:20:22,60,Práticas didáticas,GPDS,00:26:5A:66:55:EF,-61,6
+27/03/2026,17:20:22,60,Práticas didáticas,IFPB-Sala_Professor_14,24:FD:0D:57:19:26,-63,5
+27/03/2026,17:20:22,60,Práticas didáticas,APTelefonia,58:10:8C:91:F3:AA,-67,1
+27/03/2026,17:20:22,60,Práticas didáticas,NPEF/NEPA,50:C7:BF:EF:56:8A,-68,3
+27/03/2026,17:20:22,60,Práticas didáticas,Intelbras,18:0D:2C:7F:EB:AC,-72,7
+27/03/2026,17:20:22,60,Práticas didáticas,NUNYA_Room_2.4GHz,CC:32:E5:0C:FC:2B,-76,10
+27/03/2026,17:20:22,60,Práticas didáticas,IFPB,84:F1:47:54:EB:20,-77,6
+27/03/2026,17:20:22,60,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:EB:22,-77,6
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB,84:F1:47:54:8B:A0,-77,11
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:8B:A2,-77,11
+27/03/2026,17:20:23,60,Práticas didáticas,EBF243D6-HE8D94yaFM1AOcS,44:D2:44:DD:32:49,-81,11
+27/03/2026,17:20:23,60,Práticas didáticas,TP-Link_C3CB,D8:0D:17:3E:C3:CB,-83,3
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB-Sala_Professor_14,48:51:CF:81:B0:9E,-83,5
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB,84:F1:47:54:F9:80,-83,11
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB-VISITANTE,84:F1:47:54:F9:82,-83,11
+27/03/2026,17:20:23,60,Práticas didáticas,TP-Link_1324,7C:F1:7E:8D:13:22,-86,10
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB,E4:4E:2D:85:4C:60,-87,11
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB-VISITANTE,E4:4E:2D:85:4C:62,-88,11
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB-Sala_13,E8:94:F6:B9:2F:46,-90,4
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB TCC,D8:5D:4C:86:7E:66,-91,6
+27/03/2026,17:20:23,60,Práticas didáticas,IFPB-MM,54:E6:FC:BA:AD:86,-93,11
+27/03/2026,17:20:23,60,Práticas didáticas,EBEFCE63-HE8D94xyvZ1AODz,44:D2:44:DD:2E:58,-93,11
+27/03/2026,17:20:23,60,Práticas didáticas,Práticas didáticas,Práticas didáticas,Práticas didáticas,0
