@@ -34359,7 +34359,7 @@ namespace Eloquent
                         case 10:
                         return "Lab. de matemática";
                         case 11:
-                        return "Lab. de medições em telecomunições";
+                        return "Lab. de medidas em telecomunições";
                         case 12:
                         return "Lab. de microscopia";
                         case 13:

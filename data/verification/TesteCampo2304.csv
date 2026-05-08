@@ -1,0 +1,241 @@
+data,hora,num,local,predição
+23/04/2026,09:19:34,1,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,2,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,3,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,4,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,5,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,6,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,7,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,8,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,9,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,10,Lab. Informática 09,Lab. Informática 09
+23/04/2026,09:19:34,11,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,12,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,13,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,14,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,15,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,16,Sala dos técnicos,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,17,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,18,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,19,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,20,Sala dos técnicos,Sala dos técnicos
+23/04/2026,09:19:34,21,Lab. de telecomunicações,Sala dos técnicos
+23/04/2026,09:19:34,22,Lab. de telecomunicações,Lab. de telecomunicações
+23/04/2026,09:19:34,23,Lab. de telecomunicações,PET Eng. Elétrica
+23/04/2026,09:19:34,24,Lab. de telecomunicações,Sala dos técnicos
+23/04/2026,09:19:34,25,Lab. de telecomunicações,Sala dos técnicos
+23/04/2026,09:19:34,26,Lab. de telecomunicações,Lab. de telecomunicações
+23/04/2026,09:19:34,27,Lab. de telecomunicações,Lab. de telecomunicações
+23/04/2026,09:19:34,28,Lab. de telecomunicações,Sala dos técnicos
+23/04/2026,09:19:34,29,Lab. de telecomunicações,Lab. de telecomunicações
+23/04/2026,09:19:34,30,Lab. de telecomunicações,PET Eng. Elétrica
+23/04/2026,09:19:34,31,PET Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,32,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,33,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,34,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,35,PET Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,36,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,37,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,38,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,39,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,40,PET Eng. Elétrica,PET Eng. Elétrica
+23/04/2026,09:19:34,41,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,42,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,43,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,44,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,45,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,46,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,47,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,48,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,49,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,50,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+23/04/2026,09:19:34,51,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,52,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,53,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,54,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,55,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,56,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,57,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,58,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,59,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,60,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+23/04/2026,09:19:34,61,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,62,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,63,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,64,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,65,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,66,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,67,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,68,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,69,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,70,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,71,Lab. de aferição e calibração,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,72,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,73,Lab. de aferição e calibração,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,74,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,75,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,76,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,77,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,78,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,79,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,80,Lab. de aferição e calibração,Lab. de aferição e calibração
+23/04/2026,09:19:34,81,Lab. de medições em telecomunicações,Lab. de Instrumentação biomédica
+23/04/2026,09:19:34,82,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,83,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,84,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,85,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,86,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,87,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,88,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,89,Lab. de medições em telecomunicações,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,90,Lab. de medições em telecomunicações,Lab. de medições em telecomunicações
+23/04/2026,09:19:34,91,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,92,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,93,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,94,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,95,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,96,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,97,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,98,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,99,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,100,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,101,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,102,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,103,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,104,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,105,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,106,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,107,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,108,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,109,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,110,Lab. de redes convergentes,Lab. de redes convergentes
+23/04/2026,09:19:34,111,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,112,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,113,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,114,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,115,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,116,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,117,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,118,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,119,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,120,Lab. de fibras ópticas,Lab. de fibras ópticas
+23/04/2026,09:19:34,121,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,122,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,123,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,124,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,125,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,126,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,127,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,128,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,129,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,130,Pesquisa em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+23/04/2026,09:19:34,131,Práticas didáticas,Práticas didáticas
+23/04/2026,09:19:34,132,Práticas didáticas,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,133,Práticas didáticas,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,134,Práticas didáticas,Práticas didáticas
+23/04/2026,09:19:34,135,Práticas didáticas,Práticas didáticas
+23/04/2026,09:19:34,136,Práticas didáticas,Práticas didáticas
+23/04/2026,09:19:34,137,Práticas didáticas,Práticas didáticas
+23/04/2026,09:19:34,138,Práticas didáticas,Práticas didáticas
+23/04/2026,09:19:34,139,Práticas didáticas,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,140,Práticas didáticas,Pesquisa em Eng. Elétrica
+23/04/2026,09:19:34,141,Sala dos professores,PET Eng. Elétrica
+23/04/2026,09:19:34,142,Sala dos professores,Sala dos professores
+23/04/2026,09:19:34,143,Sala dos professores,Sala dos professores
+23/04/2026,09:19:34,144,Sala dos professores,Sala dos professores
+23/04/2026,09:19:34,145,Sala dos professores,Sala dos professores
+23/04/2026,09:19:34,146,Sala dos professores,PET Eng. Elétrica
+23/04/2026,09:19:34,147,Sala dos professores,PET Eng. Elétrica
+23/04/2026,09:19:34,148,Sala dos professores,PET Eng. Elétrica
+23/04/2026,09:19:34,149,Sala dos professores,PET Eng. Elétrica
+23/04/2026,09:19:34,150,Sala dos professores,PET Eng. Elétrica
+23/04/2026,09:19:34,151,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,152,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,153,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,154,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,155,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,156,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,157,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,158,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,159,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,160,Lab. química 03,Lab. química 03
+23/04/2026,09:19:34,161,Lab. química 02,Lab. de biologia
+23/04/2026,09:19:34,162,Lab. química 02,Lab. de biologia
+23/04/2026,09:19:34,163,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,164,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,165,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,166,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,167,Lab. química 02,Lab. de biologia
+23/04/2026,09:19:34,168,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,169,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,170,Lab. química 02,Lab. química 02
+23/04/2026,09:19:34,171,Lab. química 01,Lab. química 01
+23/04/2026,09:19:34,172,Lab. química 01,Lab. química 01
+23/04/2026,09:19:34,173,Lab. química 01,Lab. química 02
+23/04/2026,09:19:34,174,Lab. química 01,Lab. química 02
+23/04/2026,09:19:34,175,Lab. química 01,Lab. química 02
+23/04/2026,09:19:34,176,Lab. química 01,Lab. química 02
+23/04/2026,09:19:34,177,Lab. química 01,Lab. de biologia
+23/04/2026,09:19:34,178,Lab. química 01,Lab. de biologia
+23/04/2026,09:19:34,179,Lab. química 01,Lab. de biologia
+23/04/2026,09:19:34,180,Lab. química 01,Lab. química 02
+23/04/2026,09:19:34,181,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,182,Lab. de microscopia,Lab. de microscopia
+23/04/2026,09:19:34,183,Lab. de microscopia,Lab. de matemática
+23/04/2026,09:19:34,184,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,185,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,186,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,187,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,188,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,189,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,190,Lab. de microscopia,Núcleo de pesquisa
+23/04/2026,09:19:34,191,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,192,Lab. de matemática,Lab. de microscopia
+23/04/2026,09:19:34,193,Lab. de matemática,Lab. de matemática
+23/04/2026,09:19:34,194,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,195,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,196,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,197,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,198,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,199,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,200,Lab. de matemática,Núcleo de pesquisa
+23/04/2026,09:19:34,201,Lab. de biologia,Lab. de física
+23/04/2026,09:19:34,202,Lab. de biologia,Lab. de física
+23/04/2026,09:19:34,203,Lab. de biologia,Lab. de biologia
+23/04/2026,09:19:34,204,Lab. de biologia,Lab. de biologia
+23/04/2026,09:19:34,205,Lab. de biologia,Lab. de biologia
+23/04/2026,09:19:34,206,Lab. de biologia,Lab. de biologia
+23/04/2026,09:19:34,207,Lab. de biologia,Lab. de biologia
+23/04/2026,09:19:34,208,Lab. de biologia,Lab. de física
+23/04/2026,09:19:34,209,Lab. de biologia,Lab. de biologia
+23/04/2026,09:19:34,210,Lab. de biologia,Lab. de física
+23/04/2026,09:19:34,211,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,212,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,213,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,214,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,215,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,216,Lab. de física,Lab. de física
+23/04/2026,09:19:34,217,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,218,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,219,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,220,Lab. de física,Lab. de biologia
+23/04/2026,09:19:34,221,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,222,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,223,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,224,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,225,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,226,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,227,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,228,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,229,Núcleo de pesquisa,Núcleo de pesquisa
+23/04/2026,09:19:34,230,Núcleo de pesquisa,Coordenação de química
+23/04/2026,09:19:34,231,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,232,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,233,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,234,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,235,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,236,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,237,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,238,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,239,Coordenação de química,Coordenação de química
+23/04/2026,09:19:34,240,Coordenação de química,Coordenação de química

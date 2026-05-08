@@ -1,0 +1,1224 @@
+data,hora,num,local,ssid,bssid,rssi,canal
+27/04/2026,14:49:32,1,Lab. Informática 09,IFPB,84:f1:47:54:7f:20,-67,11
+27/04/2026,14:49:32,1,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:7f:22,-68,11
+27/04/2026,14:49:32,1,Lab. Informática 09,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,14:49:32,1,Lab. Informática 09,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,11
+27/04/2026,14:49:32,1,Lab. Informática 09,IFPB,84:f1:47:54:fd:c0,-85,1
+27/04/2026,14:49:32,1,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:fd:c2,-85,1
+27/04/2026,14:49:33,1,Lab. Informática 09,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-87,6
+27/04/2026,14:49:33,1,Lab. Informática 09,IFPB,b8:11:4b:1d:1e:40,-88,6
+27/04/2026,14:49:33,1,Lab. Informática 09,IFPB-VISITANTE,2c:57:41:d4:69:c2,-89,1
+27/04/2026,14:49:33,1,Lab. Informática 09,IFPB,2c:57:41:d4:69:c0,-89,1
+27/04/2026,14:49:42,2,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:7f:22,-64,11
+27/04/2026,14:49:42,2,Lab. Informática 09,IFPB,84:f1:47:54:7f:20,-65,11
+27/04/2026,14:49:42,2,Lab. Informática 09,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-74,6
+27/04/2026,14:49:42,2,Lab. Informática 09,IFPB,b8:11:4b:1d:1e:40,-75,6
+27/04/2026,14:49:43,2,Lab. Informática 09,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,11
+27/04/2026,14:49:43,2,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,1
+27/04/2026,14:49:43,2,Lab. Informática 09,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,14:49:43,2,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:fd:c2,-85,1
+27/04/2026,14:49:43,2,Lab. Informática 09,IFPB,2c:57:41:d4:69:c0,-88,1
+27/04/2026,14:49:52,3,Lab. Informática 09,IFPB,84:f1:47:54:7f:20,-60,11
+27/04/2026,14:49:52,3,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:7f:22,-60,11
+27/04/2026,14:49:52,3,Lab. Informática 09,IFPB,b8:11:4b:1d:1e:40,-75,6
+27/04/2026,14:49:52,3,Lab. Informática 09,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-76,6
+27/04/2026,14:49:53,3,Lab. Informática 09,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-80,11
+27/04/2026,14:49:53,3,Lab. Informática 09,IFPB,e4:4e:2d:85:4c:60,-81,11
+27/04/2026,14:49:53,3,Lab. Informática 09,IFPB,84:f1:47:54:96:e0,-82,1
+27/04/2026,14:49:53,3,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:fd:c2,-86,1
+27/04/2026,14:49:53,3,Lab. Informática 09,IFPB-VISITANTE,2c:57:41:d4:69:c2,-87,1
+27/04/2026,14:49:53,3,Lab. Informática 09,IFPB,2c:57:41:d4:69:c0,-88,1
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB,84:f1:47:54:7f:20,-63,11
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:7f:22,-63,11
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-79,6
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB,b8:11:4b:1d:1e:40,-79,6
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB,e4:4e:2d:85:4c:60,-81,11
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,11
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB,84:f1:47:54:fd:c0,-82,1
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:fd:c2,-82,1
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB,2c:57:41:d4:69:c0,-87,1
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:71:02,-88,1
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:f9:82,-89,11
+27/04/2026,14:50:03,4,Lab. Informática 09,IFPB,84:f1:47:54:f9:80,-90,11
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB,84:f1:47:54:7f:20,-65,11
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:7f:22,-65,11
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB,b8:11:4b:1d:1e:40,-79,6
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-79,6
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:fd:c2,-81,1
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB,84:f1:47:54:fd:c0,-82,1
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB,84:f1:47:54:96:e0,-82,1
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,11
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:96:e2,-84,1
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB,2c:57:41:d4:69:c0,-87,1
+27/04/2026,14:50:13,5,Lab. Informática 09,IFPB-VISITANTE,84:f1:47:54:71:02,-89,1
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB,84:f1:47:54:96:e0,-67,1
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:96:e2,-67,1
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:7f:22,-77,11
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-78,11
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB,84:f1:47:54:7f:20,-78,11
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:fd:c2,-82,1
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB,84:f1:47:54:fd:c0,-83,1
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB,b8:11:4b:1d:1e:40,-86,6
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-86,6
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:71:02,-88,1
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB,84:f1:47:54:95:e0,-90,11
+27/04/2026,14:50:35,6,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:95:e2,-91,11
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB,84:f1:47:54:96:e0,-70,1
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:96:e2,-70,1
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:7f:22,-76,11
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB,84:f1:47:54:7f:20,-76,11
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-80,11
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB,e4:4e:2d:85:4c:60,-81,11
+27/04/2026,14:50:45,7,Sala dos técnicos,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-83,6
+27/04/2026,14:50:46,7,Sala dos técnicos,IFPB,b8:11:4b:1d:1e:40,-84,6
+27/04/2026,14:50:46,7,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:fd:c2,-85,1
+27/04/2026,14:50:46,7,Sala dos técnicos,IFPB,84:f1:47:54:fd:c0,-86,1
+27/04/2026,14:50:55,8,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:96:e2,-69,1
+27/04/2026,14:50:55,8,Sala dos técnicos,IFPB,84:f1:47:54:96:e0,-69,1
+27/04/2026,14:50:55,8,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:7f:22,-75,11
+27/04/2026,14:50:55,8,Sala dos técnicos,IFPB,84:f1:47:54:7f:20,-76,11
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-78,11
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:fd:c2,-82,1
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB,b8:11:4b:1d:1e:40,-82,6
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB,84:f1:47:54:fd:c0,-83,1
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB,84:f1:47:54:f9:80,-86,11
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:f9:82,-87,11
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB,84:f1:47:54:71:00,-89,1
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB,84:f1:47:54:95:e0,-89,11
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:71:02,-90,1
+27/04/2026,14:50:56,8,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:95:e2,-90,11
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB,84:f1:47:54:96:e0,-68,1
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:96:e2,-69,1
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:7f:22,-76,11
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB,84:f1:47:54:7f:20,-77,11
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,11
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB,84:f1:47:54:fd:c0,-83,1
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:fd:c2,-83,1
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-83,6
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB,b8:11:4b:1d:1e:40,-83,6
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:f9:82,-85,11
+27/04/2026,14:51:06,9,Sala dos técnicos,IFPB,84:f1:47:54:f9:80,-85,11
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:7f:22,-72,11
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB,84:f1:47:54:7f:20,-74,11
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB,84:f1:47:54:fd:c0,-83,1
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:fd:c2,-83,1
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB,b8:11:4b:1d:1e:40,-83,6
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,11
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB-VISITANTE,84:f1:47:54:f9:82,-86,11
+27/04/2026,14:51:16,10,Sala dos técnicos,IFPB,84:f1:47:54:f9:80,-88,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-70,1
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,84:f1:47:54:96:e0,-71,1
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:22,-76,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,84:f1:47:54:7f:20,-77,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:fd:c2,-79,1
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,84:f1:47:54:fd:c0,-79,1
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-82,6
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:71:02,-83,1
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,b8:11:4b:1d:1e:40,-83,6
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,84:f1:47:54:71:00,-84,1
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,e4:4e:2d:85:4c:60,-88,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB,84:f1:47:54:95:e0,-88,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:95:e2,-88,11
+27/04/2026,14:51:40,11,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:f9:82,-90,11
+27/04/2026,14:51:50,12,Lab. de telecomunicações,IFPB,84:f1:47:54:96:e0,-73,1
+27/04/2026,14:51:50,12,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-75,1
+27/04/2026,14:51:50,12,Lab. de telecomunicações,IFPB,84:f1:47:54:7f:20,-75,11
+27/04/2026,14:51:50,12,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:22,-75,11
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB,84:f1:47:54:fd:c0,-79,1
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:fd:c2,-79,1
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-79,6
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB,b8:11:4b:1d:1e:40,-79,6
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:71:02,-86,1
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-86,11
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB,84:f1:47:54:71:00,-87,1
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB,e4:4e:2d:85:4c:60,-87,11
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:95:e2,-90,11
+27/04/2026,14:51:51,12,Lab. de telecomunicações,IFPB,84:f1:47:54:95:e0,-91,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,84:f1:47:54:7f:20,-70,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:22,-70,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-75,1
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,84:f1:47:54:fd:c0,-77,1
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,84:f1:47:54:96:e0,-77,1
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:fd:c2,-77,1
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-77,6
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,b8:11:4b:1d:1e:40,-78,6
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:71:02,-85,1
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,84:f1:47:54:71:00,-85,1
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:95:e2,-85,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB,84:f1:47:54:95:e0,-86,11
+27/04/2026,14:52:01,13,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:f9:82,-90,11
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,84:f1:47:54:7f:20,-71,11
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:22,-71,11
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,84:f1:47:54:fd:c0,-76,1
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:fd:c2,-76,1
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,b8:11:4b:1d:1e:40,-82,6
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-84,6
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,e4:4e:2d:85:4c:60,-85,11
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,11
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,84:f1:47:54:71:00,-86,1
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:71:02,-87,1
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:95:e2,-88,11
+27/04/2026,14:52:11,14,Lab. de telecomunicações,IFPB,84:f1:47:54:95:e0,-88,11
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB,84:f1:47:54:7f:20,-69,11
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:22,-70,11
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB,84:f1:47:54:96:e0,-71,1
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB,84:f1:47:54:fd:c0,-75,1
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:fd:c2,-75,1
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,11
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB,84:f1:47:54:71:00,-84,1
+27/04/2026,14:52:21,15,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:71:02,-85,1
+27/04/2026,14:52:22,15,Lab. de telecomunicações,IFPB,b8:11:4b:1d:1e:40,-85,6
+27/04/2026,14:52:22,15,Lab. de telecomunicações,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-86,6
+27/04/2026,14:52:22,15,Lab. de telecomunicações,IFPB,84:f1:47:54:f9:80,-89,11
+27/04/2026,14:52:22,15,Lab. de telecomunicações,IFPB-VISITANTE,84:f1:47:54:f9:82,-89,11
+27/04/2026,14:52:22,15,Lab. de telecomunicações,IFPB,84:f1:47:54:95:e0,-89,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-77,1
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-77,1
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-77,1
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-78,1
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-78,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-79,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-83,6
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-84,6
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,84:f1:47:54:7f:20,-85,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-85,11
+27/04/2026,14:52:46,16,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:7f:22,-86,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-73,1
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-74,1
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-74,1
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-74,1
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-79,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-79,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-80,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-81,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-83,6
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,84:f1:47:54:7f:20,-83,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:7f:22,-84,11
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-85,6
+27/04/2026,14:52:56,17,PET Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-85,11
+27/04/2026,14:52:57,17,PET Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,11
+27/04/2026,14:52:57,17,PET Eng. Elétrica,IFPB,84:f1:47:54:71:00,-88,1
+27/04/2026,14:53:06,18,PET Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-73,1
+27/04/2026,14:53:06,18,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-73,1
+27/04/2026,14:53:06,18,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-74,1
+27/04/2026,14:53:06,18,PET Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-75,1
+27/04/2026,14:53:06,18,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-78,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-79,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-82,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-83,6
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-83,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:7f:22,-83,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-84,6
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-84,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB,84:f1:47:54:7f:20,-84,11
+27/04/2026,14:53:07,18,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:71:02,-88,1
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-74,1
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-74,1
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-75,1
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-76,1
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-77,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-77,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-78,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-78,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,84:f1:47:54:7f:20,-84,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:7f:22,-84,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-84,11
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:14:82,-85,6
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,b8:11:4b:1d:14:80,-85,6
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-86,6
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-86,6
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:71:02,-89,1
+27/04/2026,14:53:17,19,PET Eng. Elétrica,IFPB,84:f1:47:54:71:00,-90,1
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-74,1
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-74,1
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-75,1
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-75,1
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-77,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-79,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-81,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-82,6
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-82,6
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-85,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB,84:f1:47:54:7f:20,-86,11
+27/04/2026,14:53:27,20,PET Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:7f:22,-86,11
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-66,11
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-66,11
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-75,11
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-75,11
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:14:80,-80,6
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:14:82,-80,6
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-84,1
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB,24:36:da:2b:5e:c0,-85,1
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-88,1
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-88,6
+27/04/2026,14:53:53,21,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-89,1
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-66,11
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-67,11
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-77,11
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:14:82,-81,6
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:14:80,-81,6
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-88,6
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-89,1
+27/04/2026,14:54:03,22,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-89,1
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-69,11
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-69,11
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:14:80,-78,6
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:14:82,-79,6
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-89,1
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-90,1
+27/04/2026,14:54:13,23,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-90,6
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-63,11
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-64,11
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:14:80,-78,6
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:14:82,-78,6
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:fd:c0,-86,1
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:fd:c2,-87,1
+27/04/2026,14:54:23,24,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-87,6
+27/04/2026,14:54:24,24,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-88,6
+27/04/2026,14:54:24,24,Coordenação de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-90,1
+27/04/2026,14:54:33,25,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-64,11
+27/04/2026,14:54:33,25,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:95:e2,-64,11
+27/04/2026,14:54:33,25,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:14:80,-77,6
+27/04/2026,14:54:33,25,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:14:82,-78,6
+27/04/2026,14:54:33,25,Coordenação de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,14:54:33,25,Coordenação de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,14:54:34,25,Coordenação de Eng. Elétrica,IFPB,b8:11:4b:1d:1e:40,-86,6
+27/04/2026,14:54:34,25,Coordenação de Eng. Elétrica,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-87,6
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-70,11
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-71,11
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:6b:80,-78,6
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:6b:82,-78,6
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-79,1
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-79,1
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-82,1
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-82,1
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,24:36:da:2b:5e:c0,-85,1
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-85,1
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-87,6
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:95:e0,-88,11
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-89,11
+27/04/2026,14:55:17,26,Auditório de Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-90,11
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-72,11
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-72,11
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-79,1
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-79,1
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-80,1
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-80,1
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,6
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB,24:36:da:2b:5e:c0,-84,1
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,14:55:27,27,Auditório de Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-92,11
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-70,11
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-70,11
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-76,1
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-76,1
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:6b:82,-76,6
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:6b:80,-77,6
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-78,1
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-79,1
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB,24:36:da:2b:5e:c0,-84,1
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-87,6
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-88,6
+27/04/2026,14:55:37,28,Auditório de Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,11
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:6b:80,-73,6
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:6b:82,-73,6
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-73,11
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-73,11
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-75,1
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-79,1
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-79,1
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:55:47,29,Auditório de Eng. Elétrica,IFPB,24:36:da:2b:5e:c0,-83,1
+27/04/2026,14:55:48,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6
+27/04/2026,14:55:48,29,Auditório de Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-89,11
+27/04/2026,14:55:48,29,Auditório de Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-91,11
+27/04/2026,14:55:57,30,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-70,11
+27/04/2026,14:55:57,30,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-70,11
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-79,1
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-79,1
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-80,1
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-80,1
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:6b:80,-80,6
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:6b:82,-80,6
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-82,1
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB,24:36:da:2b:5e:c0,-83,1
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-87,6
+27/04/2026,14:55:58,30,Auditório de Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6
+27/04/2026,14:56:19,31,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:96:e0,-68,1
+27/04/2026,14:56:19,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:96:e2,-68,1
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:6b:82,-78,6
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-79,1
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:6b:80,-79,6
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,11
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:f9:82,-83,11
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:f9:80,-83,11
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-87,1
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:5e:c0,-88,1
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:bc:02,-88,6
+27/04/2026,14:56:20,31,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:bc:00,-88,6
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:96:e0,-69,1
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:96:e2,-69,1
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,e4:4e:2d:85:4c:60,-79,11
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-79,11
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-80,1
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:8b:a0,-81,1
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:6b:82,-81,6
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:6b:80,-81,6
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:f9:82,-82,11
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:f9:80,-83,11
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:bc:00,-86,6
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:bc:02,-87,6
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:5e:c0,-89,1
+27/04/2026,14:56:30,32,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-90,1
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:96:e0,-68,1
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:96:e2,-69,1
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-81,1
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:8b:a0,-81,1
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB,e4:4e:2d:85:4c:60,-81,11
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,11
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:6b:80,-82,6
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:bc:00,-82,6
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,6
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:5e:c0,-84,1
+27/04/2026,14:56:40,33,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-87,1
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:96:e0,-68,1
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:96:e2,-69,1
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:8b:a0,-80,1
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-80,1
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:6b:80,-80,6
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:6b:82,-80,6
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:f9:82,-80,11
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB,e4:4e:2d:85:4c:60,-80,11
+27/04/2026,14:56:50,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,11
+27/04/2026,14:56:51,34,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:bc:00,-82,6
+27/04/2026,14:56:51,34,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:f9:80,-82,11
+27/04/2026,14:56:51,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:bc:02,-83,6
+27/04/2026,14:56:51,34,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-85,1
+27/04/2026,14:56:51,34,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:5e:c0,-85,1
+27/04/2026,14:57:00,35,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:96:e0,-68,1
+27/04/2026,14:57:00,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:96:e2,-68,1
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:bc:00,-80,6
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:8b:a0,-81,1
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-81,1
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:6b:80,-81,6
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:6b:82,-81,6
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:bc:02,-81,6
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,84:f1:47:54:f9:82,-82,11
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB,84:f1:47:54:f9:80,-83,11
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,11
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB-VISITANTE,24:36:da:2b:5e:c2,-86,1
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB,24:36:da:2b:5e:c0,-87,1
+27/04/2026,14:57:01,35,Lab. de Instrumentação biomédica,IFPB,e4:4e:2d:85:4c:60,-87,11
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB,84:f1:47:54:96:e0,-61,1
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:96:e2,-61,1
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB,24:36:da:2b:bc:00,-77,6
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:bc:02,-78,6
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-78,11
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:6b:82,-82,6
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB,84:f1:47:54:6b:80,-83,6
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:5e:c2,-85,1
+27/04/2026,14:57:27,36,Lab. de aferição e calibração,IFPB,24:36:da:2b:5e:c0,-86,1
+27/04/2026,14:57:37,37,Lab. de aferição e calibração,IFPB,84:f1:47:54:96:e0,-52,1
+27/04/2026,14:57:37,37,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:96:e2,-53,1
+27/04/2026,14:57:37,37,Lab. de aferição e calibração,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-76,11
+27/04/2026,14:57:37,37,Lab. de aferição e calibração,IFPB,e4:4e:2d:85:4c:60,-77,11
+27/04/2026,14:57:37,37,Lab. de aferição e calibração,IFPB,24:36:da:2b:bc:00,-78,6
+27/04/2026,14:57:37,37,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:bc:02,-78,6
+27/04/2026,14:57:38,37,Lab. de aferição e calibração,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,14:57:38,37,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:6b:82,-84,6
+27/04/2026,14:57:38,37,Lab. de aferição e calibração,IFPB,24:36:da:2b:5e:c0,-87,1
+27/04/2026,14:57:38,37,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,1
+27/04/2026,14:57:38,37,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:5e:c2,-88,1
+27/04/2026,14:57:38,37,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:f9:82,-90,11
+27/04/2026,14:57:47,38,Lab. de aferição e calibração,IFPB,84:f1:47:54:96:e0,-58,1
+27/04/2026,14:57:47,38,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:96:e2,-58,1
+27/04/2026,14:57:47,38,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB,e4:4e:2d:85:4c:60,-77,11
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-77,11
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB,24:36:da:2b:bc:00,-78,6
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:6b:82,-85,6
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB,84:f1:47:54:6b:80,-86,6
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB,84:f1:47:54:8b:a0,-87,1
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB,24:36:da:2b:5e:c0,-88,1
+27/04/2026,14:57:48,38,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:5e:c2,-88,1
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB,84:f1:47:54:96:e0,-61,1
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:96:e2,-61,1
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-77,11
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB,24:36:da:2b:bc:00,-79,6
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:bc:02,-79,6
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB,24:36:da:2b:5e:c0,-82,1
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,6
+27/04/2026,14:57:58,39,Lab. de aferição e calibração,IFPB,84:f1:47:54:6b:80,-87,6
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB,84:f1:47:54:96:e0,-59,1
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:96:e2,-59,1
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB,e4:4e:2d:85:4c:60,-77,11
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB,24:36:da:2b:bc:00,-78,6
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:bc:02,-78,6
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-78,11
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB,24:36:da:2b:5e:c0,-82,1
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB,84:f1:47:54:6b:80,-86,6
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,6
+27/04/2026,14:58:08,40,Lab. de aferição e calibração,IFPB-VISITANTE,84:f1:47:54:8b:a2,-89,1
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB,e4:4e:2d:85:4c:60,-71,11
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-71,11
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:bc:00,-74,6
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:bc:02,-74,6
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:5e:c0,-86,1
+27/04/2026,14:58:25,41,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:5e:c2,-87,1
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB,e4:4e:2d:85:4c:60,-69,11
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-69,11
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:96:e0,-73,1
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:bc:00,-74,6
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:bc:02,-74,6
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:5e:c0,-84,1
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:7f:60,-85,6
+27/04/2026,14:58:35,42,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:62,-86,6
+27/04/2026,14:58:45,43,Lab. de medições em telecomunicações,IFPB,e4:4e:2d:85:4c:60,-71,11
+27/04/2026,14:58:45,43,Lab. de medições em telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-71,11
+27/04/2026,14:58:45,43,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:96:e0,-73,1
+27/04/2026,14:58:45,43,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-73,1
+27/04/2026,14:58:45,43,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:bc:00,-73,6
+27/04/2026,14:58:45,43,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:bc:02,-74,6
+27/04/2026,14:58:46,43,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:5e:c2,-83,1
+27/04/2026,14:58:46,43,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:5e:c0,-84,1
+27/04/2026,14:58:46,43,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:6b:82,-88,6
+27/04/2026,14:58:46,43,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:6b:80,-89,6
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:96:e0,-71,1
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-71,1
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-71,11
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB,e4:4e:2d:85:4c:60,-72,11
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:bc:02,-74,6
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:bc:00,-75,6
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:5e:c0,-86,1
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:5e:c2,-86,1
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:7f:62,-86,6
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:7f:60,-88,6
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:8b:a2,-89,1
+27/04/2026,14:58:56,44,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:f9:80,-91,11
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB,e4:4e:2d:85:4c:60,-72,11
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-72,11
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:96:e2,-74,1
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:96:e0,-75,1
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:bc:00,-79,6
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:bc:02,-79,6
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB-VISITANTE,24:36:da:2b:5e:c2,-86,1
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB,24:36:da:2b:5e:c0,-87,1
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB,84:f1:47:54:7f:60,-87,6
+27/04/2026,14:59:06,45,Lab. de medições em telecomunicações,IFPB-VISITANTE,84:f1:47:54:6b:82,-89,6
+27/04/2026,14:59:39,46,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-79,11
+27/04/2026,14:59:39,46,Coordenação de pós em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-80,11
+27/04/2026,14:59:39,46,Coordenação de pós em Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-85,6
+27/04/2026,14:59:39,46,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6
+27/04/2026,14:59:40,46,Coordenação de pós em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-88,6
+27/04/2026,14:59:40,46,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-88,6
+27/04/2026,14:59:49,47,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-77,11
+27/04/2026,14:59:49,47,Coordenação de pós em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,14:59:50,47,Coordenação de pós em Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-85,6
+27/04/2026,14:59:50,47,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-86,6
+27/04/2026,14:59:50,47,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-89,6
+27/04/2026,14:59:50,47,Coordenação de pós em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-89,6
+27/04/2026,15:00:00,48,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,11
+27/04/2026,15:00:00,48,Coordenação de pós em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,15:00:00,48,Coordenação de pós em Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-85,6
+27/04/2026,15:00:00,48,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-86,6
+27/04/2026,15:00:00,48,Coordenação de pós em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-89,6
+27/04/2026,15:00:00,48,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-90,6
+27/04/2026,15:00:10,49,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,11
+27/04/2026,15:00:10,49,Coordenação de pós em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,15:00:10,49,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6
+27/04/2026,15:00:10,49,Coordenação de pós em Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-85,6
+27/04/2026,15:00:10,49,Coordenação de pós em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-86,6
+27/04/2026,15:00:20,50,Coordenação de pós em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,15:00:20,50,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-78,11
+27/04/2026,15:00:20,50,Coordenação de pós em Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-83,6
+27/04/2026,15:00:20,50,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-83,6
+27/04/2026,15:00:20,50,Coordenação de pós em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-88,6
+27/04/2026,15:00:20,50,Coordenação de pós em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-89,6
+27/04/2026,15:00:44,51,Lab. de redes convergentes,IFPB,e4:4e:2d:85:4c:60,-58,11
+27/04/2026,15:00:44,51,Lab. de redes convergentes,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-58,11
+27/04/2026,15:00:44,51,Lab. de redes convergentes,IFPB,24:36:da:2b:bc:00,-77,6
+27/04/2026,15:00:44,51,Lab. de redes convergentes,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6
+27/04/2026,15:00:44,51,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,1
+27/04/2026,15:00:44,51,Lab. de redes convergentes,IFPB,84:f1:47:54:96:e0,-83,1
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB,e4:4e:2d:85:4c:60,-57,11
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-58,11
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB,24:36:da:2b:bc:00,-78,6
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB-VISITANTE,24:36:da:2b:bc:02,-79,6
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB,84:f1:47:54:96:e0,-81,1
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:96:e2,-81,1
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB,84:f1:47:54:eb:20,-85,6
+27/04/2026,15:00:54,52,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:eb:22,-86,6
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB,e4:4e:2d:85:4c:60,-58,11
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-58,11
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB,24:36:da:2b:bc:00,-77,6
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:96:e2,-80,1
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB,84:f1:47:54:96:e0,-80,1
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB,84:f1:47:54:eb:20,-85,6
+27/04/2026,15:01:04,53,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB,e4:4e:2d:85:4c:60,-59,11
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-59,11
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB-VISITANTE,24:36:da:2b:bc:02,-78,6
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB,24:36:da:2b:bc:00,-79,6
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB,84:f1:47:54:96:e0,-81,1
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,1
+27/04/2026,15:01:14,54,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6
+27/04/2026,15:01:24,55,Lab. de redes convergentes,IFPB,e4:4e:2d:85:4c:60,-58,11
+27/04/2026,15:01:24,55,Lab. de redes convergentes,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-58,11
+27/04/2026,15:01:25,55,Lab. de redes convergentes,IFPB,24:36:da:2b:bc:00,-77,6
+27/04/2026,15:01:25,55,Lab. de redes convergentes,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6
+27/04/2026,15:01:25,55,Lab. de redes convergentes,IFPB-VISITANTE,84:f1:47:54:96:e2,-81,1
+27/04/2026,15:01:25,55,Lab. de redes convergentes,IFPB,84:f1:47:54:96:e0,-83,1
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-63,11
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB,e4:4e:2d:85:4c:60,-64,11
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB,84:f1:47:54:eb:20,-81,6
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB,24:36:da:2b:bc:00,-82,6
+27/04/2026,15:01:50,56,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB,e4:4e:2d:85:4c:60,-61,11
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-61,11
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB,84:f1:47:54:96:e0,-73,1
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB,84:f1:47:54:eb:20,-82,6
+27/04/2026,15:02:00,57,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6
+27/04/2026,15:02:10,58,Lab. de fibras ópticas,IFPB,e4:4e:2d:85:4c:60,-61,11
+27/04/2026,15:02:10,58,Lab. de fibras ópticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-61,11
+27/04/2026,15:02:10,58,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:96:e2,-71,1
+27/04/2026,15:02:10,58,Lab. de fibras ópticas,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,15:02:11,58,Lab. de fibras ópticas,IFPB,84:f1:47:54:eb:20,-80,6
+27/04/2026,15:02:11,58,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-80,6
+27/04/2026,15:02:11,58,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB,e4:4e:2d:85:4c:60,-60,11
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-60,11
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:96:e2,-71,1
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB,24:36:da:2b:bc:00,-79,6
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:da:2b:bc:02,-79,6
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB,84:f1:47:54:eb:20,-83,6
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB,84:f1:47:54:8b:a0,-87,1
+27/04/2026,15:02:21,59,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-89,1
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB,e4:4e:2d:85:4c:60,-61,11
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-61,11
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB,84:f1:47:54:96:e0,-72,1
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:96:e2,-72,1
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB,24:36:da:2b:bc:00,-77,6
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB,84:f1:47:54:eb:20,-81,6
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6
+27/04/2026,15:02:31,60,Lab. de fibras ópticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-90,1
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-78,6
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-78,11
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-79,6
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-79,11
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-86,1
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-86,11
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-87,1
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-87,1
+27/04/2026,15:02:54,61,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-87,11
+27/04/2026,15:02:55,61,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,1
+27/04/2026,15:03:04,62,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-78,6
+27/04/2026,15:03:04,62,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-78,6
+27/04/2026,15:03:04,62,Pesquisa em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,15:03:05,62,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,11
+27/04/2026,15:03:05,62,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-86,11
+27/04/2026,15:03:05,62,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-86,11
+27/04/2026,15:03:05,62,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-87,1
+27/04/2026,15:03:05,62,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-87,1
+27/04/2026,15:03:14,63,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-78,6
+27/04/2026,15:03:14,63,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-78,6
+27/04/2026,15:03:15,63,Pesquisa em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-84,11
+27/04/2026,15:03:15,63,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,11
+27/04/2026,15:03:15,63,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-85,11
+27/04/2026,15:03:15,63,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-85,11
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-76,11
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB,e4:4e:2d:85:4c:60,-77,11
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-80,6
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-81,1
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-82,1
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-85,11
+27/04/2026,15:03:25,64,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-85,11
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:eb:20,-82,6
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:8b:a2,-85,1
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:8b:a0,-86,1
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB,24:36:da:2b:bc:00,-86,6
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,24:36:da:2b:bc:02,-87,6
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:96:e2,-88,1
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:96:e0,-88,1
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB,84:f1:47:54:f9:80,-88,11
+27/04/2026,15:03:35,65,Pesquisa em Eng. Elétrica,IFPB-VISITANTE,84:f1:47:54:f9:82,-90,11
+27/04/2026,15:04:26,66,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-76,1
+27/04/2026,15:04:26,66,Práticas didáticas,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:04:27,66,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:f9:82,-79,11
+27/04/2026,15:04:27,66,Práticas didáticas,IFPB,84:f1:47:54:f9:80,-80,11
+27/04/2026,15:04:27,66,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6
+27/04/2026,15:04:27,66,Práticas didáticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,11
+27/04/2026,15:04:27,66,Práticas didáticas,IFPB,84:f1:47:54:eb:20,-83,6
+27/04/2026,15:04:27,66,Práticas didáticas,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB,84:f1:47:54:eb:20,-75,6
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-75,6
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB,84:f1:47:54:8b:a0,-80,1
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-80,1
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB,e4:4e:2d:85:4c:60,-83,11
+27/04/2026,15:04:37,67,Práticas didáticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,11
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB,84:f1:47:54:eb:20,-74,6
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-74,6
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-76,1
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:f9:82,-78,11
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB,84:f1:47:54:f9:80,-78,11
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB,e4:4e:2d:85:4c:60,-82,11
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,11
+27/04/2026,15:04:47,68,Práticas didáticas,IFPB-VISITANTE,24:36:da:2b:5e:c2,-88,1
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB,84:f1:47:54:eb:20,-75,6
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-75,6
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB,84:f1:47:54:f9:80,-79,11
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:f9:82,-79,11
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,11
+27/04/2026,15:04:57,69,Práticas didáticas,IFPB,e4:4e:2d:85:4c:60,-84,11
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB,84:f1:47:54:eb:20,-75,6
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:eb:22,-75,6
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-79,11
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB,e4:4e:2d:85:4c:60,-80,11
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB,84:f1:47:54:f9:80,-84,11
+27/04/2026,15:05:07,70,Práticas didáticas,IFPB-VISITANTE,84:f1:47:54:f9:82,-84,11
+27/04/2026,15:05:08,70,Práticas didáticas,IFPB-VISITANTE,24:36:da:2b:5e:c2,-89,1
+27/04/2026,15:05:51,71,Sala dos professores,IFPB,84:f1:47:54:fd:c0,-63,1
+27/04/2026,15:05:51,71,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:fd:c2,-63,1
+27/04/2026,15:05:52,71,Sala dos professores,IFPB,e4:4e:2d:85:4c:60,-87,11
+27/04/2026,15:05:52,71,Sala dos professores,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,11
+27/04/2026,15:05:52,71,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:96:e2,-89,1
+27/04/2026,15:05:52,71,Sala dos professores,IFPB,84:f1:47:54:96:e0,-89,1
+27/04/2026,15:05:52,71,Sala dos professores,IFPB,84:f1:47:54:7f:20,-89,11
+27/04/2026,15:05:52,71,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:7f:22,-89,11
+27/04/2026,15:05:52,71,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:95:e2,-91,11
+27/04/2026,15:05:52,71,Sala dos professores,IFPB,84:f1:47:54:f9:80,-91,11
+27/04/2026,15:06:02,72,Sala dos professores,IFPB,84:f1:47:54:fd:c0,-62,1
+27/04/2026,15:06:02,72,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:fd:c2,-63,1
+27/04/2026,15:06:02,72,Sala dos professores,IFPB,84:f1:47:54:7f:20,-88,11
+27/04/2026,15:06:02,72,Sala dos professores,IFPB,84:f1:47:54:96:e0,-89,1
+27/04/2026,15:06:02,72,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:96:e2,-89,1
+27/04/2026,15:06:02,72,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:7f:22,-89,11
+27/04/2026,15:06:12,73,Sala dos professores,IFPB,84:f1:47:54:fd:c0,-64,1
+27/04/2026,15:06:12,73,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:fd:c2,-64,1
+27/04/2026,15:06:12,73,Sala dos professores,IFPB,84:f1:47:54:7f:20,-87,11
+27/04/2026,15:06:12,73,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:7f:22,-89,11
+27/04/2026,15:06:12,73,Sala dos professores,IFPB,84:f1:47:54:96:e0,-91,1
+27/04/2026,15:06:22,74,Sala dos professores,IFPB,84:f1:47:54:fd:c0,-64,1
+27/04/2026,15:06:22,74,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:fd:c2,-64,1
+27/04/2026,15:06:22,74,Sala dos professores,IFPB,e4:4e:2d:85:4c:60,-88,11
+27/04/2026,15:06:22,74,Sala dos professores,IFPB,84:f1:47:54:7f:20,-88,11
+27/04/2026,15:06:22,74,Sala dos professores,IFPB,84:f1:47:54:95:e0,-90,11
+27/04/2026,15:06:22,74,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:95:e2,-90,11
+27/04/2026,15:06:22,74,Sala dos professores,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,11
+27/04/2026,15:06:32,75,Sala dos professores,IFPB,84:f1:47:54:fd:c0,-64,1
+27/04/2026,15:06:32,75,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:fd:c2,-64,1
+27/04/2026,15:06:32,75,Sala dos professores,IFPB,e4:4e:2d:85:4c:60,-89,11
+27/04/2026,15:06:32,75,Sala dos professores,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,11
+27/04/2026,15:06:32,75,Sala dos professores,IFPB,84:f1:47:54:95:e0,-90,11
+27/04/2026,15:06:32,75,Sala dos professores,IFPB-VISITANTE,84:f1:47:54:95:e2,-90,11
+27/04/2026,15:07:45,76,Lab. química 03,IFPB,84:f1:47:54:6b:80,-79,6
+27/04/2026,15:07:45,76,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:6b:82,-79,6
+27/04/2026,15:07:45,76,Lab. química 03,IFPB,b8:11:4b:1d:12:00,-81,1
+27/04/2026,15:07:45,76,Lab. química 03,IFPB-VISITANTE,b8:11:4b:1d:12:02,-81,1
+27/04/2026,15:07:45,76,Lab. química 03,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6
+27/04/2026,15:07:46,76,Lab. química 03,IFPB,84:f1:47:54:81:00,-82,11
+27/04/2026,15:07:46,76,Lab. química 03,IFPB,24:36:da:2b:bc:00,-83,6
+27/04/2026,15:07:46,76,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:81:02,-83,11
+27/04/2026,15:07:46,76,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:7f:62,-85,6
+27/04/2026,15:07:46,76,Lab. química 03,IFPB,84:f1:47:54:7f:60,-86,6
+27/04/2026,15:07:46,76,Lab. química 03,IFPB,2c:57:41:cd:e1:c0,-87,11
+27/04/2026,15:07:46,76,Lab. química 03,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-87,11
+27/04/2026,15:07:46,76,Lab. química 03,IFPB,24:36:da:a2:7f:40,-88,6
+27/04/2026,15:07:55,77,Lab. química 03,IFPB,84:f1:47:54:6b:80,-77,6
+27/04/2026,15:07:55,77,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:6b:82,-78,6
+27/04/2026,15:07:55,77,Lab. química 03,IFPB-VISITANTE,b8:11:4b:1d:12:02,-79,1
+27/04/2026,15:07:56,77,Lab. química 03,IFPB,b8:11:4b:1d:12:00,-80,1
+27/04/2026,15:07:56,77,Lab. química 03,IFPB-VISITANTE,24:36:da:a2:7f:42,-82,6
+27/04/2026,15:07:56,77,Lab. química 03,IFPB,24:36:da:a2:7f:40,-83,6
+27/04/2026,15:07:56,77,Lab. química 03,IFPB,24:36:da:2b:bc:00,-84,6
+27/04/2026,15:07:56,77,Lab. química 03,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6
+27/04/2026,15:07:56,77,Lab. química 03,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-85,11
+27/04/2026,15:07:56,77,Lab. química 03,IFPB,2c:57:41:cd:e1:c0,-86,11
+27/04/2026,15:07:56,77,Lab. química 03,IFPB,84:f1:47:54:7f:60,-88,6
+27/04/2026,15:07:56,77,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:7f:62,-88,6
+27/04/2026,15:07:56,77,Lab. química 03,IFPB,84:f1:47:54:81:00,-88,11
+27/04/2026,15:07:56,77,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:08:05,78,Lab. química 03,IFPB,84:f1:47:54:6b:80,-77,6
+27/04/2026,15:08:05,78,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:6b:82,-77,6
+27/04/2026,15:08:05,78,Lab. química 03,IFPB-VISITANTE,b8:11:4b:1d:12:02,-78,1
+27/04/2026,15:08:05,78,Lab. química 03,IFPB,b8:11:4b:1d:12:00,-79,1
+27/04/2026,15:08:05,78,Lab. química 03,IFPB-VISITANTE,24:36:da:a2:7f:42,-81,6
+27/04/2026,15:08:06,78,Lab. química 03,IFPB,24:36:da:2b:bc:00,-84,6
+27/04/2026,15:08:06,78,Lab. química 03,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6
+27/04/2026,15:08:06,78,Lab. química 03,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-86,11
+27/04/2026,15:08:06,78,Lab. química 03,IFPB,2c:57:41:cd:e1:c0,-86,11
+27/04/2026,15:08:06,78,Lab. química 03,IFPB,84:f1:47:54:7f:60,-87,6
+27/04/2026,15:08:06,78,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:7f:62,-87,6
+27/04/2026,15:08:06,78,Lab. química 03,IFPB,84:f1:47:54:81:00,-87,11
+27/04/2026,15:08:06,78,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:81:02,-87,11
+27/04/2026,15:08:15,79,Lab. química 03,IFPB,b8:11:4b:1d:12:00,-77,1
+27/04/2026,15:08:15,79,Lab. química 03,IFPB-VISITANTE,b8:11:4b:1d:12:02,-77,1
+27/04/2026,15:08:15,79,Lab. química 03,IFPB,84:f1:47:54:6b:80,-79,6
+27/04/2026,15:08:15,79,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:6b:82,-80,6
+27/04/2026,15:08:15,79,Lab. química 03,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6
+27/04/2026,15:08:16,79,Lab. química 03,IFPB,24:36:da:2b:bc:00,-83,6
+27/04/2026,15:08:16,79,Lab. química 03,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-86,11
+27/04/2026,15:08:16,79,Lab. química 03,IFPB,24:36:da:a2:7f:40,-87,6
+27/04/2026,15:08:16,79,Lab. química 03,IFPB,2c:57:41:cd:e1:c0,-87,11
+27/04/2026,15:08:16,79,Lab. química 03,IFPB-VISITANTE,24:36:da:a2:7f:42,-88,6
+27/04/2026,15:08:16,79,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:7f:62,-88,6
+27/04/2026,15:08:25,80,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:6b:82,-76,6
+27/04/2026,15:08:25,80,Lab. química 03,IFPB,b8:11:4b:1d:12:00,-77,1
+27/04/2026,15:08:25,80,Lab. química 03,IFPB-VISITANTE,b8:11:4b:1d:12:02,-77,1
+27/04/2026,15:08:25,80,Lab. química 03,IFPB,84:f1:47:54:6b:80,-77,6
+27/04/2026,15:08:25,80,Lab. química 03,IFPB-VISITANTE,24:36:da:2b:bc:02,-80,6
+27/04/2026,15:08:26,80,Lab. química 03,IFPB,24:36:da:2b:bc:00,-82,6
+27/04/2026,15:08:26,80,Lab. química 03,IFPB-VISITANTE,84:f1:47:54:81:02,-84,11
+27/04/2026,15:08:26,80,Lab. química 03,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-85,11
+27/04/2026,15:08:26,80,Lab. química 03,IFPB,84:f1:47:54:81:00,-85,11
+27/04/2026,15:08:26,80,Lab. química 03,IFPB,2c:57:41:cd:e1:c0,-86,11
+27/04/2026,15:08:48,81,Lab. química 01,IFPB,84:f1:47:54:6b:80,-63,6
+27/04/2026,15:08:48,81,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:6b:82,-63,6
+27/04/2026,15:08:48,81,Lab. química 01,IFPB-VISITANTE,24:36:da:a2:7f:42,-82,6
+27/04/2026,15:08:48,81,Lab. química 01,IFPB,24:36:da:2b:bc:00,-82,6
+27/04/2026,15:08:48,81,Lab. química 01,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6
+27/04/2026,15:08:48,81,Lab. química 01,IFPB,2c:57:41:cd:e1:c0,-82,11
+27/04/2026,15:08:48,81,Lab. química 01,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-82,11
+27/04/2026,15:08:48,81,Lab. química 01,IFPB,24:36:da:a2:7f:40,-83,6
+27/04/2026,15:08:48,81,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,1
+27/04/2026,15:08:48,81,Lab. química 01,IFPB,84:f1:47:54:81:00,-89,11
+27/04/2026,15:08:48,81,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:08:58,82,Lab. química 01,IFPB,84:f1:47:54:6b:80,-60,6
+27/04/2026,15:08:58,82,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:6b:82,-61,6
+27/04/2026,15:08:58,82,Lab. química 01,IFPB,2c:57:41:cd:e1:c0,-75,11
+27/04/2026,15:08:58,82,Lab. química 01,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-75,11
+27/04/2026,15:08:58,82,Lab. química 01,IFPB,24:36:da:2b:bc:00,-80,6
+27/04/2026,15:08:58,82,Lab. química 01,IFPB-VISITANTE,24:36:da:2b:bc:02,-80,6
+27/04/2026,15:08:58,82,Lab. química 01,IFPB-VISITANTE,24:36:da:a2:7f:42,-86,6
+27/04/2026,15:08:58,82,Lab. química 01,IFPB,24:36:da:a2:7f:40,-86,6
+27/04/2026,15:08:58,82,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:8b:a2,-87,1
+27/04/2026,15:08:58,82,Lab. química 01,IFPB,84:f1:47:54:8b:a0,-89,1
+27/04/2026,15:09:08,83,Lab. química 01,IFPB,84:f1:47:54:6b:80,-60,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:6b:82,-60,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-74,11
+27/04/2026,15:09:08,83,Lab. química 01,IFPB,2c:57:41:cd:e1:c0,-75,11
+27/04/2026,15:09:08,83,Lab. química 01,IFPB,24:36:da:2b:bc:00,-82,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:7f:62,-83,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB,24:36:da:a2:7f:40,-85,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB-VISITANTE,24:36:da:a2:7f:42,-86,6
+27/04/2026,15:09:08,83,Lab. química 01,IFPB,84:f1:47:54:81:00,-88,11
+27/04/2026,15:09:08,83,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:09:18,84,Lab. química 01,IFPB,84:f1:47:54:6b:80,-59,6
+27/04/2026,15:09:18,84,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:6b:82,-59,6
+27/04/2026,15:09:18,84,Lab. química 01,IFPB,2c:57:41:cd:e1:c0,-72,11
+27/04/2026,15:09:18,84,Lab. química 01,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-73,11
+27/04/2026,15:09:18,84,Lab. química 01,IFPB,24:36:da:2b:bc:00,-81,6
+27/04/2026,15:09:18,84,Lab. química 01,IFPB-VISITANTE,24:36:da:2b:bc:02,-81,6
+27/04/2026,15:09:18,84,Lab. química 01,IFPB,84:f1:47:54:81:00,-87,11
+27/04/2026,15:09:18,84,Lab. química 01,IFPB,84:f1:47:54:8b:a0,-88,1
+27/04/2026,15:09:18,84,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,1
+27/04/2026,15:09:18,84,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:09:28,85,Lab. química 01,IFPB,84:f1:47:54:6b:80,-60,6
+27/04/2026,15:09:28,85,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:6b:82,-61,6
+27/04/2026,15:09:28,85,Lab. química 01,IFPB,2c:57:41:cd:e1:c0,-75,11
+27/04/2026,15:09:28,85,Lab. química 01,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-75,11
+27/04/2026,15:09:28,85,Lab. química 01,IFPB-VISITANTE,24:36:da:2b:bc:02,-81,6
+27/04/2026,15:09:28,85,Lab. química 01,IFPB,24:36:da:2b:bc:00,-81,6
+27/04/2026,15:09:28,85,Lab. química 01,IFPB,84:f1:47:54:8b:a0,-86,1
+27/04/2026,15:09:28,85,Lab. química 01,IFPB-VISITANTE,24:36:da:a2:7f:42,-88,6
+27/04/2026,15:09:28,85,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:8b:a2,-89,1
+27/04/2026,15:09:28,85,Lab. química 01,IFPB,84:f1:47:54:81:00,-89,11
+27/04/2026,15:09:28,85,Lab. química 01,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB,84:f1:47:54:8b:a0,-76,1
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-76,1
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:80:62,-79,11
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB,84:f1:47:54:80:60,-80,11
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB,84:f1:47:54:6b:80,-87,6
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:6b:82,-87,6
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB,2c:57:41:cd:e1:c0,-87,11
+27/04/2026,15:09:57,86,Lab. de microscopia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-87,11
+27/04/2026,15:10:07,87,Lab. de microscopia,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:10:07,87,Lab. de microscopia,IFPB,84:f1:47:54:80:60,-77,11
+27/04/2026,15:10:07,87,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:80:62,-77,11
+27/04/2026,15:10:07,87,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:10:07,87,Lab. de microscopia,IFPB,84:f1:47:54:6b:80,-80,6
+27/04/2026,15:10:08,87,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,6
+27/04/2026,15:10:08,87,Lab. de microscopia,IFPB,2c:57:41:cd:e1:c0,-86,11
+27/04/2026,15:10:08,87,Lab. de microscopia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-87,11
+27/04/2026,15:10:08,87,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:f9:82,-88,11
+27/04/2026,15:10:08,87,Lab. de microscopia,IFPB-VISITANTE,2c:57:41:d4:a5:22,-90,11
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB,84:f1:47:54:8b:a0,-76,1
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-76,1
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB,84:f1:47:54:80:60,-77,11
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:80:62,-77,11
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB,84:f1:47:54:6b:80,-88,6
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-88,11
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:6b:82,-89,6
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB,84:f1:47:54:f9:80,-89,11
+27/04/2026,15:10:18,88,Lab. de microscopia,IFPB,2c:57:41:cd:e1:c0,-90,11
+27/04/2026,15:10:27,89,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,1
+27/04/2026,15:10:27,89,Lab. de microscopia,IFPB,84:f1:47:54:8b:a0,-76,1
+27/04/2026,15:10:27,89,Lab. de microscopia,IFPB,84:f1:47:54:80:60,-77,11
+27/04/2026,15:10:27,89,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:80:62,-77,11
+27/04/2026,15:10:28,89,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,6
+27/04/2026,15:10:28,89,Lab. de microscopia,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,15:10:28,89,Lab. de microscopia,IFPB-VISITANTE,2c:57:41:d4:a5:22,-87,11
+27/04/2026,15:10:28,89,Lab. de microscopia,IFPB,2c:57:41:d4:a5:20,-88,11
+27/04/2026,15:10:28,89,Lab. de microscopia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-89,11
+27/04/2026,15:10:37,90,Lab. de microscopia,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:10:37,90,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:10:37,90,Lab. de microscopia,IFPB,84:f1:47:54:6b:80,-78,6
+27/04/2026,15:10:37,90,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:6b:82,-78,6
+27/04/2026,15:10:38,90,Lab. de microscopia,IFPB-VISITANTE,84:f1:47:54:80:62,-78,11
+27/04/2026,15:10:38,90,Lab. de microscopia,IFPB,84:f1:47:54:80:60,-78,11
+27/04/2026,15:10:38,90,Lab. de microscopia,IFPB,2c:57:41:d4:a5:20,-91,11
+27/04/2026,15:10:57,91,Lab. de matemática,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:10:57,91,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:10:57,91,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:80:62,-78,11
+27/04/2026,15:10:58,91,Lab. de matemática,IFPB,84:f1:47:54:80:60,-79,11
+27/04/2026,15:10:58,91,Lab. de matemática,IFPB,84:f1:47:54:6b:80,-81,6
+27/04/2026,15:10:58,91,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:6b:82,-81,6
+27/04/2026,15:10:58,91,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:f9:82,-85,11
+27/04/2026,15:10:58,91,Lab. de matemática,IFPB,84:f1:47:54:f9:80,-86,11
+27/04/2026,15:10:58,91,Lab. de matemática,IFPB,2c:57:41:d4:a5:20,-89,11
+27/04/2026,15:11:07,92,Lab. de matemática,IFPB,84:f1:47:54:80:60,-76,11
+27/04/2026,15:11:07,92,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:80:62,-76,11
+27/04/2026,15:11:07,92,Lab. de matemática,IFPB,84:f1:47:54:8b:a0,-79,1
+27/04/2026,15:11:07,92,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:8b:a2,-79,1
+27/04/2026,15:11:08,92,Lab. de matemática,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,15:11:08,92,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:f9:82,-84,11
+27/04/2026,15:11:08,92,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:6b:82,-85,6
+27/04/2026,15:11:08,92,Lab. de matemática,IFPB-VISITANTE,2c:57:41:d4:a5:22,-86,11
+27/04/2026,15:11:08,92,Lab. de matemática,IFPB,2c:57:41:d4:a5:20,-87,11
+27/04/2026,15:11:08,92,Lab. de matemática,IFPB,2c:57:41:cd:e1:c0,-89,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,84:f1:47:54:80:60,-81,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:80:62,-81,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:6b:82,-85,6
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,84:f1:47:54:f9:80,-87,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:f9:82,-87,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,2c:57:41:cd:e1:c0,-87,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,2c:57:41:d4:a5:22,-88,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-88,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:fd:62,-89,1
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,2c:57:41:d4:a5:20,-89,11
+27/04/2026,15:11:18,93,Lab. de matemática,IFPB,84:f1:47:54:fd:60,-90,1
+27/04/2026,15:11:27,94,Lab. de matemática,IFPB,84:f1:47:54:8b:a0,-76,1
+27/04/2026,15:11:27,94,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:11:27,94,Lab. de matemática,IFPB-VISITANTE,2c:57:41:d4:a5:22,-82,11
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB,84:f1:47:54:80:60,-83,11
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:80:62,-83,11
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB,84:f1:47:54:6b:80,-85,6
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB,2c:57:41:d4:a5:20,-85,11
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:6b:82,-87,6
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB,84:f1:47:54:f9:80,-87,11
+27/04/2026,15:11:28,94,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:f9:82,-89,11
+27/04/2026,15:11:37,95,Lab. de matemática,IFPB,84:f1:47:54:8b:a0,-76,1
+27/04/2026,15:11:37,95,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:11:37,95,Lab. de matemática,IFPB,84:f1:47:54:80:60,-78,11
+27/04/2026,15:11:37,95,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:80:62,-78,11
+27/04/2026,15:11:38,95,Lab. de matemática,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,6
+27/04/2026,15:11:38,95,Lab. de matemática,IFPB,84:f1:47:54:6b:80,-87,6
+27/04/2026,15:12:06,96,Lab. química 02,IFPB,84:f1:47:54:6b:80,-67,6
+27/04/2026,15:12:06,96,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:6b:82,-68,6
+27/04/2026,15:12:06,96,Lab. química 02,IFPB,24:36:da:2b:bc:00,-75,6
+27/04/2026,15:12:06,96,Lab. química 02,IFPB-VISITANTE,24:36:da:2b:bc:02,-76,6
+27/04/2026,15:12:06,96,Lab. química 02,IFPB,2c:57:41:cd:e1:c0,-81,11
+27/04/2026,15:12:06,96,Lab. química 02,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-82,11
+27/04/2026,15:12:06,96,Lab. química 02,IFPB,24:36:da:a2:7f:40,-85,6
+27/04/2026,15:12:06,96,Lab. química 02,IFPB,84:f1:47:54:81:00,-86,11
+27/04/2026,15:12:06,96,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:12:16,97,Lab. química 02,IFPB,84:f1:47:54:6b:80,-69,6
+27/04/2026,15:12:16,97,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:6b:82,-71,6
+27/04/2026,15:12:16,97,Lab. química 02,IFPB,24:36:da:2b:bc:00,-78,6
+27/04/2026,15:12:16,97,Lab. química 02,IFPB-VISITANTE,24:36:da:2b:bc:02,-78,6
+27/04/2026,15:12:16,97,Lab. química 02,IFPB-VISITANTE,24:36:da:a2:7f:42,-84,6
+27/04/2026,15:12:16,97,Lab. química 02,IFPB,24:36:da:a2:7f:40,-85,6
+27/04/2026,15:12:16,97,Lab. química 02,IFPB,84:f1:47:54:81:00,-86,11
+27/04/2026,15:12:16,97,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:81:02,-86,11
+27/04/2026,15:12:16,97,Lab. química 02,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-86,11
+27/04/2026,15:12:16,97,Lab. química 02,IFPB,2c:57:41:cd:e1:c0,-87,11
+27/04/2026,15:12:26,98,Lab. química 02,IFPB,84:f1:47:54:6b:80,-72,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:6b:82,-72,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB-VISITANTE,24:36:da:2b:bc:02,-80,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB,24:36:da:2b:bc:00,-81,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB-VISITANTE,24:36:da:a2:7f:42,-83,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB,24:36:da:a2:7f:40,-84,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB,84:f1:47:54:7f:60,-84,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:7f:62,-85,6
+27/04/2026,15:12:26,98,Lab. química 02,IFPB,2c:57:41:cd:e1:c0,-85,11
+27/04/2026,15:12:26,98,Lab. química 02,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-86,11
+27/04/2026,15:12:26,98,Lab. química 02,IFPB,84:f1:47:54:81:00,-87,11
+27/04/2026,15:12:26,98,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:81:02,-87,11
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,84:f1:47:54:6b:80,-67,6
+27/04/2026,15:12:36,99,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:6b:82,-67,6
+27/04/2026,15:12:36,99,Lab. química 02,IFPB-VISITANTE,24:36:da:2b:bc:02,-79,6
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,24:36:da:2b:bc:00,-80,6
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,2c:57:41:cd:e1:c0,-84,11
+27/04/2026,15:12:36,99,Lab. química 02,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-84,11
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,b8:11:4b:1d:12:00,-87,1
+27/04/2026,15:12:36,99,Lab. química 02,IFPB-VISITANTE,b8:11:4b:1d:12:02,-87,1
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,24:36:da:a2:7f:40,-87,6
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,84:f1:47:54:81:00,-87,11
+27/04/2026,15:12:36,99,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,1
+27/04/2026,15:12:36,99,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:12:36,99,Lab. química 02,IFPB,84:f1:47:54:8b:a0,-89,1
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:6b:82,-69,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB,84:f1:47:54:6b:80,-70,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB,24:36:da:2b:bc:00,-75,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,24:36:da:2b:bc:02,-76,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB,2c:57:41:cd:e1:c0,-83,11
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-83,11
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:7f:62,-84,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,24:36:da:a2:7f:42,-86,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB,84:f1:47:54:81:00,-86,11
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:81:02,-86,11
+27/04/2026,15:12:46,100,Lab. química 02,IFPB,24:36:da:a2:7f:40,-87,6
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,84:f1:47:54:8b:a2,-89,1
+27/04/2026,15:12:46,100,Lab. química 02,IFPB-VISITANTE,b8:11:4b:1d:12:02,-89,1
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB,24:36:da:2b:bc:00,-69,6
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB-VISITANTE,24:36:da:2b:bc:02,-69,6
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:6b:82,-84,6
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-86,11
+27/04/2026,15:13:24,101,Lab. de biologia,IFPB,2c:57:41:cd:e1:c0,-87,11
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB,24:36:da:2b:bc:00,-71,6
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB-VISITANTE,24:36:da:2b:bc:02,-71,6
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB,84:f1:47:54:6b:80,-79,6
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:6b:82,-79,6
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB,2c:57:41:cd:e1:c0,-89,11
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB,84:f1:47:54:81:00,-90,11
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-91,11
+27/04/2026,15:13:34,102,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:81:02,-91,11
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB,24:36:da:2b:bc:00,-69,6
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB-VISITANTE,24:36:da:2b:bc:02,-69,6
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,6
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB,84:f1:47:54:6b:80,-84,6
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB,2c:57:41:cd:e1:c0,-89,11
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB,84:f1:47:54:81:00,-90,11
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:81:02,-90,11
+27/04/2026,15:13:44,103,Lab. de biologia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-90,11
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB-VISITANTE,24:36:da:2b:bc:02,-73,6
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB,24:36:da:2b:bc:00,-74,6
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:6b:82,-81,6
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB,84:f1:47:54:6b:80,-81,6
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB,2c:57:41:cd:e1:c0,-84,11
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-86,11
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB,84:f1:47:54:81:00,-88,11
+27/04/2026,15:13:54,104,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB,24:36:da:2b:bc:00,-71,6
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB-VISITANTE,24:36:da:2b:bc:02,-72,6
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB,84:f1:47:54:8b:a0,-75,1
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,1
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB,84:f1:47:54:6b:80,-80,6
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:6b:82,-80,6
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB,2c:57:41:cd:e1:c0,-83,11
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-84,11
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB,84:f1:47:54:81:00,-85,11
+27/04/2026,15:14:04,105,Lab. de biologia,IFPB-VISITANTE,84:f1:47:54:81:02,-85,11
+27/04/2026,15:14:25,106,Lab. de física,IFPB,24:36:da:2b:bc:00,-71,6
+27/04/2026,15:14:25,106,Lab. de física,IFPB-VISITANTE,24:36:da:2b:bc:02,-71,6
+27/04/2026,15:14:25,106,Lab. de física,IFPB,84:f1:47:54:6b:80,-77,6
+27/04/2026,15:14:25,106,Lab. de física,IFPB-VISITANTE,84:f1:47:54:6b:82,-78,6
+27/04/2026,15:14:25,106,Lab. de física,IFPB,84:f1:47:54:8b:a0,-81,1
+27/04/2026,15:14:25,106,Lab. de física,IFPB-VISITANTE,84:f1:47:54:8b:a2,-81,1
+27/04/2026,15:14:25,106,Lab. de física,IFPB-VISITANTE,84:f1:47:54:81:02,-81,11
+27/04/2026,15:14:25,106,Lab. de física,IFPB,2c:57:41:cd:e1:c0,-85,11
+27/04/2026,15:14:25,106,Lab. de física,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-85,11
+27/04/2026,15:14:25,106,Lab. de física,IFPB,84:f1:47:54:81:00,-85,11
+27/04/2026,15:14:35,107,Lab. de física,IFPB,24:36:da:2b:bc:00,-73,6
+27/04/2026,15:14:35,107,Lab. de física,IFPB-VISITANTE,24:36:da:2b:bc:02,-73,6
+27/04/2026,15:14:35,107,Lab. de física,IFPB,84:f1:47:54:6b:80,-76,6
+27/04/2026,15:14:35,107,Lab. de física,IFPB-VISITANTE,84:f1:47:54:6b:82,-76,6
+27/04/2026,15:14:35,107,Lab. de física,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:14:35,107,Lab. de física,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:14:35,107,Lab. de física,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-83,11
+27/04/2026,15:14:35,107,Lab. de física,IFPB,2c:57:41:cd:e1:c0,-84,11
+27/04/2026,15:14:35,107,Lab. de física,IFPB,84:f1:47:54:81:00,-85,11
+27/04/2026,15:14:35,107,Lab. de física,IFPB-VISITANTE,84:f1:47:54:81:02,-86,11
+27/04/2026,15:14:45,108,Lab. de física,IFPB-VISITANTE,24:36:da:2b:bc:02,-70,6
+27/04/2026,15:14:45,108,Lab. de física,IFPB,24:36:da:2b:bc:00,-71,6
+27/04/2026,15:14:45,108,Lab. de física,IFPB,84:f1:47:54:6b:80,-73,6
+27/04/2026,15:14:45,108,Lab. de física,IFPB-VISITANTE,84:f1:47:54:6b:82,-73,6
+27/04/2026,15:14:45,108,Lab. de física,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:14:45,108,Lab. de física,IFPB,84:f1:47:54:8b:a0,-79,1
+27/04/2026,15:14:46,108,Lab. de física,IFPB,2c:57:41:cd:e1:c0,-83,11
+27/04/2026,15:14:46,108,Lab. de física,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-84,11
+27/04/2026,15:14:46,108,Lab. de física,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:14:46,108,Lab. de física,IFPB,84:f1:47:54:81:00,-89,11
+27/04/2026,15:14:55,109,Lab. de física,IFPB-VISITANTE,84:f1:47:54:6b:82,-73,6
+27/04/2026,15:14:55,109,Lab. de física,IFPB,84:f1:47:54:6b:80,-73,6
+27/04/2026,15:14:55,109,Lab. de física,IFPB,24:36:da:2b:bc:00,-74,6
+27/04/2026,15:14:55,109,Lab. de física,IFPB-VISITANTE,24:36:da:2b:bc:02,-75,6
+27/04/2026,15:14:55,109,Lab. de física,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,15:14:55,109,Lab. de física,IFPB-VISITANTE,84:f1:47:54:8b:a2,-78,1
+27/04/2026,15:14:56,109,Lab. de física,IFPB,2c:57:41:cd:e1:c0,-85,11
+27/04/2026,15:14:56,109,Lab. de física,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-85,11
+27/04/2026,15:14:56,109,Lab. de física,IFPB,84:f1:47:54:81:00,-87,11
+27/04/2026,15:14:56,109,Lab. de física,IFPB,e4:4e:2d:85:4c:60,-88,11
+27/04/2026,15:14:56,109,Lab. de física,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:14:56,109,Lab. de física,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-89,11
+27/04/2026,15:15:06,110,Lab. de física,IFPB,24:36:da:2b:bc:00,-72,6
+27/04/2026,15:15:06,110,Lab. de física,IFPB-VISITANTE,24:36:da:2b:bc:02,-72,6
+27/04/2026,15:15:06,110,Lab. de física,IFPB-VISITANTE,84:f1:47:54:6b:82,-74,6
+27/04/2026,15:15:06,110,Lab. de física,IFPB,84:f1:47:54:6b:80,-74,6
+27/04/2026,15:15:06,110,Lab. de física,IFPB-VISITANTE,84:f1:47:54:8b:a2,-83,1
+27/04/2026,15:15:06,110,Lab. de física,IFPB,84:f1:47:54:8b:a0,-84,1
+27/04/2026,15:15:06,110,Lab. de física,IFPB,2c:57:41:cd:e1:c0,-84,11
+27/04/2026,15:15:06,110,Lab. de física,IFPB-VISITANTE,2c:57:41:cd:e1:c2,-84,11
+27/04/2026,15:15:06,110,Lab. de física,IFPB-VISITANTE,84:f1:47:54:81:02,-91,11
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB,84:f1:47:54:8b:a0,-69,1
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:8b:a2,-69,1
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:80:62,-85,11
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB,84:f1:47:54:80:60,-86,11
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB-VISITANTE,24:36:da:2b:bc:02,-87,6
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB,24:36:da:2b:bc:00,-87,6
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB,84:f1:47:54:fd:60,-88,1
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:fd:62,-88,1
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB,84:f1:47:54:81:00,-88,11
+27/04/2026,15:15:39,111,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB,84:f1:47:54:8b:a0,-65,1
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:8b:a2,-65,1
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB,84:f1:47:54:fd:60,-85,1
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:fd:62,-85,1
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB,24:36:da:2b:bc:00,-86,6
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:81:02,-87,11
+27/04/2026,15:15:49,112,Núcleo de pesquisa,IFPB,84:f1:47:54:81:00,-88,11
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB,84:f1:47:54:8b:a0,-67,1
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:8b:a2,-67,1
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:80:62,-84,11
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB,24:36:da:2b:bc:00,-85,6
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB,84:f1:47:54:80:60,-85,11
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:fd:62,-86,1
+27/04/2026,15:15:59,113,Núcleo de pesquisa,IFPB,84:f1:47:54:fd:60,-87,1
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB,84:f1:47:54:8b:a0,-67,1
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:8b:a2,-67,1
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB,24:36:da:2b:bc:00,-84,6
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:80:62,-86,11
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:fd:62,-87,1
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB,84:f1:47:54:fd:60,-87,1
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:16:09,114,Núcleo de pesquisa,IFPB,84:f1:47:54:81:00,-89,11
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB,84:f1:47:54:8b:a0,-63,1
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:8b:a2,-64,1
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB,84:f1:47:54:80:60,-83,11
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB-VISITANTE,84:f1:47:54:80:62,-84,11
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB,2c:57:41:d4:a5:20,-88,11
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB-VISITANTE,24:36:da:2b:bc:02,-89,6
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB-VISITANTE,2c:57:41:d4:a5:22,-89,11
+27/04/2026,15:16:19,115,Núcleo de pesquisa,IFPB,24:36:da:2b:bc:00,-90,6
+27/04/2026,15:16:39,116,Coordenação de química,IFPB,84:f1:47:54:8b:a0,-77,1
+27/04/2026,15:16:39,116,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:8b:a2,-77,1
+27/04/2026,15:16:39,116,Coordenação de química,IFPB,84:f1:47:54:fd:60,-79,1
+27/04/2026,15:16:39,116,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:fd:62,-80,1
+27/04/2026,15:16:40,116,Coordenação de química,IFPB,24:36:da:2b:bc:00,-88,6
+27/04/2026,15:16:40,116,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:80:62,-88,11
+27/04/2026,15:16:40,116,Coordenação de química,IFPB,84:f1:47:54:eb:20,-89,6
+27/04/2026,15:16:40,116,Coordenação de química,IFPB-VISITANTE,24:36:da:2b:bc:02,-90,6
+27/04/2026,15:16:40,116,Coordenação de química,IFPB,84:f1:47:54:80:60,-90,11
+27/04/2026,15:16:40,116,Coordenação de química,IFPB,2c:57:41:d4:a5:20,-91,11
+27/04/2026,15:16:49,117,Coordenação de química,IFPB,84:f1:47:54:8b:a0,-74,1
+27/04/2026,15:16:49,117,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,1
+27/04/2026,15:16:49,117,Coordenação de química,IFPB,84:f1:47:54:fd:60,-80,1
+27/04/2026,15:16:49,117,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:fd:62,-80,1
+27/04/2026,15:16:50,117,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:80:62,-85,11
+27/04/2026,15:16:50,117,Coordenação de química,IFPB,84:f1:47:54:80:60,-85,11
+27/04/2026,15:16:50,117,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:81:02,-86,11
+27/04/2026,15:16:50,117,Coordenação de química,IFPB,84:f1:47:54:81:00,-87,11
+27/04/2026,15:16:50,117,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:eb:22,-88,6
+27/04/2026,15:16:50,117,Coordenação de química,IFPB,84:f1:47:54:eb:20,-89,6
+27/04/2026,15:16:59,118,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:8b:a2,-76,1
+27/04/2026,15:16:59,118,Coordenação de química,IFPB,84:f1:47:54:8b:a0,-78,1
+27/04/2026,15:16:59,118,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:fd:62,-79,1
+27/04/2026,15:17:00,118,Coordenação de química,IFPB,84:f1:47:54:fd:60,-80,1
+27/04/2026,15:17:00,118,Coordenação de química,IFPB,84:f1:47:54:80:60,-86,11
+27/04/2026,15:17:00,118,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6
+27/04/2026,15:17:00,118,Coordenação de química,IFPB,84:f1:47:54:eb:20,-88,6
+27/04/2026,15:17:00,118,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:81:02,-88,11
+27/04/2026,15:17:00,118,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:80:62,-88,11
+27/04/2026,15:17:00,118,Coordenação de química,IFPB,84:f1:47:54:81:00,-89,11
+27/04/2026,15:17:10,119,Coordenação de química,IFPB,84:f1:47:54:8b:a0,-75,1
+27/04/2026,15:17:10,119,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,1
+27/04/2026,15:17:10,119,Coordenação de química,IFPB,84:f1:47:54:fd:60,-80,1
+27/04/2026,15:17:10,119,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:fd:62,-80,1
+27/04/2026,15:17:10,119,Coordenação de química,IFPB,84:f1:47:54:eb:20,-87,6
+27/04/2026,15:17:10,119,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:80:62,-87,11
+27/04/2026,15:17:10,119,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:eb:22,-88,6
+27/04/2026,15:17:10,119,Coordenação de química,IFPB,84:f1:47:54:81:00,-88,11
+27/04/2026,15:17:10,119,Coordenação de química,IFPB,84:f1:47:54:80:60,-88,11
+27/04/2026,15:17:10,119,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:81:02,-89,11
+27/04/2026,15:17:20,120,Coordenação de química,IFPB,84:f1:47:54:8b:a0,-75,1
+27/04/2026,15:17:20,120,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,1
+27/04/2026,15:17:20,120,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:fd:62,-80,1
+27/04/2026,15:17:20,120,Coordenação de química,IFPB,84:f1:47:54:fd:60,-81,1
+27/04/2026,15:17:20,120,Coordenação de química,IFPB,84:f1:47:54:81:00,-86,11
+27/04/2026,15:17:20,120,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:81:02,-86,11
+27/04/2026,15:17:20,120,Coordenação de química,IFPB-VISITANTE,84:f1:47:54:eb:22,-89,6
+27/04/2026,15:17:20,120,Coordenação de química,IFPB,84:f1:47:54:eb:20,-89,6

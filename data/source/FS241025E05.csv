@@ -1,0 +1,664 @@
+data,hora,num,ssid,bssid,rssi,canal,ambiente
+24/10/2025,7:35:17,1,IFPB,84:f1:47:54:7f:20,-57,6,Lab. Informática 09
+24/10/2025,7:35:17,1,IFPB-VISITANTE,84:f1:47:54:7f:22,-57,6,Lab. Informática 09
+24/10/2025,7:35:17,1,IFPB,e4:4e:2d:85:4c:60,-85,1,Lab. Informática 09
+24/10/2025,7:35:17,1,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,1,Lab. Informática 09
+24/10/2025,7:35:17,1,IFPB-VISITANTE,2c:57:41:d4:69:c2,-86,11,Lab. Informática 09
+24/10/2025,7:35:17,1,IFPB-VISITANTE,84:f1:47:54:96:e2,-89,6,Lab. Informática 09
+24/10/2025,7:35:26,2,IFPB,84:f1:47:54:7f:20,-58,6,Lab. Informática 09
+24/10/2025,7:35:26,2,IFPB-VISITANTE,84:f1:47:54:7f:22,-58,6,Lab. Informática 09
+24/10/2025,7:35:26,2,IFPB,b8:11:4b:1d:1e:40,-86,6,Lab. Informática 09
+24/10/2025,7:35:26,2,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,1,Lab. Informática 09
+24/10/2025,7:35:26,2,IFPB,e4:4e:2d:85:4c:60,-89,1,Lab. Informática 09
+24/10/2025,7:35:26,2,IFPB-VISITANTE,2c:57:41:d4:69:c2,-92,11,Lab. Informática 09
+24/10/2025,7:35:35,3,IFPB,84:f1:47:54:7f:20,-57,6,Lab. Informática 09
+24/10/2025,7:35:35,3,IFPB-VISITANTE,84:f1:47:54:7f:22,-57,6,Lab. Informática 09
+24/10/2025,7:35:35,3,IFPB,b8:11:4b:1d:1e:40,-83,6,Lab. Informática 09
+24/10/2025,7:35:35,3,IFPB,e4:4e:2d:85:4c:60,-90,1,Lab. Informática 09
+24/10/2025,7:35:35,3,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,1,Lab. Informática 09
+24/10/2025,7:35:44,4,IFPB,84:f1:47:54:7f:20,-58,6,Lab. Informática 09
+24/10/2025,7:35:44,4,IFPB-VISITANTE,84:f1:47:54:7f:22,-58,6,Lab. Informática 09
+24/10/2025,7:35:44,4,IFPB,b8:11:4b:1d:1e:40,-83,6,Lab. Informática 09
+24/10/2025,7:35:44,4,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-84,6,Lab. Informática 09
+24/10/2025,7:35:44,4,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Lab. Informática 09
+24/10/2025,7:35:53,5,IFPB,84:f1:47:54:7f:20,-59,6,Lab. Informática 09
+24/10/2025,7:35:53,5,IFPB-VISITANTE,84:f1:47:54:7f:22,-59,6,Lab. Informática 09
+24/10/2025,7:35:53,5,IFPB,b8:11:4b:1d:1e:40,-84,6,Lab. Informática 09
+24/10/2025,7:35:53,5,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Lab. Informática 09
+24/10/2025,7:35:53,5,IFPB,e4:4e:2d:85:4c:60,-88,1,Lab. Informática 09
+24/10/2025,7:37:30,6,IFPB,84:f1:47:54:7f:20,-68,6,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB-VISITANTE,84:f1:47:54:7f:22,-70,6,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB,84:f1:47:54:96:e0,-82,6,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB,84:f1:47:54:fd:c0,-83,1,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB-VISITANTE,84:f1:47:54:fd:c2,-83,1,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB-VISITANTE,84:f1:47:54:96:e2,-83,6,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB,e4:4e:2d:85:4c:60,-85,1,Sala dos técnicos
+24/10/2025,7:37:30,6,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,1,Sala dos técnicos
+24/10/2025,7:37:39,7,IFPB,84:f1:47:54:7f:20,-68,6,Sala dos técnicos
+24/10/2025,7:37:39,7,IFPB-VISITANTE,84:f1:47:54:7f:22,-68,6,Sala dos técnicos
+24/10/2025,7:37:39,7,IFPB,84:f1:47:54:96:e0,-81,6,Sala dos técnicos
+24/10/2025,7:37:39,7,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,6,Sala dos técnicos
+24/10/2025,7:37:39,7,IFPB,84:f1:47:54:fd:c0,-84,1,Sala dos técnicos
+24/10/2025,7:37:39,7,IFPB-VISITANTE,84:f1:47:54:fd:c2,-84,1,Sala dos técnicos
+24/10/2025,7:37:49,8,IFPB,84:f1:47:54:7f:20,-68,6,Sala dos técnicos
+24/10/2025,7:37:49,8,IFPB-VISITANTE,84:f1:47:54:7f:22,-68,6,Sala dos técnicos
+24/10/2025,7:37:49,8,IFPB,84:f1:47:54:96:e0,-79,6,Sala dos técnicos
+24/10/2025,7:37:49,8,IFPB-VISITANTE,84:f1:47:54:96:e2,-79,6,Sala dos técnicos
+24/10/2025,7:37:49,8,IFPB,84:f1:47:54:fd:c0,-85,1,Sala dos técnicos
+24/10/2025,7:37:49,8,IFPB-VISITANTE,84:f1:47:54:fd:c2,-85,1,Sala dos técnicos
+24/10/2025,7:37:58,9,IFPB-VISITANTE,84:f1:47:54:7f:22,-71,6,Sala dos técnicos
+24/10/2025,7:37:58,9,IFPB,84:f1:47:54:7f:20,-71,6,Sala dos técnicos
+24/10/2025,7:37:58,9,IFPB,84:f1:47:54:96:e0,-81,6,Sala dos técnicos
+24/10/2025,7:37:58,9,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,6,Sala dos técnicos
+24/10/2025,7:37:58,9,IFPB,e4:4e:2d:85:4c:60,-88,1,Sala dos técnicos
+24/10/2025,7:37:58,9,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,1,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB,84:f1:47:54:7f:20,-71,6,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB-VISITANTE,84:f1:47:54:7f:22,-71,6,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB,84:f1:47:54:96:e0,-82,6,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,6,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB-VISITANTE,84:f1:47:54:fd:c2,-86,1,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB,84:f1:47:54:fd:c0,-86,1,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB,e4:4e:2d:85:4c:60,-88,1,Sala dos técnicos
+24/10/2025,7:38:07,10,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Sala dos técnicos
+24/10/2025,7:39:44,11,IFPB,84:f1:47:54:7f:20,-73,6,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB-VISITANTE,84:f1:47:54:7f:22,-76,6,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB,84:f1:47:54:fd:c0,-79,1,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB-VISITANTE,84:f1:47:54:fd:c2,-79,1,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB-VISITANTE,84:f1:47:54:96:e2,-86,6,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB,84:f1:47:54:96:e0,-88,6,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-88,6,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB,84:f1:47:54:71:00,-89,11,Lab. de telecomunicações
+24/10/2025,7:39:44,11,IFPB-VISITANTE,84:f1:47:54:71:02,-90,11,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB,84:f1:47:54:7f:20,-73,6,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB-VISITANTE,84:f1:47:54:7f:22,-73,6,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB,84:f1:47:54:fd:c0,-82,1,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB-VISITANTE,84:f1:47:54:fd:c2,-82,1,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB,84:f1:47:54:96:e0,-86,6,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB-VISITANTE,84:f1:47:54:96:e2,-87,6,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB-VISITANTE,84:f1:47:54:71:02,-89,11,Lab. de telecomunicações
+24/10/2025,7:39:53,12,IFPB,84:f1:47:54:71:00,-89,11,Lab. de telecomunicações
+24/10/2025,7:40:02,13,IFPB,84:f1:47:54:7f:20,-71,6,Lab. de telecomunicações
+24/10/2025,7:40:02,13,IFPB-VISITANTE,84:f1:47:54:7f:22,-71,6,Lab. de telecomunicações
+24/10/2025,7:40:02,13,IFPB-VISITANTE,84:f1:47:54:fd:c2,-83,1,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB,84:f1:47:54:fd:c0,-84,1,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB,84:f1:47:54:96:e0,-85,6,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB-VISITANTE,84:f1:47:54:96:e2,-86,6,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB,e4:4e:2d:85:4c:60,-89,1,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB-VISITANTE,84:f1:47:54:71:02,-89,11,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB,84:f1:47:54:71:00,-89,11,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,1,Lab. de telecomunicações
+24/10/2025,7:40:03,13,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-90,6,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB,84:f1:47:54:7f:20,-74,6,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB-VISITANTE,84:f1:47:54:7f:22,-74,6,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB-VISITANTE,84:f1:47:54:fd:c2,-82,1,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB,84:f1:47:54:fd:c0,-82,1,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB,84:f1:47:54:96:e0,-85,6,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB-VISITANTE,84:f1:47:54:96:e2,-86,6,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,1,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB,e4:4e:2d:85:4c:60,-88,1,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB,84:f1:47:54:71:00,-90,11,Lab. de telecomunicações
+24/10/2025,7:40:12,14,IFPB-VISITANTE,84:f1:47:54:71:02,-91,11,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB,84:f1:47:54:7f:20,-74,6,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB-VISITANTE,84:f1:47:54:7f:22,-75,6,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB-VISITANTE,84:f1:47:54:fd:c2,-84,1,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB,84:f1:47:54:fd:c0,-85,1,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB,84:f1:47:54:96:e0,-85,6,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB,e4:4e:2d:85:4c:60,-89,1,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-90,1,Lab. de telecomunicações
+24/10/2025,7:40:21,15,IFPB-VISITANTE,84:f1:47:54:71:02,-91,11,Lab. de telecomunicações
+24/10/2025,7:41:08,16,IFPB,84:f1:47:54:95:e0,-62,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB-VISITANTE,84:f1:47:54:95:e2,-62,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB,84:f1:47:54:f9:80,-82,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB,b8:11:4b:1d:14:80,-82,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB-VISITANTE,b8:11:4b:1d:14:82,-82,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB-VISITANTE,84:f1:47:54:f9:82,-83,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB,84:f1:47:54:fd:c0,-88,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:08,16,IFPB-VISITANTE,84:f1:47:54:fd:c2,-89,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB,84:f1:47:54:95:e0,-62,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB-VISITANTE,84:f1:47:54:95:e2,-62,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB,b8:11:4b:1d:14:80,-81,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB-VISITANTE,b8:11:4b:1d:14:82,-81,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB,84:f1:47:54:f9:80,-85,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB-VISITANTE,84:f1:47:54:f9:82,-85,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB-VISITANTE,84:f1:47:54:fd:c2,-87,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:17,17,IFPB,84:f1:47:54:fd:c0,-88,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:26,18,IFPB,84:f1:47:54:95:e0,-65,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:26,18,IFPB-VISITANTE,84:f1:47:54:95:e2,-65,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:26,18,IFPB,b8:11:4b:1d:14:80,-87,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:26,18,IFPB-VISITANTE,b8:11:4b:1d:14:82,-87,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:26,18,IFPB,84:f1:47:54:f9:80,-88,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:26,18,IFPB,84:f1:47:54:fd:c0,-89,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB,84:f1:47:54:95:e0,-61,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB-VISITANTE,84:f1:47:54:95:e2,-61,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB-VISITANTE,b8:11:4b:1d:14:82,-80,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB-VISITANTE,84:f1:47:54:f9:82,-84,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB,84:f1:47:54:f9:80,-85,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB,84:f1:47:54:fd:c0,-86,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:35,19,IFPB-VISITANTE,84:f1:47:54:fd:c2,-86,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:44,20,IFPB,84:f1:47:54:95:e0,-64,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:44,20,IFPB-VISITANTE,84:f1:47:54:95:e2,-64,11,Coordenação de Eng. Elétrica
+24/10/2025,7:41:44,20,IFPB,b8:11:4b:1d:14:80,-86,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:44,20,IFPB-VISITANTE,b8:11:4b:1d:14:82,-87,6,Coordenação de Eng. Elétrica
+24/10/2025,7:41:44,20,IFPB,84:f1:47:54:fd:c0,-89,1,Coordenação de Eng. Elétrica
+24/10/2025,7:41:44,20,IFPB-VISITANTE,84:f1:47:54:fd:c2,-89,1,Coordenação de Eng. Elétrica
+24/10/2025,7:42:50,21,IFPB,84:f1:47:54:fd:c0,-60,1,Sala dos professores
+24/10/2025,7:42:50,21,IFPB-VISITANTE,84:f1:47:54:fd:c2,-60,1,Sala dos professores
+24/10/2025,7:42:50,21,IFPB,84:f1:47:54:7f:20,-83,6,Sala dos professores
+24/10/2025,7:42:50,21,IFPB-VISITANTE,84:f1:47:54:7f:22,-85,6,Sala dos professores
+24/10/2025,7:42:50,21,IFPB,84:f1:47:54:95:e0,-87,11,Sala dos professores
+24/10/2025,7:42:50,21,IFPB-VISITANTE,84:f1:47:54:95:e2,-87,11,Sala dos professores
+24/10/2025,7:42:59,22,IFPB,84:f1:47:54:fd:c0,-62,1,Sala dos professores
+24/10/2025,7:42:59,22,IFPB-VISITANTE,84:f1:47:54:fd:c2,-62,1,Sala dos professores
+24/10/2025,7:42:59,22,IFPB-VISITANTE,84:f1:47:54:7f:22,-82,6,Sala dos professores
+24/10/2025,7:42:59,22,IFPB,84:f1:47:54:7f:20,-83,6,Sala dos professores
+24/10/2025,7:42:59,22,IFPB,e4:4e:2d:85:4c:60,-86,1,Sala dos professores
+24/10/2025,7:42:59,22,IFPB,84:f1:47:54:95:e0,-87,11,Sala dos professores
+24/10/2025,7:42:59,22,IFPB-VISITANTE,84:f1:47:54:95:e2,-88,11,Sala dos professores
+24/10/2025,7:43:08,23,IFPB,84:f1:47:54:fd:c0,-63,1,Sala dos professores
+24/10/2025,7:43:08,23,IFPB-VISITANTE,84:f1:47:54:fd:c2,-63,1,Sala dos professores
+24/10/2025,7:43:08,23,IFPB-VISITANTE,84:f1:47:54:7f:22,-82,6,Sala dos professores
+24/10/2025,7:43:08,23,IFPB,84:f1:47:54:7f:20,-82,6,Sala dos professores
+24/10/2025,7:43:08,23,IFPB,e4:4e:2d:85:4c:60,-85,1,Sala dos professores
+24/10/2025,7:43:08,23,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,1,Sala dos professores
+24/10/2025,7:43:08,23,IFPB,84:f1:47:54:96:e0,-85,6,Sala dos professores
+24/10/2025,7:43:08,23,IFPB,4c:e1:75:db:58:80,-88,6,Sala dos professores
+24/10/2025,7:43:08,23,IFPB,84:f1:47:54:95:e0,-88,11,Sala dos professores
+24/10/2025,7:43:08,23,IFPB-VISITANTE,84:f1:47:54:95:e2,-88,11,Sala dos professores
+24/10/2025,7:43:09,23,IFPB-VISITANTE,84:f1:47:54:96:e2,-89,6,Sala dos professores
+24/10/2025,7:43:18,24,IFPB,84:f1:47:54:fd:c0,-63,1,Sala dos professores
+24/10/2025,7:43:18,24,IFPB-VISITANTE,84:f1:47:54:fd:c2,-63,1,Sala dos professores
+24/10/2025,7:43:18,24,IFPB,84:f1:47:54:7f:20,-82,6,Sala dos professores
+24/10/2025,7:43:18,24,IFPB-VISITANTE,84:f1:47:54:7f:22,-83,6,Sala dos professores
+24/10/2025,7:43:18,24,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-84,1,Sala dos professores
+24/10/2025,7:43:18,24,IFPB,e4:4e:2d:85:4c:60,-85,1,Sala dos professores
+24/10/2025,7:43:18,24,IFPB,84:f1:47:54:95:e0,-87,11,Sala dos professores
+24/10/2025,7:43:18,24,IFPB-VISITANTE,84:f1:47:54:95:e2,-87,11,Sala dos professores
+24/10/2025,7:43:18,24,IFPB,84:f1:47:54:96:e0,-88,6,Sala dos professores
+24/10/2025,7:43:18,24,IFPB,4c:e1:75:db:58:80,-89,6,Sala dos professores
+24/10/2025,7:43:18,24,IFPB-VISITANTE,84:f1:47:54:96:e2,-90,6,Sala dos professores
+24/10/2025,7:43:18,24,IFPB-VISITANTE,4c:e1:75:db:58:82,-90,6,Sala dos professores
+24/10/2025,7:43:27,25,IFPB,84:f1:47:54:fd:c0,-63,1,Sala dos professores
+24/10/2025,7:43:27,25,IFPB-VISITANTE,84:f1:47:54:fd:c2,-63,1,Sala dos professores
+24/10/2025,7:43:27,25,IFPB,84:f1:47:54:7f:20,-82,6,Sala dos professores
+24/10/2025,7:43:27,25,IFPB-VISITANTE,84:f1:47:54:7f:22,-84,6,Sala dos professores
+24/10/2025,7:43:27,25,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-85,1,Sala dos professores
+24/10/2025,7:43:27,25,IFPB,e4:4e:2d:85:4c:60,-85,1,Sala dos professores
+24/10/2025,7:43:27,25,IFPB,4c:e1:75:db:58:80,-87,6,Sala dos professores
+24/10/2025,7:44:21,26,IFPB,84:f1:47:54:fd:c0,-77,1,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB-VISITANTE,84:f1:47:54:fd:c2,-77,1,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB,84:f1:47:54:95:e0,-80,11,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB-VISITANTE,84:f1:47:54:95:e2,-80,11,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB-VISITANTE,84:f1:47:54:f9:82,-84,1,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB,84:f1:47:54:7f:20,-84,6,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB,84:f1:47:54:f9:80,-85,1,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB-VISITANTE,84:f1:47:54:7f:22,-85,6,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB,e4:4e:2d:85:4c:60,-89,1,PET Eng. Elétrica
+24/10/2025,7:44:21,26,IFPB,84:f1:47:54:71:00,-89,11,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,84:f1:47:54:fd:c2,-79,1,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB,84:f1:47:54:fd:c0,-79,1,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB,84:f1:47:54:95:e0,-79,11,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,84:f1:47:54:95:e2,-79,11,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB,84:f1:47:54:7f:20,-82,6,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,84:f1:47:54:7f:22,-83,6,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,84:f1:47:54:f9:82,-84,1,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB,84:f1:47:54:f9:80,-85,1,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB,e4:4e:2d:85:4c:60,-87,1,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB,b8:11:4b:1d:1e:40,-88,6,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-89,1,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-89,6,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,84:f1:47:54:96:e2,-91,6,PET Eng. Elétrica
+24/10/2025,7:44:30,27,IFPB-VISITANTE,84:f1:47:54:71:02,-91,11,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB,84:f1:47:54:fd:c0,-79,1,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB-VISITANTE,84:f1:47:54:95:e2,-79,11,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB-VISITANTE,84:f1:47:54:fd:c2,-80,1,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB,84:f1:47:54:95:e0,-80,11,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB-VISITANTE,84:f1:47:54:f9:82,-83,1,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB,84:f1:47:54:7f:20,-83,6,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB-VISITANTE,84:f1:47:54:7f:22,-83,6,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB,84:f1:47:54:f9:80,-84,1,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB,e4:4e:2d:85:4c:60,-88,1,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-89,1,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB,84:f1:47:54:96:e0,-89,6,PET Eng. Elétrica
+24/10/2025,7:44:39,28,IFPB-VISITANTE,84:f1:47:54:96:e2,-89,6,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB-VISITANTE,84:f1:47:54:fd:c2,-77,1,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB,84:f1:47:54:fd:c0,-78,1,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB,84:f1:47:54:95:e0,-80,11,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB-VISITANTE,84:f1:47:54:95:e2,-81,11,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB-VISITANTE,84:f1:47:54:f9:82,-83,1,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB,84:f1:47:54:7f:20,-83,6,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB,84:f1:47:54:f9:80,-85,1,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB-VISITANTE,84:f1:47:54:7f:22,-85,6,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB,e4:4e:2d:85:4c:60,-87,1,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,PET Eng. Elétrica
+24/10/2025,7:44:48,29,IFPB,84:f1:47:54:96:e0,-88,6,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB,84:f1:47:54:fd:c0,-75,1,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB-VISITANTE,84:f1:47:54:fd:c2,-77,1,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB-VISITANTE,84:f1:47:54:95:e2,-81,11,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB,84:f1:47:54:95:e0,-82,11,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB,84:f1:47:54:f9:80,-86,1,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB-VISITANTE,84:f1:47:54:f9:82,-86,1,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB,84:f1:47:54:7f:20,-86,6,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB,e4:4e:2d:85:4c:60,-87,1,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB-VISITANTE,84:f1:47:54:7f:22,-88,6,PET Eng. Elétrica
+24/10/2025,7:44:57,30,IFPB-VISITANTE,b8:11:4b:1d:1e:42,-88,6,PET Eng. Elétrica
+24/10/2025,7:46:01,31,IFPB,84:f1:47:54:96:e0,-66,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB-VISITANTE,84:f1:47:54:96:e2,-66,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB,e4:4e:2d:85:4c:60,-74,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-75,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB-VISITANTE,24:36:da:2b:bc:02,-76,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB,24:36:da:2b:bc:00,-77,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB,84:f1:47:54:6b:80,-88,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:01,31,IFPB-VISITANTE,84:f1:47:54:8b:a2,-90,11,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB,84:f1:47:54:96:e0,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB-VISITANTE,84:f1:47:54:96:e2,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB,e4:4e:2d:85:4c:60,-78,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-78,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB,24:36:da:2b:bc:00,-78,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB,84:f1:47:54:6b:80,-89,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB-VISITANTE,84:f1:47:54:6b:82,-89,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:11,32,IFPB-VISITANTE,84:f1:47:54:8b:a2,-90,11,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB,84:f1:47:54:96:e0,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB-VISITANTE,84:f1:47:54:96:e2,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-77,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB,e4:4e:2d:85:4c:60,-77,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB,24:36:da:2b:bc:00,-78,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB-VISITANTE,24:36:da:2b:bc:02,-78,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB,84:f1:47:54:6b:80,-86,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:20,33,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB-VISITANTE,84:f1:47:54:96:e2,-64,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB,84:f1:47:54:96:e0,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB,e4:4e:2d:85:4c:60,-76,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB,24:36:da:2b:bc:00,-76,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB-VISITANTE,24:36:da:2b:bc:02,-76,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-77,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB,84:f1:47:54:6b:80,-85,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:29,34,IFPB-VISITANTE,84:f1:47:54:6b:82,-85,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB,84:f1:47:54:96:e0,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB-VISITANTE,84:f1:47:54:96:e2,-65,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB,e4:4e:2d:85:4c:60,-77,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-77,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB,24:36:da:2b:bc:00,-77,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB-VISITANTE,24:36:da:2b:bc:02,-77,6,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB,84:f1:47:54:6b:80,-85,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,1,Lab. de medidas em telecomunicações
+24/10/2025,7:46:38,35,IFPB-VISITANTE,84:f1:47:54:8b:a2,-92,11,Lab. de medidas em telecomunicações
+24/10/2025,7:47:05,36,IFPB,84:f1:47:54:96:e0,-59,6,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB-VISITANTE,84:f1:47:54:96:e2,-59,6,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB,e4:4e:2d:85:4c:60,-73,1,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-74,1,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB,84:f1:47:54:6b:80,-82,1,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB-VISITANTE,84:f1:47:54:6b:82,-82,1,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB-VISITANTE,24:36:da:2b:bc:02,-86,6,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB,24:36:da:2b:bc:00,-87,6,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB,84:f1:47:54:f9:80,-88,1,Lab. de aferição e calibração
+24/10/2025,7:47:05,36,IFPB-VISITANTE,84:f1:47:54:f9:82,-88,1,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB,84:f1:47:54:96:e0,-59,6,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB-VISITANTE,84:f1:47:54:96:e2,-59,6,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-74,1,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB,e4:4e:2d:85:4c:60,-74,1,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB,84:f1:47:54:6b:80,-83,1,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB-VISITANTE,84:f1:47:54:6b:82,-84,1,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB,24:36:da:2b:bc:00,-86,6,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB-VISITANTE,24:36:da:2b:bc:02,-86,6,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB,84:f1:47:54:f9:80,-88,1,Lab. de aferição e calibração
+24/10/2025,7:47:14,37,IFPB-VISITANTE,84:f1:47:54:f9:82,-88,1,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB,84:f1:47:54:96:e0,-58,6,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB-VISITANTE,84:f1:47:54:96:e2,-58,6,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB,e4:4e:2d:85:4c:60,-73,1,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-73,1,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB,84:f1:47:54:6b:80,-83,1,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB-VISITANTE,84:f1:47:54:6b:82,-84,1,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB,24:36:da:2b:bc:00,-84,6,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB,84:f1:47:54:f9:80,-89,1,Lab. de aferição e calibração
+24/10/2025,7:47:23,38,IFPB-VISITANTE,84:f1:47:54:f9:82,-89,1,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB,84:f1:47:54:96:e0,-58,6,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB-VISITANTE,84:f1:47:54:96:e2,-58,6,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB,e4:4e:2d:85:4c:60,-73,1,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-73,1,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB,24:36:da:2b:bc:00,-84,6,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB,84:f1:47:54:6b:80,-86,1,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB-VISITANTE,84:f1:47:54:6b:82,-87,1,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB-VISITANTE,84:f1:47:54:f9:82,-87,1,Lab. de aferição e calibração
+24/10/2025,7:47:32,39,IFPB,84:f1:47:54:f9:80,-89,1,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB,84:f1:47:54:96:e0,-59,6,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB-VISITANTE,84:f1:47:54:96:e2,-60,6,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB,e4:4e:2d:85:4c:60,-75,1,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-76,1,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB,24:36:da:2b:bc:00,-84,6,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB-VISITANTE,84:f1:47:54:6b:82,-87,1,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB,84:f1:47:54:6b:80,-89,1,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB,84:f1:47:54:f9:80,-89,1,Lab. de aferição e calibração
+24/10/2025,7:47:42,40,IFPB-VISITANTE,84:f1:47:54:f9:82,-90,1,Lab. de aferição e calibração
+24/10/2025,7:48:22,41,IFPB,84:f1:47:54:96:e0,-70,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB-VISITANTE,84:f1:47:54:96:e2,-71,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB,e4:4e:2d:85:4c:60,-81,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB-VISITANTE,84:f1:47:54:8b:a2,-82,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB,84:f1:47:54:8b:a0,-82,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB,84:f1:47:54:6b:80,-84,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB-VISITANTE,84:f1:47:54:6b:82,-84,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB,84:f1:47:54:f9:80,-85,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB,24:36:da:2b:bc:00,-85,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:22,41,IFPB-VISITANTE,84:f1:47:54:f9:82,-86,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB,84:f1:47:54:96:e0,-71,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB-VISITANTE,84:f1:47:54:96:e2,-71,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB,e4:4e:2d:85:4c:60,-81,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB-VISITANTE,84:f1:47:54:f9:82,-83,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB,84:f1:47:54:f9:80,-83,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB,84:f1:47:54:6b:80,-84,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB,24:36:da:2b:bc:00,-84,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB-VISITANTE,84:f1:47:54:8b:a2,-86,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:31,42,IFPB,84:f1:47:54:8b:a0,-86,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB,84:f1:47:54:96:e0,-71,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB-VISITANTE,84:f1:47:54:96:e2,-71,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB,84:f1:47:54:f9:80,-79,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB-VISITANTE,84:f1:47:54:f9:82,-80,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB,84:f1:47:54:6b:80,-85,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB,24:36:da:2b:bc:00,-85,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB-VISITANTE,24:36:da:2b:bc:02,-85,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB-VISITANTE,84:f1:47:54:6b:82,-86,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-86,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB,e4:4e:2d:85:4c:60,-87,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB-VISITANTE,84:f1:47:54:8b:a2,-89,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:41,43,IFPB,84:f1:47:54:8b:a0,-90,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB,84:f1:47:54:96:e0,-73,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB-VISITANTE,84:f1:47:54:96:e2,-73,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB,84:f1:47:54:f9:80,-81,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB-VISITANTE,84:f1:47:54:f9:82,-81,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB,84:f1:47:54:6b:80,-85,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB-VISITANTE,84:f1:47:54:6b:82,-85,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB,24:36:da:2b:bc:00,-85,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB,e4:4e:2d:85:4c:60,-86,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB,84:f1:47:54:8b:a0,-88,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:50,44,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB-VISITANTE,84:f1:47:54:96:e2,-75,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB,84:f1:47:54:96:e0,-77,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB,e4:4e:2d:85:4c:60,-80,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB,84:f1:47:54:8b:a0,-81,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB-VISITANTE,84:f1:47:54:8b:a2,-81,11,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB-VISITANTE,84:f1:47:54:6b:82,-82,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB,84:f1:47:54:6b:80,-84,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB,24:36:da:2b:bc:00,-84,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB,84:f1:47:54:f9:80,-88,1,Lab. de Instrumentação biomédica
+24/10/2025,7:48:59,45,IFPB-VISITANTE,84:f1:47:54:f9:82,-89,1,Lab. de Instrumentação biomédica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,84:f1:47:54:f9:82,-70,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,84:f1:47:54:f9:80,-71,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,84:f1:47:54:8b:a0,-74,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,84:f1:47:54:8b:a2,-74,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,84:f1:47:54:6b:80,-82,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,84:f1:47:54:96:e0,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,84:f1:47:54:eb:22,-87,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,84:f1:47:54:eb:20,-88,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,e4:4e:2d:85:4c:60,-89,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-91,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,24:36:da:2b:5e:c2,-91,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB-VISITANTE,84:f1:47:54:95:e2,-93,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:35,46,IFPB,84:f1:47:54:95:e0,-93,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,84:f1:47:54:f9:80,-70,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,84:f1:47:54:f9:82,-70,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,84:f1:47:54:8b:a0,-76,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,84:f1:47:54:96:e0,-84,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,84:f1:47:54:96:e2,-84,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,84:f1:47:54:6b:80,-86,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,84:f1:47:54:6b:82,-87,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,84:f1:47:54:eb:20,-88,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,84:f1:47:54:eb:22,-88,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,e4:4e:2d:85:4c:60,-90,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,24:36:da:2b:5e:c2,-90,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB,24:36:da:2b:5e:c0,-90,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,84:f1:47:54:95:e2,-91,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:45,47,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-92,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB-VISITANTE,84:f1:47:54:f9:82,-69,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,84:f1:47:54:f9:80,-69,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,84:f1:47:54:8b:a0,-75,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB-VISITANTE,84:f1:47:54:8b:a2,-75,11,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,84:f1:47:54:eb:20,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB-VISITANTE,84:f1:47:54:eb:22,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,84:f1:47:54:6b:80,-86,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB-VISITANTE,84:f1:47:54:6b:82,-87,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB-VISITANTE,84:f1:47:54:96:e2,-87,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,84:f1:47:54:96:e0,-87,6,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,e4:4e:2d:85:4c:60,-88,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Auditório de Eng. Elétrica
+24/10/2025,7:49:54,48,IFPB,24:36:da:2b:5e:c0,-90,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,84:f1:47:54:f9:80,-70,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,84:f1:47:54:f9:82,-71,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,84:f1:47:54:8b:a0,-74,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,84:f1:47:54:8b:a2,-74,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,84:f1:47:54:6b:80,-82,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,84:f1:47:54:6b:82,-83,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,84:f1:47:54:eb:20,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,84:f1:47:54:eb:22,-86,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,84:f1:47:54:96:e0,-86,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,84:f1:47:54:96:e2,-86,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,e4:4e:2d:85:4c:60,-87,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB,24:36:da:2b:5e:c0,-89,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:03,49,IFPB-VISITANTE,24:36:da:2b:5e:c2,-90,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB,84:f1:47:54:f9:80,-69,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB-VISITANTE,84:f1:47:54:f9:82,-69,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB-VISITANTE,84:f1:47:54:8b:a2,-73,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB,84:f1:47:54:8b:a0,-73,11,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB,84:f1:47:54:6b:80,-85,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB-VISITANTE,84:f1:47:54:6b:82,-85,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB,84:f1:47:54:96:e0,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB,e4:4e:2d:85:4c:60,-86,1,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB,84:f1:47:54:eb:20,-86,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB-VISITANTE,84:f1:47:54:eb:22,-86,6,Auditório de Eng. Elétrica
+24/10/2025,7:50:12,50,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,1,Auditório de Eng. Elétrica
+24/10/2025,7:52:16,51,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-76,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:16,51,IFPB,e4:4e:2d:85:4c:60,-77,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:16,51,IFPB,84:f1:47:54:eb:20,-80,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:16,51,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:16,51,IFPB-VISITANTE,24:36:da:2b:bc:02,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:16,51,IFPB,24:36:da:2b:bc:00,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:25,52,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-74,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:25,52,IFPB,e4:4e:2d:85:4c:60,-75,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:25,52,IFPB,84:f1:47:54:eb:20,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:25,52,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:25,52,IFPB,24:36:da:2b:bc:00,-84,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:25,52,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:35,53,IFPB,e4:4e:2d:85:4c:60,-74,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:35,53,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-74,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:35,53,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:35,53,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:35,53,IFPB,24:36:da:2b:bc:00,-82,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:35,53,IFPB,84:f1:47:54:eb:20,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:44,54,IFPB,e4:4e:2d:85:4c:60,-73,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:44,54,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-74,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:44,54,IFPB,84:f1:47:54:eb:20,-82,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:44,54,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:44,54,IFPB,24:36:da:2b:bc:00,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:44,54,IFPB-VISITANTE,24:36:da:2b:bc:02,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:53,55,IFPB,e4:4e:2d:85:4c:60,-74,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:53,55,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-74,1,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:53,55,IFPB,84:f1:47:54:eb:20,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:53,55,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:53,55,IFPB-VISITANTE,24:36:da:2b:bc:02,-84,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:52:53,55,IFPB,24:36:da:2b:bc:00,-84,6,Coordenação de pós em Eng. Elétrica
+24/10/2025,7:53:29,56,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-58,1,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB,e4:4e:2d:85:4c:60,-58,1,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB,24:36:da:2b:bc:00,-79,6,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB-VISITANTE,24:36:da:2b:bc:02,-80,6,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB,84:f1:47:54:96:e0,-88,6,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB-VISITANTE,84:f1:47:54:96:e2,-89,6,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB,84:f1:47:54:eb:20,-89,6,Lab. de redes convergentes
+24/10/2025,7:53:29,56,IFPB-VISITANTE,84:f1:47:54:eb:22,-92,6,Lab. de redes convergentes
+24/10/2025,7:53:38,57,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-62,1,Lab. de redes convergentes
+24/10/2025,7:53:38,57,IFPB,e4:4e:2d:85:4c:60,-62,1,Lab. de redes convergentes
+24/10/2025,7:53:38,57,IFPB,24:36:da:2b:bc:00,-79,6,Lab. de redes convergentes
+24/10/2025,7:53:38,57,IFPB-VISITANTE,24:36:da:2b:bc:02,-79,6,Lab. de redes convergentes
+24/10/2025,7:53:38,57,IFPB,84:f1:47:54:96:e0,-82,6,Lab. de redes convergentes
+24/10/2025,7:53:38,57,IFPB-VISITANTE,84:f1:47:54:96:e2,-82,6,Lab. de redes convergentes
+24/10/2025,7:53:48,58,IFPB,e4:4e:2d:85:4c:60,-62,1,Lab. de redes convergentes
+24/10/2025,7:53:48,58,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-62,1,Lab. de redes convergentes
+24/10/2025,7:53:48,58,IFPB,24:36:da:2b:bc:00,-80,6,Lab. de redes convergentes
+24/10/2025,7:53:48,58,IFPB-VISITANTE,24:36:da:2b:bc:02,-81,6,Lab. de redes convergentes
+24/10/2025,7:53:48,58,IFPB-VISITANTE,84:f1:47:54:96:e2,-81,6,Lab. de redes convergentes
+24/10/2025,7:53:48,58,IFPB,84:f1:47:54:96:e0,-82,6,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-62,1,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB,e4:4e:2d:85:4c:60,-62,1,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB,24:36:da:2b:bc:00,-81,6,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB-VISITANTE,24:36:da:2b:bc:02,-82,6,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB,84:f1:47:54:96:e0,-86,6,Lab. de redes convergentes
+24/10/2025,7:53:57,59,IFPB,84:f1:47:54:eb:20,-91,6,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB,e4:4e:2d:85:4c:60,-61,1,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-61,1,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB,84:f1:47:54:96:e0,-85,6,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB-VISITANTE,24:36:da:2b:bc:02,-87,6,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB,24:36:da:2b:bc:00,-88,6,Lab. de redes convergentes
+24/10/2025,7:54:06,60,IFPB,84:f1:47:54:eb:20,-89,6,Lab. de redes convergentes
+24/10/2025,7:54:39,61,IFPB,e4:4e:2d:85:4c:60,-67,1,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-67,1,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB,84:f1:47:54:eb:20,-81,6,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB,84:f1:47:54:96:e0,-85,6,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB-VISITANTE,84:f1:47:54:96:e2,-86,6,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB-VISITANTE,24:36:da:2b:bc:02,-87,6,Lab. de fibras ópticas
+24/10/2025,7:54:39,61,IFPB,24:36:da:2b:bc:00,-87,6,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB,e4:4e:2d:85:4c:60,-71,1,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-71,1,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB,84:f1:47:54:eb:20,-83,6,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB-VISITANTE,24:36:da:2b:bc:02,-83,6,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB,24:36:da:2b:bc:00,-84,6,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB,84:f1:47:54:96:e0,-87,6,Lab. de fibras ópticas
+24/10/2025,7:54:48,62,IFPB-VISITANTE,84:f1:47:54:96:e2,-88,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB,e4:4e:2d:85:4c:60,-65,1,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-66,1,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB-VISITANTE,24:36:da:2b:bc:02,-80,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB,24:36:da:2b:bc:00,-80,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB,84:f1:47:54:eb:20,-82,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB-VISITANTE,84:f1:47:54:96:e2,-83,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB,84:f1:47:54:96:e0,-84,6,Lab. de fibras ópticas
+24/10/2025,7:54:57,63,IFPB,84:f1:47:54:8b:a0,-93,11,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB,e4:4e:2d:85:4c:60,-66,1,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-66,1,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB,24:36:da:2b:bc:00,-81,6,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB-VISITANTE,24:36:da:2b:bc:02,-81,6,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB,84:f1:47:54:96:e0,-83,6,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB-VISITANTE,84:f1:47:54:96:e2,-83,6,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB,84:f1:47:54:eb:20,-85,6,Lab. de fibras ópticas
+24/10/2025,7:55:06,64,IFPB-VISITANTE,84:f1:47:54:eb:22,-85,6,Lab. de fibras ópticas
+24/10/2025,7:55:07,64,IFPB,84:f1:47:54:8b:a0,-90,11,Lab. de fibras ópticas
+24/10/2025,7:55:07,64,IFPB-VISITANTE,84:f1:47:54:8b:a2,-90,11,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB,e4:4e:2d:85:4c:60,-66,1,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-67,1,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB-VISITANTE,24:36:da:2b:bc:02,-83,6,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB,24:36:da:2b:bc:00,-83,6,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB,84:f1:47:54:96:e0,-85,6,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB,84:f1:47:54:eb:20,-86,6,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB-VISITANTE,84:f1:47:54:eb:22,-88,6,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB-VISITANTE,84:f1:47:54:6b:82,-89,1,Lab. de fibras ópticas
+24/10/2025,7:55:16,65,IFPB,84:f1:47:54:6b:80,-91,1,Lab. de fibras ópticas
+24/10/2025,8:13:36,66,IFPB,84:f1:47:54:eb:20,-82,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB,e4:4e:2d:85:4c:60,-86,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-86,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB-VISITANTE,84:f1:47:54:96:e2,-87,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB,84:f1:47:54:96:e0,-88,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB,84:f1:47:54:8b:a0,-89,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB-VISITANTE,84:f1:47:54:f9:82,-90,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:36,66,IFPB-VISITANTE,84:f1:47:54:8b:a2,-90,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB,e4:4e:2d:85:4c:60,-82,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB,84:f1:47:54:eb:20,-82,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB-VISITANTE,84:f1:47:54:eb:22,-83,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB-VISITANTE,84:f1:47:54:96:e2,-85,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB,84:f1:47:54:f9:80,-86,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB,84:f1:47:54:96:e0,-86,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB-VISITANTE,84:f1:47:54:f9:82,-87,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB,84:f1:47:54:8b:a0,-88,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:45,67,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB,e4:4e:2d:85:4c:60,-81,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-81,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB,84:f1:47:54:eb:20,-81,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB-VISITANTE,84:f1:47:54:eb:22,-82,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB-VISITANTE,84:f1:47:54:8b:a2,-86,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB,84:f1:47:54:f9:80,-87,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB-VISITANTE,84:f1:47:54:96:e2,-87,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB,84:f1:47:54:8b:a0,-89,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:13:55,68,IFPB-VISITANTE,84:f1:47:54:f9:82,-91,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB,84:f1:47:54:eb:20,-81,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-82,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB,e4:4e:2d:85:4c:60,-83,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB,84:f1:47:54:96:e0,-86,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB-VISITANTE,84:f1:47:54:f9:82,-87,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB-VISITANTE,84:f1:47:54:96:e2,-87,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB,84:f1:47:54:f9:80,-88,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:04,69,IFPB,84:f1:47:54:8b:a0,-89,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB-VISITANTE,84:f1:47:54:eb:22,-80,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB,84:f1:47:54:eb:20,-81,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-83,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB,e4:4e:2d:85:4c:60,-84,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB-VISITANTE,84:f1:47:54:96:e2,-84,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB,84:f1:47:54:f9:80,-87,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB-VISITANTE,84:f1:47:54:f9:82,-87,1,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB,84:f1:47:54:96:e0,-87,6,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB-VISITANTE,84:f1:47:54:8b:a2,-88,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:13,70,IFPB,84:f1:47:54:8b:a0,-88,11,Pesquisa em Eng. Elétrica
+24/10/2025,8:14:48,71,IFPB,84:f1:47:54:eb:20,-76,6,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB-VISITANTE,84:f1:47:54:eb:22,-76,6,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB,84:f1:47:54:f9:80,-82,1,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB-VISITANTE,84:f1:47:54:f9:82,-82,1,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB,84:f1:47:54:8b:a0,-87,11,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB-VISITANTE,84:f1:47:54:8b:a2,-87,11,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Práticas didáticas
+24/10/2025,8:14:48,71,IFPB,e4:4e:2d:85:4c:60,-89,1,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB,84:f1:47:54:eb:20,-77,6,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB-VISITANTE,84:f1:47:54:eb:22,-77,6,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB-VISITANTE,84:f1:47:54:f9:82,-80,1,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB,84:f1:47:54:f9:80,-81,1,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB-VISITANTE,84:f1:47:54:8b:a2,-86,11,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB,84:f1:47:54:8b:a0,-86,11,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB,e4:4e:2d:85:4c:60,-87,1,Práticas didáticas
+24/10/2025,8:14:57,72,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-88,1,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB,84:f1:47:54:eb:20,-76,6,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB-VISITANTE,84:f1:47:54:eb:22,-76,6,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB-VISITANTE,84:f1:47:54:f9:82,-81,1,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB,84:f1:47:54:f9:80,-82,1,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB,84:f1:47:54:8b:a0,-85,11,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB-VISITANTE,84:f1:47:54:8b:a2,-86,11,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB,e4:4e:2d:85:4c:60,-87,1,Práticas didáticas
+24/10/2025,8:15:06,73,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,1,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB,84:f1:47:54:eb:20,-81,6,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB-VISITANTE,84:f1:47:54:f9:82,-83,1,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB-VISITANTE,84:f1:47:54:8b:a2,-83,11,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB,84:f1:47:54:f9:80,-84,1,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB,84:f1:47:54:8b:a0,-84,11,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB-VISITANTE,e4:4e:2d:85:4c:62,-87,1,Práticas didáticas
+24/10/2025,8:15:16,74,IFPB,e4:4e:2d:85:4c:60,-88,1,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB-VISITANTE,84:f1:47:54:eb:22,-81,6,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB-VISITANTE,84:f1:47:54:f9:82,-82,1,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB,84:f1:47:54:eb:20,-82,6,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB,84:f1:47:54:f9:80,-83,1,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB-VISITANTE,84:f1:47:54:8b:a2,-85,11,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB,84:f1:47:54:8b:a0,-85,11,Práticas didáticas
+24/10/2025,8:15:25,75,IFPB-VISITANTE,24:36:da:2b:bc:02,-90,6,Práticas didáticas

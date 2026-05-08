@@ -1,0 +1,332 @@
+Local,Roteador,Canal,Minimo,Maximo,Quantidade,NumRoteador
+Auditório de Eng. Elétrica,24:36:da:2b:5e:c0,1,-89,-87,5,Roteador 01
+Auditório de Eng. Elétrica,24:36:da:2b:5e:c2,1,-88,-87,5,Roteador 01
+Auditório de Eng. Elétrica,24:36:da:2b:bc:00,6,-90,-85,9,Roteador 02
+Auditório de Eng. Elétrica,24:36:da:2b:bc:02,6,-91,-83,10,Roteador 02
+Auditório de Eng. Elétrica,84:f1:47:54:6b:80,6,-82,-79,10,Roteador 03
+Auditório de Eng. Elétrica,84:f1:47:54:6b:82,6,-83,-79,10,Roteador 03
+Auditório de Eng. Elétrica,84:f1:47:54:8b:a0,1,-88,-78,10,Roteador 04
+Auditório de Eng. Elétrica,84:f1:47:54:8b:a2,1,-88,-78,10,Roteador 04
+Auditório de Eng. Elétrica,84:f1:47:54:95:e0,11,-91,-88,7,Roteador 05
+Auditório de Eng. Elétrica,84:f1:47:54:95:e2,11,-90,-88,6,Roteador 05
+Auditório de Eng. Elétrica,84:f1:47:54:96:e0,1,-87,-79,10,Roteador 06
+Auditório de Eng. Elétrica,84:f1:47:54:96:e2,1,-87,-80,10,Roteador 06
+Auditório de Eng. Elétrica,84:f1:47:54:eb:20,6,-90,-87,4,Roteador 07
+Auditório de Eng. Elétrica,84:f1:47:54:eb:22,6,-90,-87,6,Roteador 07
+Auditório de Eng. Elétrica,84:f1:47:54:f9:80,11,-79,-70,10,Roteador 08
+Auditório de Eng. Elétrica,84:f1:47:54:f9:82,11,-79,-70,10,Roteador 08
+Auditório de Eng. Elétrica,e4:4e:2d:85:4c:60,11,-90,-90,1,Roteador 09
+Auditório de Eng. Elétrica,e4:4e:2d:85:4c:62,11,-90,-90,1,Roteador 09
+Coordenação de Eng. Elétrica,24:36:da:2b:5e:c0,1,-90,-89,2,Roteador 01
+Coordenação de Eng. Elétrica,24:36:da:2b:5e:c2,1,-90,-88,4,Roteador 01
+Coordenação de Eng. Elétrica,84:f1:47:54:95:e0,11,-64,-56,10,Roteador 05
+Coordenação de Eng. Elétrica,84:f1:47:54:95:e2,11,-64,-56,10,Roteador 05
+Coordenação de Eng. Elétrica,84:f1:47:54:96:e0,1,-89,-89,3,Roteador 06
+Coordenação de Eng. Elétrica,84:f1:47:54:96:e2,1,-89,-88,3,Roteador 06
+Coordenação de Eng. Elétrica,84:f1:47:54:f9:80,11,-77,-75,10,Roteador 08
+Coordenação de Eng. Elétrica,84:f1:47:54:f9:82,11,-77,-75,10,Roteador 08
+Coordenação de Eng. Elétrica,84:f1:47:54:fd:c0,1,-90,-82,7,Roteador 10
+Coordenação de Eng. Elétrica,84:f1:47:54:fd:c2,1,-92,-86,7,Roteador 10
+Coordenação de Eng. Elétrica,b8:11:4b:1d:14:80,6,-83,-79,10,Roteador 11
+Coordenação de Eng. Elétrica,b8:11:4b:1d:14:82,6,-81,-79,10,Roteador 11
+Coordenação de pós em Eng. Elétrica,24:36:da:2b:bc:00,6,-88,-82,10,Roteador 02
+Coordenação de pós em Eng. Elétrica,24:36:da:2b:bc:02,6,-87,-81,10,Roteador 02
+Coordenação de pós em Eng. Elétrica,84:f1:47:54:eb:20,6,-88,-86,3,Roteador 07
+Coordenação de pós em Eng. Elétrica,84:f1:47:54:eb:22,6,-90,-89,3,Roteador 07
+Coordenação de pós em Eng. Elétrica,e4:4e:2d:85:4c:60,11,-79,-76,10,Roteador 09
+Coordenação de pós em Eng. Elétrica,e4:4e:2d:85:4c:62,11,-80,-75,10,Roteador 09
+Coordenação de pós em Eng. Elétrica,24:36:da:9f:fb:80,11,-89,-87,6,Roteador 12
+Coordenação de pós em Eng. Elétrica,24:36:da:9f:fb:82,11,-89,-86,6,Roteador 12
+Coordenação de química,24:36:da:2b:bc:00,6,-89,-89,2,Roteador 02
+Coordenação de química,24:36:da:2b:bc:02,6,-88,-88,1,Roteador 02
+Coordenação de química,84:f1:47:54:8b:a0,1,-80,-72,10,Roteador 04
+Coordenação de química,84:f1:47:54:8b:a2,1,-80,-72,10,Roteador 04
+Coordenação de química,84:f1:47:54:fd:60,1,-76,-69,10,Roteador 10
+Coordenação de química,84:f1:47:54:fd:62,1,-76,-70,10,Roteador 10
+Coordenação de química,2c:57:41:d4:a5:20,11,-91,-90,3,Roteador 13
+Coordenação de química,2c:57:41:d4:a5:22,11,-91,-90,2,Roteador 13
+Coordenação de química,84:f1:47:54:80:60,11,-89,-83,9,Roteador 14
+Coordenação de química,84:f1:47:54:80:62,11,-88,-84,8,Roteador 14
+Coordenação de química,84:f1:47:54:81:00,11,-91,-91,1,Roteador 15
+Coordenação de química,84:f1:47:54:81:02,11,-92,-92,1,Roteador 15
+Lab. Informática 09,84:f1:47:54:95:e0,11,-90,-90,1,Roteador 05
+Lab. Informática 09,84:f1:47:54:96:e0,1,-87,-82,10,Roteador 06
+Lab. Informática 09,84:f1:47:54:96:e2,1,-86,-81,10,Roteador 06
+Lab. Informática 09,e4:4e:2d:85:4c:60,11,-80,-78,10,Roteador 09
+Lab. Informática 09,e4:4e:2d:85:4c:62,11,-80,-77,10,Roteador 09
+Lab. Informática 09,84:f1:47:54:fd:c0,1,-89,-84,10,Roteador 10
+Lab. Informática 09,84:f1:47:54:fd:c2,1,-87,-84,10,Roteador 10
+Lab. Informática 09,2c:57:41:d4:69:c0,1,-86,-82,10,Roteador 16
+Lab. Informática 09,2c:57:41:d4:69:c2,1,-86,-83,10,Roteador 16
+Lab. Informática 09,84:f1:47:54:7f:20,11,-66,-62,10,Roteador 17
+Lab. Informática 09,84:f1:47:54:7f:22,11,-65,-62,10,Roteador 17
+Lab. Informática 09,b8:11:4b:1d:1e:40,6,-89,-84,7,Roteador 18
+Lab. Informática 09,b8:11:4b:1d:1e:42,6,-90,-83,8,Roteador 18
+Lab. de Instrumentação biomédica,24:36:da:2b:5e:c0,1,-89,-86,6,Roteador 01
+Lab. de Instrumentação biomédica,24:36:da:2b:5e:c2,1,-88,-87,3,Roteador 01
+Lab. de Instrumentação biomédica,24:36:da:2b:bc:00,6,-80,-74,10,Roteador 02
+Lab. de Instrumentação biomédica,24:36:da:2b:bc:02,6,-80,-74,10,Roteador 02
+Lab. de Instrumentação biomédica,84:f1:47:54:6b:80,6,-83,-77,10,Roteador 03
+Lab. de Instrumentação biomédica,84:f1:47:54:6b:82,6,-83,-78,10,Roteador 03
+Lab. de Instrumentação biomédica,84:f1:47:54:8b:a0,1,-85,-80,10,Roteador 04
+Lab. de Instrumentação biomédica,84:f1:47:54:8b:a2,1,-84,-79,10,Roteador 04
+Lab. de Instrumentação biomédica,84:f1:47:54:96:e0,1,-71,-67,10,Roteador 06
+Lab. de Instrumentação biomédica,84:f1:47:54:96:e2,1,-71,-67,10,Roteador 06
+Lab. de Instrumentação biomédica,84:f1:47:54:f9:80,11,-85,-79,10,Roteador 08
+Lab. de Instrumentação biomédica,84:f1:47:54:f9:82,11,-85,-79,10,Roteador 08
+Lab. de Instrumentação biomédica,e4:4e:2d:85:4c:60,11,-78,-75,10,Roteador 09
+Lab. de Instrumentação biomédica,e4:4e:2d:85:4c:62,11,-78,-75,10,Roteador 09
+Lab. de aferição e calibração,24:36:da:2b:5e:c0,1,-90,-86,7,Roteador 01
+Lab. de aferição e calibração,24:36:da:2b:5e:c2,1,-90,-87,6,Roteador 01
+Lab. de aferição e calibração,24:36:da:2b:bc:00,6,-77,-68,10,Roteador 02
+Lab. de aferição e calibração,24:36:da:2b:bc:02,6,-77,-68,10,Roteador 02
+Lab. de aferição e calibração,84:f1:47:54:6b:80,6,-86,-76,10,Roteador 03
+Lab. de aferição e calibração,84:f1:47:54:6b:82,6,-85,-76,10,Roteador 03
+Lab. de aferição e calibração,84:f1:47:54:8b:a0,1,-91,-87,3,Roteador 04
+Lab. de aferição e calibração,84:f1:47:54:8b:a2,1,-90,-88,3,Roteador 04
+Lab. de aferição e calibração,84:f1:47:54:96:e0,1,-62,-56,10,Roteador 06
+Lab. de aferição e calibração,84:f1:47:54:96:e2,1,-62,-56,10,Roteador 06
+Lab. de aferição e calibração,84:f1:47:54:f9:80,11,-91,-88,5,Roteador 08
+Lab. de aferição e calibração,84:f1:47:54:f9:82,11,-92,-87,5,Roteador 08
+Lab. de aferição e calibração,e4:4e:2d:85:4c:60,11,-80,-75,10,Roteador 09
+Lab. de aferição e calibração,e4:4e:2d:85:4c:62,11,-80,-75,10,Roteador 09
+Lab. de aferição e calibração,84:f1:47:54:97:00,1,-89,-89,1,Roteador 19
+Lab. de aferição e calibração,84:f1:47:54:97:02,1,-88,-88,1,Roteador 19
+Lab. de biologia,24:36:da:2b:bc:00,6,-72,-64,10,Roteador 02
+Lab. de biologia,24:36:da:2b:bc:02,6,-72,-64,10,Roteador 02
+Lab. de biologia,84:f1:47:54:6b:80,6,-76,-70,10,Roteador 03
+Lab. de biologia,84:f1:47:54:6b:82,6,-76,-70,10,Roteador 03
+Lab. de biologia,84:f1:47:54:8b:a0,1,-85,-80,10,Roteador 04
+Lab. de biologia,84:f1:47:54:8b:a2,1,-84,-79,10,Roteador 04
+Lab. de biologia,84:f1:47:54:96:e0,1,-90,-89,4,Roteador 06
+Lab. de biologia,84:f1:47:54:96:e2,1,-91,-89,4,Roteador 06
+Lab. de biologia,e4:4e:2d:85:4c:60,11,-91,-90,3,Roteador 09
+Lab. de biologia,e4:4e:2d:85:4c:62,11,-91,-90,3,Roteador 09
+Lab. de biologia,84:f1:47:54:fd:60,1,-91,-88,7,Roteador 10
+Lab. de biologia,84:f1:47:54:fd:62,1,-91,-88,6,Roteador 10
+Lab. de biologia,84:f1:47:54:81:00,11,-87,-84,4,Roteador 15
+Lab. de biologia,84:f1:47:54:81:02,11,-88,-85,4,Roteador 15
+Lab. de biologia,2c:57:41:cd:e1:c0,11,-89,-89,1,Roteador 20
+Lab. de biologia,2c:57:41:cd:e1:c2,11,-89,-89,1,Roteador 20
+Lab. de fibras ópticas,24:36:da:2b:bc:00,6,-85,-73,10,Roteador 02
+Lab. de fibras ópticas,24:36:da:2b:bc:02,6,-85,-73,10,Roteador 02
+Lab. de fibras ópticas,84:f1:47:54:8b:a0,1,-89,-86,5,Roteador 04
+Lab. de fibras ópticas,84:f1:47:54:8b:a2,1,-88,-86,5,Roteador 04
+Lab. de fibras ópticas,84:f1:47:54:96:e0,1,-76,-70,10,Roteador 06
+Lab. de fibras ópticas,84:f1:47:54:96:e2,1,-76,-71,10,Roteador 06
+Lab. de fibras ópticas,84:f1:47:54:eb:20,6,-89,-85,8,Roteador 07
+Lab. de fibras ópticas,84:f1:47:54:eb:22,6,-89,-86,9,Roteador 07
+Lab. de fibras ópticas,e4:4e:2d:85:4c:60,11,-64,-58,10,Roteador 09
+Lab. de fibras ópticas,e4:4e:2d:85:4c:62,11,-63,-57,10,Roteador 09
+Lab. de física,24:36:da:2b:bc:00,6,-70,-66,10,Roteador 02
+Lab. de física,24:36:da:2b:bc:02,6,-70,-66,10,Roteador 02
+Lab. de física,84:f1:47:54:6b:80,6,-72,-69,10,Roteador 03
+Lab. de física,84:f1:47:54:6b:82,6,-72,-70,10,Roteador 03
+Lab. de física,84:f1:47:54:8b:a0,1,-83,-76,10,Roteador 04
+Lab. de física,84:f1:47:54:8b:a2,1,-83,-76,10,Roteador 04
+Lab. de física,84:f1:47:54:fd:60,1,-91,-87,3,Roteador 10
+Lab. de física,84:f1:47:54:fd:62,1,-91,-89,3,Roteador 10
+Lab. de física,84:f1:47:54:81:00,11,-88,-87,3,Roteador 15
+Lab. de física,84:f1:47:54:81:02,11,-90,-89,2,Roteador 15
+Lab. de física,2c:57:41:cd:e1:c0,11,-88,-82,7,Roteador 20
+Lab. de física,2c:57:41:cd:e1:c2,11,-89,-82,8,Roteador 20
+Lab. de matemática,84:f1:47:54:6b:80,6,-85,-80,10,Roteador 03
+Lab. de matemática,84:f1:47:54:6b:82,6,-84,-80,10,Roteador 03
+Lab. de matemática,84:f1:47:54:8b:a0,1,-84,-77,10,Roteador 04
+Lab. de matemática,84:f1:47:54:8b:a2,1,-84,-77,10,Roteador 04
+Lab. de matemática,84:f1:47:54:f9:80,11,-92,-92,1,Roteador 08
+Lab. de matemática,84:f1:47:54:f9:82,11,-91,-88,3,Roteador 08
+Lab. de matemática,84:f1:47:54:fd:60,1,-87,-83,10,Roteador 10
+Lab. de matemática,84:f1:47:54:fd:62,1,-87,-83,10,Roteador 10
+Lab. de matemática,2c:57:41:d4:a5:20,11,-90,-85,9,Roteador 13
+Lab. de matemática,2c:57:41:d4:a5:22,11,-93,-85,8,Roteador 13
+Lab. de matemática,84:f1:47:54:80:60,11,-82,-75,10,Roteador 14
+Lab. de matemática,84:f1:47:54:80:62,11,-83,-76,10,Roteador 14
+Lab. de matemática,84:f1:47:54:7f:60,6,-89,-87,3,Roteador 21
+Lab. de matemática,84:f1:47:54:7f:62,6,-86,-86,1,Roteador 21
+Lab. de medidas em telecomunicações,24:36:da:2b:5e:c0,1,-91,-87,9,Roteador 01
+Lab. de medidas em telecomunicações,24:36:da:2b:5e:c2,1,-92,-87,8,Roteador 01
+Lab. de medidas em telecomunicações,24:36:da:2b:bc:00,6,-77,-70,10,Roteador 02
+Lab. de medidas em telecomunicações,24:36:da:2b:bc:02,6,-77,-69,10,Roteador 02
+Lab. de medidas em telecomunicações,84:f1:47:54:6b:80,6,-89,-89,3,Roteador 03
+Lab. de medidas em telecomunicações,84:f1:47:54:6b:82,6,-91,-87,4,Roteador 03
+Lab. de medidas em telecomunicações,84:f1:47:54:8b:a0,1,-89,-87,5,Roteador 04
+Lab. de medidas em telecomunicações,84:f1:47:54:8b:a2,1,-89,-86,7,Roteador 04
+Lab. de medidas em telecomunicações,84:f1:47:54:96:e0,1,-76,-65,10,Roteador 06
+Lab. de medidas em telecomunicações,84:f1:47:54:96:e2,1,-75,-67,10,Roteador 06
+Lab. de medidas em telecomunicações,84:f1:47:54:f9:80,11,-90,-89,5,Roteador 08
+Lab. de medidas em telecomunicações,84:f1:47:54:f9:82,11,-91,-88,5,Roteador 08
+Lab. de medidas em telecomunicações,e4:4e:2d:85:4c:60,11,-80,-74,10,Roteador 09
+Lab. de medidas em telecomunicações,e4:4e:2d:85:4c:62,11,-80,-73,10,Roteador 09
+Lab. de medidas em telecomunicações,84:f1:47:54:97:00,1,-91,-85,8,Roteador 19
+Lab. de medidas em telecomunicações,84:f1:47:54:97:02,1,-90,-86,9,Roteador 19
+Lab. de medidas em telecomunicações,84:f1:47:54:7f:60,6,-90,-86,9,Roteador 21
+Lab. de medidas em telecomunicações,84:f1:47:54:7f:62,6,-89,-85,8,Roteador 21
+Lab. de microscopia,84:f1:47:54:6b:80,6,-84,-79,10,Roteador 03
+Lab. de microscopia,84:f1:47:54:6b:82,6,-84,-78,10,Roteador 03
+Lab. de microscopia,84:f1:47:54:8b:a0,1,-80,-74,10,Roteador 04
+Lab. de microscopia,84:f1:47:54:8b:a2,1,-81,-73,10,Roteador 04
+Lab. de microscopia,84:f1:47:54:f9:80,11,-89,-89,1,Roteador 08
+Lab. de microscopia,84:f1:47:54:f9:82,11,-90,-90,2,Roteador 08
+Lab. de microscopia,84:f1:47:54:fd:60,1,-88,-85,9,Roteador 10
+Lab. de microscopia,84:f1:47:54:fd:62,1,-88,-85,9,Roteador 10
+Lab. de microscopia,2c:57:41:d4:a5:20,11,-90,-83,6,Roteador 13
+Lab. de microscopia,2c:57:41:d4:a5:22,11,-88,-83,8,Roteador 13
+Lab. de microscopia,84:f1:47:54:80:60,11,-81,-72,10,Roteador 14
+Lab. de microscopia,84:f1:47:54:80:62,11,-80,-73,10,Roteador 14
+Lab. de microscopia,84:f1:47:54:7f:60,6,-89,-86,5,Roteador 21
+Lab. de microscopia,84:f1:47:54:7f:62,6,-90,-87,6,Roteador 21
+Lab. de redes convergentes,24:36:da:2b:bc:00,6,-81,-74,10,Roteador 02
+Lab. de redes convergentes,24:36:da:2b:bc:02,6,-80,-74,10,Roteador 02
+Lab. de redes convergentes,84:f1:47:54:96:e0,1,-89,-81,10,Roteador 06
+Lab. de redes convergentes,84:f1:47:54:96:e2,1,-86,-80,10,Roteador 06
+Lab. de redes convergentes,84:f1:47:54:eb:20,6,-90,-86,4,Roteador 07
+Lab. de redes convergentes,84:f1:47:54:eb:22,6,-89,-87,6,Roteador 07
+Lab. de redes convergentes,e4:4e:2d:85:4c:60,11,-62,-58,10,Roteador 09
+Lab. de redes convergentes,e4:4e:2d:85:4c:62,11,-62,-58,10,Roteador 09
+Lab. de telecomunicações,84:f1:47:54:95:e0,11,-89,-86,8,Roteador 05
+Lab. de telecomunicações,84:f1:47:54:95:e2,11,-89,-85,8,Roteador 05
+Lab. de telecomunicações,84:f1:47:54:96:e0,1,-87,-78,10,Roteador 06
+Lab. de telecomunicações,84:f1:47:54:96:e2,1,-88,-78,10,Roteador 06
+Lab. de telecomunicações,84:f1:47:54:f9:80,11,-90,-86,8,Roteador 08
+Lab. de telecomunicações,84:f1:47:54:f9:82,11,-91,-86,8,Roteador 08
+Lab. de telecomunicações,e4:4e:2d:85:4c:60,11,-89,-83,10,Roteador 09
+Lab. de telecomunicações,e4:4e:2d:85:4c:62,11,-89,-83,10,Roteador 09
+Lab. de telecomunicações,84:f1:47:54:fd:c0,1,-82,-77,10,Roteador 10
+Lab. de telecomunicações,84:f1:47:54:fd:c2,1,-82,-77,10,Roteador 10
+Lab. de telecomunicações,2c:57:41:d4:69:c0,1,-87,-87,1,Roteador 16
+Lab. de telecomunicações,2c:57:41:d4:69:c2,1,-87,-87,1,Roteador 16
+Lab. de telecomunicações,84:f1:47:54:7f:20,11,-76,-71,10,Roteador 17
+Lab. de telecomunicações,84:f1:47:54:7f:22,11,-75,-71,10,Roteador 17
+Lab. de telecomunicações,b8:11:4b:1d:1e:40,6,-92,-89,2,Roteador 18
+Lab. de telecomunicações,b8:11:4b:1d:1e:42,6,-90,-89,3,Roteador 18
+Lab. de telecomunicações,84:f1:47:54:71:00,1,-86,-83,10,Roteador 22
+Lab. de telecomunicações,84:f1:47:54:71:02,1,-85,-83,10,Roteador 22
+Lab. química 01,24:36:da:2b:bc:00,6,-78,-74,10,Roteador 02
+Lab. química 01,24:36:da:2b:bc:02,6,-78,-75,10,Roteador 02
+Lab. química 01,84:f1:47:54:6b:80,6,-65,-56,10,Roteador 03
+Lab. química 01,84:f1:47:54:6b:82,6,-65,-56,10,Roteador 03
+Lab. química 01,84:f1:47:54:8b:a0,1,-89,-88,3,Roteador 04
+Lab. química 01,84:f1:47:54:8b:a2,1,-89,-87,3,Roteador 04
+Lab. química 01,84:f1:47:54:80:60,11,-92,-89,5,Roteador 14
+Lab. química 01,84:f1:47:54:80:62,11,-91,-88,6,Roteador 14
+Lab. química 01,84:f1:47:54:81:00,11,-91,-91,1,Roteador 15
+Lab. química 01,84:f1:47:54:81:02,11,-91,-91,1,Roteador 15
+Lab. química 01,2c:57:41:cd:e1:c0,11,-87,-80,8,Roteador 20
+Lab. química 01,2c:57:41:cd:e1:c2,11,-88,-81,7,Roteador 20
+Lab. química 01,84:f1:47:54:7f:60,6,-87,-81,10,Roteador 21
+Lab. química 01,84:f1:47:54:7f:62,6,-86,-80,10,Roteador 21
+Lab. química 01,24:36:da:a2:7f:40,6,-89,-87,5,Roteador 23
+Lab. química 01,24:36:da:a2:7f:42,6,-89,-88,5,Roteador 23
+Lab. química 02,24:36:da:2b:bc:00,6,-81,-74,10,Roteador 02
+Lab. química 02,24:36:da:2b:bc:02,6,-81,-74,10,Roteador 02
+Lab. química 02,84:f1:47:54:6b:80,6,-68,-60,10,Roteador 03
+Lab. química 02,84:f1:47:54:6b:82,6,-68,-60,10,Roteador 03
+Lab. química 02,84:f1:47:54:8b:a0,1,-90,-85,7,Roteador 04
+Lab. química 02,84:f1:47:54:8b:a2,1,-91,-88,6,Roteador 04
+Lab. química 02,84:f1:47:54:80:60,11,-92,-90,2,Roteador 14
+Lab. química 02,84:f1:47:54:80:62,11,-91,-89,4,Roteador 14
+Lab. química 02,84:f1:47:54:81:00,11,-91,-89,6,Roteador 15
+Lab. química 02,84:f1:47:54:81:02,11,-92,-90,5,Roteador 15
+Lab. química 02,2c:57:41:cd:e1:c0,11,-90,-87,4,Roteador 20
+Lab. química 02,2c:57:41:cd:e1:c2,11,-91,-87,4,Roteador 20
+Lab. química 02,84:f1:47:54:7f:60,6,-86,-80,10,Roteador 21
+Lab. química 02,84:f1:47:54:7f:62,6,-86,-79,10,Roteador 21
+Lab. química 02,24:36:da:a2:7f:40,6,-88,-87,7,Roteador 23
+Lab. química 02,24:36:da:a2:7f:42,6,-89,-86,8,Roteador 23
+Lab. química 02,b8:11:4b:1d:12:00,11,-91,-91,1,Roteador 24
+Lab. química 02,b8:11:4b:1d:12:02,11,-94,-90,2,Roteador 24
+Lab. química 03,24:36:da:2b:bc:00,6,-82,-73,10,Roteador 02
+Lab. química 03,24:36:da:2b:bc:02,6,-83,-71,10,Roteador 02
+Lab. química 03,84:f1:47:54:6b:80,6,-78,-74,10,Roteador 03
+Lab. química 03,84:f1:47:54:6b:82,6,-78,-74,10,Roteador 03
+Lab. química 03,84:f1:47:54:81:00,11,-88,-81,9,Roteador 15
+Lab. química 03,84:f1:47:54:81:02,11,-89,-82,10,Roteador 15
+Lab. química 03,84:f1:47:54:97:00,1,-91,-87,4,Roteador 19
+Lab. química 03,84:f1:47:54:97:02,1,-91,-87,4,Roteador 19
+Lab. química 03,2c:57:41:cd:e1:c0,11,-91,-89,4,Roteador 20
+Lab. química 03,2c:57:41:cd:e1:c2,11,-89,-88,4,Roteador 20
+Lab. química 03,84:f1:47:54:7f:60,6,-81,-78,9,Roteador 21
+Lab. química 03,84:f1:47:54:7f:62,6,-80,-77,10,Roteador 21
+Lab. química 03,24:36:da:a2:7f:40,6,-90,-82,9,Roteador 23
+Lab. química 03,24:36:da:a2:7f:42,6,-90,-82,9,Roteador 23
+Lab. química 03,b8:11:4b:1d:12:00,11,-83,-75,10,Roteador 24
+Lab. química 03,b8:11:4b:1d:12:02,11,-82,-76,9,Roteador 24
+Núcleo de pesquisa,24:36:da:2b:bc:00,6,-89,-83,8,Roteador 02
+Núcleo de pesquisa,24:36:da:2b:bc:02,6,-90,-82,7,Roteador 02
+Núcleo de pesquisa,84:f1:47:54:6b:80,6,-89,-87,2,Roteador 03
+Núcleo de pesquisa,84:f1:47:54:6b:82,6,-90,-88,2,Roteador 03
+Núcleo de pesquisa,84:f1:47:54:8b:a0,1,-70,-63,10,Roteador 04
+Núcleo de pesquisa,84:f1:47:54:8b:a2,1,-70,-62,10,Roteador 04
+Núcleo de pesquisa,84:f1:47:54:f9:80,11,-91,-90,2,Roteador 08
+Núcleo de pesquisa,84:f1:47:54:f9:82,11,-92,-89,2,Roteador 08
+Núcleo de pesquisa,84:f1:47:54:fd:60,1,-81,-76,10,Roteador 10
+Núcleo de pesquisa,84:f1:47:54:fd:62,1,-81,-76,10,Roteador 10
+Núcleo de pesquisa,84:f1:47:54:80:60,11,-91,-84,6,Roteador 14
+Núcleo de pesquisa,84:f1:47:54:80:62,11,-90,-85,7,Roteador 14
+Núcleo de pesquisa,84:f1:47:54:81:00,11,-92,-89,3,Roteador 15
+Núcleo de pesquisa,84:f1:47:54:81:02,11,-93,-90,5,Roteador 15
+PET Eng. Elétrica,84:f1:47:54:95:e0,11,-80,-74,10,Roteador 05
+PET Eng. Elétrica,84:f1:47:54:95:e2,11,-81,-74,10,Roteador 05
+PET Eng. Elétrica,84:f1:47:54:96:e0,1,-79,-73,10,Roteador 06
+PET Eng. Elétrica,84:f1:47:54:96:e2,1,-80,-73,10,Roteador 06
+PET Eng. Elétrica,84:f1:47:54:f9:80,11,-83,-80,10,Roteador 08
+PET Eng. Elétrica,84:f1:47:54:f9:82,11,-83,-79,10,Roteador 08
+PET Eng. Elétrica,e4:4e:2d:85:4c:60,11,-86,-81,9,Roteador 09
+PET Eng. Elétrica,e4:4e:2d:85:4c:62,11,-85,-80,9,Roteador 09
+PET Eng. Elétrica,84:f1:47:54:fd:c0,1,-82,-70,10,Roteador 10
+PET Eng. Elétrica,84:f1:47:54:fd:c2,1,-83,-70,10,Roteador 10
+PET Eng. Elétrica,b8:11:4b:1d:14:80,6,-86,-86,1,Roteador 11
+PET Eng. Elétrica,b8:11:4b:1d:14:82,6,-85,-85,1,Roteador 11
+PET Eng. Elétrica,2c:57:41:d4:69:c2,1,-90,-90,1,Roteador 16
+PET Eng. Elétrica,84:f1:47:54:7f:20,11,-88,-85,8,Roteador 17
+PET Eng. Elétrica,84:f1:47:54:7f:22,11,-89,-84,8,Roteador 17
+PET Eng. Elétrica,b8:11:4b:1d:1e:40,6,-89,-88,2,Roteador 18
+PET Eng. Elétrica,b8:11:4b:1d:1e:42,6,-90,-87,5,Roteador 18
+PET Eng. Elétrica,84:f1:47:54:71:00,1,-88,-85,8,Roteador 22
+PET Eng. Elétrica,84:f1:47:54:71:02,1,-89,-85,7,Roteador 22
+Pesquisa em Eng. Elétrica,24:36:da:2b:bc:00,6,-89,-85,9,Roteador 02
+Pesquisa em Eng. Elétrica,24:36:da:2b:bc:02,6,-88,-84,9,Roteador 02
+Pesquisa em Eng. Elétrica,84:f1:47:54:6b:82,6,-89,-89,1,Roteador 03
+Pesquisa em Eng. Elétrica,84:f1:47:54:8b:a0,1,-88,-83,10,Roteador 04
+Pesquisa em Eng. Elétrica,84:f1:47:54:8b:a2,1,-88,-84,10,Roteador 04
+Pesquisa em Eng. Elétrica,84:f1:47:54:96:e0,1,-92,-87,8,Roteador 06
+Pesquisa em Eng. Elétrica,84:f1:47:54:96:e2,1,-90,-88,7,Roteador 06
+Pesquisa em Eng. Elétrica,84:f1:47:54:eb:20,6,-88,-82,10,Roteador 07
+Pesquisa em Eng. Elétrica,84:f1:47:54:eb:22,6,-89,-82,10,Roteador 07
+Pesquisa em Eng. Elétrica,84:f1:47:54:f9:80,11,-91,-90,2,Roteador 08
+Pesquisa em Eng. Elétrica,84:f1:47:54:f9:82,11,-89,-89,1,Roteador 08
+Pesquisa em Eng. Elétrica,e4:4e:2d:85:4c:60,11,-84,-80,9,Roteador 09
+Pesquisa em Eng. Elétrica,e4:4e:2d:85:4c:62,11,-84,-79,9,Roteador 09
+Práticas didáticas,84:f1:47:54:8b:a0,1,-87,-81,10,Roteador 04
+Práticas didáticas,84:f1:47:54:8b:a2,1,-87,-81,10,Roteador 04
+Práticas didáticas,84:f1:47:54:95:e0,11,-90,-88,6,Roteador 05
+Práticas didáticas,84:f1:47:54:95:e2,11,-90,-88,6,Roteador 05
+Práticas didáticas,84:f1:47:54:eb:20,6,-87,-78,10,Roteador 07
+Práticas didáticas,84:f1:47:54:eb:22,6,-85,-79,10,Roteador 07
+Práticas didáticas,84:f1:47:54:f9:80,11,-87,-81,10,Roteador 08
+Práticas didáticas,84:f1:47:54:f9:82,11,-88,-80,10,Roteador 08
+Práticas didáticas,e4:4e:2d:85:4c:60,11,-89,-85,7,Roteador 09
+Práticas didáticas,e4:4e:2d:85:4c:62,11,-89,-84,7,Roteador 09
+Sala dos professores,84:f1:47:54:95:e0,11,-92,-84,10,Roteador 05
+Sala dos professores,84:f1:47:54:95:e2,11,-90,-83,10,Roteador 05
+Sala dos professores,e4:4e:2d:85:4c:60,11,-90,-86,7,Roteador 09
+Sala dos professores,e4:4e:2d:85:4c:62,11,-90,-86,7,Roteador 09
+Sala dos professores,84:f1:47:54:fd:c0,1,-67,-59,10,Roteador 10
+Sala dos professores,84:f1:47:54:fd:c2,1,-68,-59,10,Roteador 10
+Sala dos técnicos,84:f1:47:54:95:e0,11,-89,-87,8,Roteador 05
+Sala dos técnicos,84:f1:47:54:95:e2,11,-89,-86,8,Roteador 05
+Sala dos técnicos,84:f1:47:54:96:e0,1,-80,-68,10,Roteador 06
+Sala dos técnicos,84:f1:47:54:96:e2,1,-80,-68,10,Roteador 06
+Sala dos técnicos,84:f1:47:54:f9:80,11,-90,-82,10,Roteador 08
+Sala dos técnicos,84:f1:47:54:f9:82,11,-91,-82,10,Roteador 08
+Sala dos técnicos,e4:4e:2d:85:4c:60,11,-85,-79,10,Roteador 09
+Sala dos técnicos,e4:4e:2d:85:4c:62,11,-85,-79,10,Roteador 09
+Sala dos técnicos,84:f1:47:54:fd:c0,1,-85,-81,10,Roteador 10
+Sala dos técnicos,84:f1:47:54:fd:c2,1,-85,-79,10,Roteador 10
+Sala dos técnicos,2c:57:41:d4:69:c0,1,-89,-88,4,Roteador 16
+Sala dos técnicos,2c:57:41:d4:69:c2,1,-93,-88,3,Roteador 16
+Sala dos técnicos,84:f1:47:54:7f:20,11,-79,-73,9,Roteador 17
+Sala dos técnicos,84:f1:47:54:7f:22,11,-79,-73,10,Roteador 17
+Sala dos técnicos,b8:11:4b:1d:1e:40,6,-90,-89,2,Roteador 18
+Sala dos técnicos,b8:11:4b:1d:1e:42,6,-90,-89,2,Roteador 18

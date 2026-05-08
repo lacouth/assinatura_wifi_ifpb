@@ -1,0 +1,181 @@
+data,hora,num,ambiente,predição
+08/05/2026,16:47:36,1,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,2,Lab. Informática 09,Lab. de Telecomunicações
+08/05/2026,16:47:36,3,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,4,Lab. Informática 09,Lab. de Telecomunicações
+08/05/2026,16:47:36,5,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,6,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,7,Lab. Informática 09,Lab. de Telecomunicações
+08/05/2026,16:47:36,8,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,9,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,10,Lab. Informática 09,Lab. Informática 09
+08/05/2026,16:47:36,11,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,12,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,13,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,14,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,15,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,16,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,17,Lab. de Telecomunicações,PET Eng. Elétrica
+08/05/2026,16:47:36,18,Lab. de Telecomunicações,PET Eng. Elétrica
+08/05/2026,16:47:36,19,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,20,Lab. de Telecomunicações,Lab. de Telecomunicações
+08/05/2026,16:47:36,21,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,22,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,23,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,24,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,25,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,26,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,27,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,28,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,29,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,30,PET Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,31,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,32,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,33,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,34,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,35,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,36,Coordenação de Eng. Elétrica,PET Eng. Elétrica
+08/05/2026,16:47:36,37,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,38,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,39,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,40,Coordenação de Eng. Elétrica,Coordenação de Eng. Elétrica
+08/05/2026,16:47:36,41,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,42,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,43,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,44,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,45,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,46,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,47,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,48,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,49,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,50,Auditório de Eng. Elétrica,Auditório de Eng. Elétrica
+08/05/2026,16:47:36,51,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,52,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,53,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,54,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,55,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,56,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,57,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,58,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,59,Lab. de Instrumentação biomédica,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,60,Lab. de Instrumentação biomédica,Lab. de Medição e Calibração
+08/05/2026,16:47:36,61,Lab. de Medição e Calibração,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,62,Lab. de Medição e Calibração,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,63,Lab. de Medição e Calibração,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,64,Lab. de Medição e Calibração,Lab. de Instrumentação biomédica
+08/05/2026,16:47:36,65,Lab. de Medição e Calibração,Lab. de Medição e Calibração
+08/05/2026,16:47:36,66,Lab. de Medição e Calibração,Lab. de Medição e Calibração
+08/05/2026,16:47:36,67,Lab. de Medição e Calibração,Lab. de Medição e Calibração
+08/05/2026,16:47:36,68,Lab. de Medição e Calibração,Lab. de Medição e Calibração
+08/05/2026,16:47:36,69,Lab. de Medição e Calibração,Lab. de Medição e Calibração
+08/05/2026,16:47:36,70,Lab. de Medição e Calibração,Lab. de Medição e Calibração
+08/05/2026,16:47:36,71,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,72,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,73,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,74,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,75,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,76,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,77,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,78,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,79,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,80,Coordenação de pós em Eng. Elétrica,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,81,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,82,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,83,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,84,Lab. de redes convergentes,Lab. de fibras ópticas
+08/05/2026,16:47:36,85,Lab. de redes convergentes,Lab. de fibras ópticas
+08/05/2026,16:47:36,86,Lab. de redes convergentes,Lab. de fibras ópticas
+08/05/2026,16:47:36,87,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,88,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,89,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,90,Lab. de redes convergentes,Lab. de redes convergentes
+08/05/2026,16:47:36,91,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,92,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,93,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,94,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,95,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,96,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,97,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,98,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,99,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,100,Lab. de fibras ópticas,Lab. de Medição e Calibração
+08/05/2026,16:47:36,101,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,102,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,103,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,104,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,105,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,106,Pesquisa em Eng. Elétrica,Práticas didáticas
+08/05/2026,16:47:36,107,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,108,Pesquisa em Eng. Elétrica,Práticas didáticas
+08/05/2026,16:47:36,109,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,110,Pesquisa em Eng. Elétrica,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,111,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,112,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,113,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,114,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,115,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,116,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,117,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,118,Práticas didáticas,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,119,Práticas didáticas,Práticas didáticas
+08/05/2026,16:47:36,120,Práticas didáticas,Pesquisa em Eng. Elétrica
+08/05/2026,16:47:36,121,Sala dos professores,Sala dos professores
+08/05/2026,16:47:36,122,Sala dos professores,Sala dos professores
+08/05/2026,16:47:36,123,Sala dos professores,Sala dos professores
+08/05/2026,16:47:36,124,Sala dos professores,PET Eng. Elétrica
+08/05/2026,16:47:36,125,Sala dos professores,PET Eng. Elétrica
+08/05/2026,16:47:36,126,Sala dos professores,PET Eng. Elétrica
+08/05/2026,16:47:36,127,Sala dos professores,PET Eng. Elétrica
+08/05/2026,16:47:36,128,Sala dos professores,PET Eng. Elétrica
+08/05/2026,16:47:36,129,Sala dos professores,Sala dos professores
+08/05/2026,16:47:36,130,Sala dos professores,Sala dos professores
+08/05/2026,16:47:36,131,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,132,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,133,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,134,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,135,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,136,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,137,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,138,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,139,Lab. química 03,Lab. química 03
+08/05/2026,16:47:36,140,Lab. química 03,Coordenação de pós em Eng. Elétrica
+08/05/2026,16:47:36,141,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,142,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,143,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,144,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,145,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,146,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,147,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,148,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,149,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,150,Lab. química 01,Lab. química 01
+08/05/2026,16:47:36,151,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,152,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,153,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,154,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,155,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,156,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,157,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,158,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,159,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,160,Lab. Analítico,Lab. Analítico
+08/05/2026,16:47:36,161,Lab. de Ciências,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,162,Lab. de Ciências,Lab. de Ciências
+08/05/2026,16:47:36,163,Lab. de Ciências,Lab. de Ciências
+08/05/2026,16:47:36,164,Lab. de Ciências,Lab. de Ciências
+08/05/2026,16:47:36,165,Lab. de Ciências,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,166,Lab. de Ciências,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,167,Lab. de Ciências,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,168,Lab. de Ciências,Lab. de Ciências
+08/05/2026,16:47:36,169,Lab. de Ciências,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,170,Lab. de Ciências,Lab. de Ciências
+08/05/2026,16:47:36,171,Núcleo de Pesquisa e Atendimento,Lab. Analítico
+08/05/2026,16:47:36,172,Núcleo de Pesquisa e Atendimento,Lab. Analítico
+08/05/2026,16:47:36,173,Núcleo de Pesquisa e Atendimento,Lab. Analítico
+08/05/2026,16:47:36,174,Núcleo de Pesquisa e Atendimento,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,175,Núcleo de Pesquisa e Atendimento,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,176,Núcleo de Pesquisa e Atendimento,Núcleo de Pesquisa e Atendimento
+08/05/2026,16:47:36,177,Núcleo de Pesquisa e Atendimento,Lab. Analítico
+08/05/2026,16:47:36,178,Núcleo de Pesquisa e Atendimento,Lab. Analítico
+08/05/2026,16:47:36,179,Núcleo de Pesquisa e Atendimento,Lab. Analítico
+08/05/2026,16:47:36,180,Núcleo de Pesquisa e Atendimento,Lab. Analítico
